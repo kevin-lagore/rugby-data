@@ -1,0 +1,277 @@
+season,tournament,date,home_team,away_team,team,player_name,shirt_number,position,is_starter,sub_minute_off,sub_minute_on,minutes_played,espn_match_id,source
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Dane Haylett-Petty,15,FB,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Filipo Daugunu,14,W,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Jordan Petaia,13,C,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Irae Simone,12,C,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Marika Koroibete,11,W,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Noah Lolesio,10,FH,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Nic White,9,SH,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,James Slipper,1,P,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Brandon Paenga-Amosa,2,H,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Allan Alaalatoa,3,P,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Lukhan Salakaia-Loto,4,L,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Matt Philip,5,L,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Ned Hanigan,6,FL,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Michael Hooper,7,FL,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Harry Wilson,8,N8,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Jordan Uelese,16,R,False,,60,20,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Scott Sio,17,R,False,,60,20,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Taniela Tupou,18,R,False,,54,26,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Rob Simmons,19,R,False,,45,35,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Fraser McReight,20,R,False,,68,12,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Tate McDermott,21,R,False,,60,20,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Reece Hodge,22,R,False,,64,16,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,Australia,Hunter Paisami,23,R,False,,68,12,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Beauden Barrett,15,FB,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Jordie Barrett,14,W,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Anton Lienert-Brown,13,C,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Jack Goodhue,12,C,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Caleb Clarke,11,W,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Richie Mo'unga,10,FH,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Aaron Smith,9,SH,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Karl Tu'inukuafe,1,P,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Dane Coles,2,H,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Ofa Tu'ungafasi,3,P,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Patrick Tuipulotu,4,L,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Sam Whitelock,5,L,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Shannon Frizell,6,FL,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Sam Cane,7,FL,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Hoskins Sotutu,8,N8,True,,0,80,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Codie Taylor,16,R,False,,46,34,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Alex Hodgman,17,R,False,,46,34,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Tyrel Lomax,18,R,False,,58,22,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Scott Barrett,19,R,False,,55,25,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Dalton Papali'i,20,R,False,,68,12,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,TJ Perenara,21,R,False,,55,25,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Ngani Laumape,22,R,False,,60,20,592923,espn
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,New Zealand,Rieko Ioane,23,R,False,,66,14,592923,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Tom Banks,15,FB,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Tom Wright,14,W,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Jordan Petaia,13,C,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Hunter Paisami,12,C,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Marika Koroibete,11,W,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Reece Hodge,10,FH,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Nic White,9,SH,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,James Slipper,1,P,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Brandon Paenga-Amosa,2,H,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Allan Alaalatoa,3,P,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Rob Simmons,4,L,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Matt Philip,5,L,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Lachlan Swinton,6,FL,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Michael Hooper,7,FL,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Harry Wilson,8,N8,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Folau Fainga'a,16,R,False,,65,15,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Angus Bell,17,R,False,,41,39,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Taniela Tupou,18,R,False,,53,27,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Ned Hanigan,19,R,False,,53,27,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Liam Wright,20,R,False,,70,10,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Tate McDermott,21,R,False,,68,12,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Noah Lolesio,22,R,False,,65,15,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,Australia,Filipo Daugunu,23,R,False,,68,12,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Jordie Barrett,15,FB,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Sevu Reece,14,W,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Anton Lienert-Brown,13,C,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Ngani Laumape,12,C,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Rieko Ioane,11,W,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Beauden Barrett,10,FH,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,TJ Perenara,9,SH,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Karl Tu'inukuafe,1,P,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Codie Taylor,2,H,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Ofa Tu'ungafasi,3,P,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Scott Barrett,4,L,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Sam Whitelock,5,L,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Akira Ioane,6,FL,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Sam Cane,7,FL,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Ardie Savea,8,N8,True,,0,80,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Asafo Aumua,16,R,False,,70,10,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Alex Hodgman,17,R,False,,50,30,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Tyrel Lomax,18,R,False,,29,51,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Tupou Vaa'i,19,R,False,,78,2,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Cullen Grace,20,R,False,,78,2,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Brad Weber,21,R,False,,77,3,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Damian McKenzie,22,R,False,,70,10,592924,espn
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,New Zealand,Will Jordan,23,R,False,,65,15,592924,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Beauden Barrett,15,FB,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Jordie Barrett,14,W,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Anton Lienert-Brown,13,C,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Jack Goodhue,12,C,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Caleb Clarke,11,W,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Richie Mo'unga,10,FH,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Aaron Smith,9,SH,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Joe Moody,1,P,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Dane Coles,2,H,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Tyrel Lomax,3,P,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Patrick Tuipulotu,4,L,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Sam Whitelock,5,L,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Shannon Frizell,6,FL,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Sam Cane,7,FL,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Ardie Savea,8,N8,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Codie Taylor,16,R,False,,49,31,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Alex Hodgman,17,R,False,,73,7,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Nepo Laulala,18,R,False,,58,22,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Tupou Vaa'i,19,R,False,,70,10,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Hoskins Sotutu,20,R,False,,50,30,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Brad Weber,21,R,False,,63,17,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Rieko Ioane,22,R,False,,50,30,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,New Zealand,Damian McKenzie,23,R,False,,64,16,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Santiago Carreras,15,FB,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Bautista Delguy,14,W,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Matias Orlando,13,C,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Santiago Chocobares,12,C,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Juan Imhoff,11,W,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Nicolas Sanchez,10,FH,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Tomas Cubelli,9,SH,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Nahuel Tetaz Chaparro,1,P,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Julian Montoya,2,H,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Francisco Gomez Kodela,3,P,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Guido Petti,4,L,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Matias Alemanno,5,L,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Pablo Matera,6,FL,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Marcos Kremer,7,FL,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Rodrigo Bruni,8,N8,True,,0,80,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Facundo Bosch,16,R,False,,77,3,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Mayco Vivas,17,R,False,,72,8,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Santiago Medrano,18,R,False,,72,8,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Santiago Grondona,19,R,False,,54,26,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Tomas Lezana,20,R,False,,73,7,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Gonzalo Bertranou,21,R,False,,77,3,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Lucio Cinti,22,R,False,,,0,592925,espn
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,Argentina,Santiago Cordero,23,R,False,,30,50,592925,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Santiago Carreras,15,FB,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Bautista Delguy,14,W,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Matias Orlando,13,C,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Santiago Chocobares,12,C,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Juan Imhoff,11,W,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Nicolas Sanchez,10,FH,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Gonzalo Bertranou,9,SH,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Nahuel Tetaz Chaparro,1,P,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Julian Montoya,2,H,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Francisco Gomez Kodela,3,P,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Guido Petti,4,L,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Matias Alemanno,5,L,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Pablo Matera,6,FL,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Marcos Kremer,7,FL,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Rodrigo Bruni,8,N8,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Santiago Socino,16,R,False,,50,30,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Mayco Vivas,17,R,False,,41,39,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Santiago Medrano,18,R,False,,57,23,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Santiago Grondona,19,R,False,,64,16,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Facundo Isa,20,R,False,,57,23,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Felipe Ezcurra,21,R,False,,,0,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Emiliano Boffelli,22,R,False,,15,65,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Argentina,Santiago Cordero,23,R,False,,59,21,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Tom Banks,15,FB,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Tom Wright,14,W,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Jordan Petaia,13,C,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Hunter Paisami,12,C,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Marika Koroibete,11,W,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Reece Hodge,10,FH,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Nic White,9,SH,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Scott Sio,1,P,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Brandon Paenga-Amosa,2,H,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Taniela Tupou,3,P,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Rob Simmons,4,L,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Matt Philip,5,L,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Ned Hanigan,6,FL,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Michael Hooper,7,FL,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Harry Wilson,8,N8,True,,0,80,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Folau Fainga'a,16,R,False,,54,26,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Angus Bell,17,R,False,,64,16,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Allan Alaalatoa,18,R,False,,41,39,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Rob Valetini,19,R,False,,64,16,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Liam Wright,20,R,False,,68,12,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Jake Gordon,21,R,False,,68,12,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Noah Lolesio,22,R,False,,,0,592926,espn
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,Australia,Filipo Daugunu,23,R,False,,65,15,592926,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Emiliano Boffelli,15,FB,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Santiago Cordero,14,W,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Juan Cruz Mallia,13,C,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Jeronimo de la Fuente,12,C,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Ramiro Moyano,11,W,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Nicolas Sanchez,10,FH,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Felipe Ezcurra,9,SH,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Mayco Vivas,1,P,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Julian Montoya,2,H,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Santiago Medrano,3,P,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Guido Petti,4,L,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Lucas Paulos,5,L,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Pablo Matera,6,FL,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Marcos Kremer,7,FL,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Facundo Isa,8,N8,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Santiago Socino,16,R,False,,67,13,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Nahuel Tetaz Chaparro,17,R,False,,56,24,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Lucio Sordoni,18,R,False,,56,24,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Matias Alemanno,19,R,False,,60,20,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Santiago Grondona,20,R,False,,61,19,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Gonzalo Bertranou,21,R,False,,67,13,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Santiago Carreras,22,R,False,,63,17,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,Argentina,Lucas Mensa,23,R,False,,60,20,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Beauden Barrett,15,FB,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Jordie Barrett,14,W,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Anton Lienert-Brown,13,C,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Jack Goodhue,12,C,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Caleb Clarke,11,W,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Richie Mo'unga,10,FH,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Aaron Smith,9,SH,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Joe Moody,1,P,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Dane Coles,2,H,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Nepo Laulala,3,P,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Scott Barrett,4,L,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Sam Whitelock,5,L,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Akira Ioane,6,FL,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Sam Cane,7,FL,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Ardie Savea,8,N8,True,,0,80,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Codie Taylor,16,R,False,,60,20,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Karl Tu'inukuafe,17,R,False,,57,23,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Tyrel Lomax,18,R,False,,57,23,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Patrick Tuipulotu,19,R,False,,63,17,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Hoskins Sotutu,20,R,False,,65,15,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,TJ Perenara,21,R,False,,60,20,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Rieko Ioane,22,R,False,,53,27,592927,espn
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,New Zealand,Will Jordan,23,R,False,,65,15,592927,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Reece Hodge,15,FB,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Tom Wright,14,W,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Jordan Petaia,13,C,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Hunter Paisami,12,C,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Marika Koroibete,11,W,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,James O'Connor,10,FH,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Nic White,9,SH,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Scott Sio,1,P,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Brandon Paenga-Amosa,2,H,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Allan Alaalatoa,3,P,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Rob Simmons,4,L,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Matt Philip,5,L,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Ned Hanigan,6,FL,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Michael Hooper,7,FL,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Harry Wilson,8,N8,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Folau Fainga'a,16,R,False,,57,23,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Angus Bell,17,R,False,,60,20,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Taniela Tupou,18,R,False,,51,29,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Lukhan Salakaia-Loto,19,R,False,,51,29,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Rob Valetini,20,R,False,,41,39,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Jake Gordon,21,R,False,,71,9,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Irae Simone,22,R,False,,75,5,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Australia,Tom Banks,23,R,False,,72,8,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Santiago Carreras,15,FB,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Bautista Delguy,14,W,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Matias Orlando,13,C,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Jeronimo de la Fuente,12,C,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Emiliano Boffelli,11,W,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Nicolas Sanchez,10,FH,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Felipe Ezcurra,9,SH,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Nahuel Tetaz Chaparro,1,P,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Julian Montoya,2,H,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Francisco Gomez Kodela,3,P,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Matias Alemanno,4,L,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Marcos Kremer,5,L,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Santiago Grondona,6,FL,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Facundo Isa,7,FL,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Rodrigo Bruni,8,N8,True,,0,80,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Jose Gonzalez,16,R,False,,,0,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Mayco Vivas,17,R,False,,65,15,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Juan Pablo Zeiss,18,R,False,,69,11,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Lucas Paulos,19,R,False,,60,20,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Francisco Gorrissen,20,R,False,,57,23,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Gonzalo Bertranou,21,R,False,,74,6,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Domingo Miotti,22,R,False,,57,23,592928,espn
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,Argentina,Santiago Chocobares,23,R,False,,80,0,592928,espn

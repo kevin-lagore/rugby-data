@@ -1,0 +1,219 @@
+season,tournament,date,home_team,away_team,home_score,away_score,venue,espn_match_id
+2000,Rugby Championship / Tri Nations,2000-07-15,Australia,New Zealand,35,39,Accor Stadium,23836
+2000,Rugby Championship / Tri Nations,2000-07-22,New Zealand,South Africa,25,12,Jade Stadium (Lancaster Park),23841
+2000,Rugby Championship / Tri Nations,2000-07-29,Australia,South Africa,26,6,Accor Stadium,23843
+2000,Rugby Championship / Tri Nations,2000-08-05,New Zealand,Australia,23,24,Sky Stadium,23844
+2000,Rugby Championship / Tri Nations,2000-08-19,South Africa,New Zealand,46,40,Ellis Park,23845
+2000,Rugby Championship / Tri Nations,2000-08-26,South Africa,Australia,18,19,Hollywoodbets Kings Park,23846
+2001,Rugby Championship / Tri Nations,2001-07-21,South Africa,New Zealand,3,12,DHL Newlands,24036
+2001,Rugby Championship / Tri Nations,2001-07-28,South Africa,Australia,20,15,Loftus Versfeld,24038
+2001,Rugby Championship / Tri Nations,2001-08-11,New Zealand,Australia,15,23,Carisbrook,24040
+2001,Rugby Championship / Tri Nations,2001-08-18,Australia,South Africa,14,14,Patersons Stadium,24042
+2001,Rugby Championship / Tri Nations,2001-08-25,New Zealand,South Africa,26,15,Eden Park,24043
+2001,Rugby Championship / Tri Nations,2001-09-01,Australia,New Zealand,29,26,Accor Stadium,24045
+2002,Rugby Championship / Tri Nations,2002-07-13,New Zealand,Australia,12,6,Jade Stadium (Lancaster Park),24251
+2002,Rugby Championship / Tri Nations,2002-07-20,New Zealand,South Africa,41,20,Sky Stadium,24254
+2002,Rugby Championship / Tri Nations,2002-07-27,Australia,South Africa,38,27,Wooloongabba,24256
+2002,Rugby Championship / Tri Nations,2002-08-03,Australia,New Zealand,16,14,Accor Stadium,24259
+2002,Rugby Championship / Tri Nations,2002-08-10,South Africa,New Zealand,23,30,Hollywoodbets Kings Park,24260
+2002,Rugby Championship / Tri Nations,2002-08-17,South Africa,Australia,33,31,Ellis Park,24264
+2003,Rugby Championship / Tri Nations,2003-07-12,South Africa,Australia,26,22,DHL Newlands,24478
+2003,Rugby Championship / Tri Nations,2003-07-19,South Africa,New Zealand,16,52,Loftus Versfeld,24482
+2003,Rugby Championship / Tri Nations,2003-07-26,Australia,New Zealand,21,50,Accor Stadium,24484
+2003,Rugby Championship / Tri Nations,2003-08-02,Australia,South Africa,29,9,Suncorp Stadium,24485
+2003,Rugby Championship / Tri Nations,2003-08-09,New Zealand,South Africa,19,11,Carisbrook,24488
+2003,Rugby Championship / Tri Nations,2003-08-16,New Zealand,Australia,21,17,Eden Park,24489
+2004,Rugby Championship / Tri Nations,2004-07-17,New Zealand,Australia,16,7,Sky Stadium,24744
+2004,Rugby Championship / Tri Nations,2004-07-24,New Zealand,South Africa,23,21,Jade Stadium (Lancaster Park),24746
+2004,Rugby Championship / Tri Nations,2004-07-31,Australia,South Africa,30,26,Patersons Stadium,24748
+2004,Rugby Championship / Tri Nations,2004-08-07,Australia,New Zealand,23,18,Accor Stadium,24750
+2004,Rugby Championship / Tri Nations,2004-08-14,South Africa,New Zealand,40,26,Ellis Park,24751
+2004,Rugby Championship / Tri Nations,2004-08-21,South Africa,Australia,23,19,Hollywoodbets Kings Park,24754
+2005,Rugby Championship / Tri Nations,2005-07-30,South Africa,Australia,22,16,Loftus Versfeld,24995
+2005,Rugby Championship / Tri Nations,2005-08-06,South Africa,New Zealand,22,16,DHL Newlands,24997
+2005,Rugby Championship / Tri Nations,2005-08-13,Australia,New Zealand,13,30,Accor Stadium,25008
+2005,Rugby Championship / Tri Nations,2005-08-20,Australia,South Africa,19,22,Patersons Stadium,25014
+2005,Rugby Championship / Tri Nations,2005-08-27,New Zealand,South Africa,31,27,Carisbrook,25017
+2005,Rugby Championship / Tri Nations,2005-09-03,New Zealand,Australia,34,24,Eden Park,25019
+2006,Rugby Championship / Tri Nations,2006-07-08,New Zealand,Australia,32,12,Jade Stadium (Lancaster Park),25248
+2006,Rugby Championship / Tri Nations,2006-07-15,Australia,South Africa,49,0,Suncorp Stadium,25250
+2006,Rugby Championship / Tri Nations,2006-07-22,New Zealand,South Africa,35,17,Sky Stadium,25252
+2006,Rugby Championship / Tri Nations,2006-07-29,Australia,New Zealand,9,13,Suncorp Stadium,25257
+2006,Rugby Championship / Tri Nations,2006-08-05,Australia,South Africa,20,18,Accor Stadium,25260
+2006,Rugby Championship / Tri Nations,2006-08-19,New Zealand,Australia,34,27,Eden Park,25267
+2006,Rugby Championship / Tri Nations,2006-08-26,South Africa,New Zealand,26,45,Loftus Versfeld,25270
+2006,Rugby Championship / Tri Nations,2006-09-02,South Africa,New Zealand,21,20,Olympia Park,25271
+2006,Rugby Championship / Tri Nations,2006-09-09,South Africa,Australia,24,16,Ellis Park,25272
+2007,Rugby Championship / Tri Nations,2007-06-16,South Africa,Australia,22,19,DHL Newlands,25461
+2007,Rugby Championship / Tri Nations,2007-06-23,South Africa,New Zealand,21,26,Hollywoodbets Kings Park,25467
+2007,Rugby Championship / Tri Nations,2007-06-30,Australia,New Zealand,20,15,Melbourne Cricket Ground,25474
+2007,Rugby Championship / Tri Nations,2007-07-07,Australia,South Africa,25,17,Accor Stadium,25477
+2007,Rugby Championship / Tri Nations,2007-07-14,New Zealand,South Africa,33,6,Jade Stadium (Lancaster Park),25484
+2007,Rugby Championship / Tri Nations,2007-07-21,New Zealand,Australia,26,12,Eden Park,25489
+2008,Rugby Championship / Tri Nations,2008-07-05,New Zealand,South Africa,19,8,Sky Stadium,25701
+2008,Rugby Championship / Tri Nations,2008-07-12,New Zealand,South Africa,28,30,Carisbrook,25705
+2008,Rugby Championship / Tri Nations,2008-07-19,Australia,South Africa,16,9,Patersons Stadium,25706
+2008,Rugby Championship / Tri Nations,2008-07-26,Australia,New Zealand,34,19,Accor Stadium,25707
+2008,Rugby Championship / Tri Nations,2008-08-02,New Zealand,Australia,39,10,Eden Park,25708
+2008,Rugby Championship / Tri Nations,2008-08-16,South Africa,New Zealand,0,19,DHL Newlands,25710
+2008,Rugby Championship / Tri Nations,2008-08-23,South Africa,Australia,15,27,Hollywoodbets Kings Park,25711
+2008,Rugby Championship / Tri Nations,2008-08-30,South Africa,Australia,53,8,Ellis Park,25712
+2008,Rugby Championship / Tri Nations,2008-09-13,Australia,New Zealand,24,28,Suncorp Stadium,25714
+2009,Rugby Championship / Tri Nations,2009-07-18,New Zealand,Australia,22,16,Eden Park,25836
+2009,Rugby Championship / Tri Nations,2009-07-25,South Africa,New Zealand,28,19,Toyota Stadium,84711
+2009,Rugby Championship / Tri Nations,2009-08-01,South Africa,New Zealand,31,19,Hollywoodbets Kings Park,84712
+2009,Rugby Championship / Tri Nations,2009-08-08,South Africa,Australia,29,17,DHL Newlands,84713
+2009,Rugby Championship / Tri Nations,2009-08-22,Australia,New Zealand,18,19,Accor Stadium,84714
+2009,Rugby Championship / Tri Nations,2009-08-29,Australia,South Africa,25,32,Patersons Stadium,84715
+2009,Rugby Championship / Tri Nations,2009-09-05,Australia,South Africa,21,6,Suncorp Stadium,84716
+2009,Rugby Championship / Tri Nations,2009-09-12,New Zealand,South Africa,29,32,FMG Stadium Waikato,25837
+2009,Rugby Championship / Tri Nations,2009-09-19,New Zealand,Australia,33,6,Sky Stadium,25838
+2010,Rugby Championship / Tri Nations,2010-07-10,New Zealand,South Africa,32,12,Eden Park,103846
+2010,Rugby Championship / Tri Nations,2010-07-17,New Zealand,South Africa,31,17,Sky Stadium,103847
+2010,Rugby Championship / Tri Nations,2010-07-24,Australia,South Africa,30,13,Suncorp Stadium,103848
+2010,Rugby Championship / Tri Nations,2010-07-31,Australia,New Zealand,28,49,Marvel Stadium,103849
+2010,Rugby Championship / Tri Nations,2010-08-07,New Zealand,Australia,20,10,Jade Stadium (Lancaster Park),103850
+2010,Rugby Championship / Tri Nations,2010-08-21,South Africa,New Zealand,22,29,FNB Stadium,103851
+2010,Rugby Championship / Tri Nations,2010-08-28,South Africa,Australia,44,31,Loftus Versfeld,103852
+2010,Rugby Championship / Tri Nations,2010-09-04,South Africa,Australia,39,41,Toyota Stadium,103853
+2010,Rugby Championship / Tri Nations,2010-09-11,Australia,New Zealand,22,23,Accor Stadium,103854
+2011,Rugby Championship / Tri Nations,2011-07-23,Australia,South Africa,39,20,Accor Stadium,121711
+2011,Rugby Championship / Tri Nations,2011-07-30,New Zealand,South Africa,40,7,Sky Stadium,121712
+2011,Rugby Championship / Tri Nations,2011-08-06,New Zealand,Australia,30,14,Eden Park,121713
+2011,Rugby Championship / Tri Nations,2011-08-13,South Africa,Australia,9,14,Hollywoodbets Kings Park,121714
+2011,Rugby Championship / Tri Nations,2011-08-20,South Africa,New Zealand,18,5,Nelson Mandela Bay Stadium,121715
+2011,Rugby Championship / Tri Nations,2011-08-27,Australia,New Zealand,25,20,Suncorp Stadium,121716
+2012,Rugby Championship / Tri Nations,2012-08-18,Australia,New Zealand,19,27,Accor Stadium,153845
+2012,Rugby Championship / Tri Nations,2012-08-18,South Africa,Argentina,27,6,DHL Newlands,153846
+2012,Rugby Championship / Tri Nations,2012-08-25,New Zealand,Australia,22,0,Eden Park,153847
+2012,Rugby Championship / Tri Nations,2012-08-25,Argentina,South Africa,16,16,Estadio Malvinas Argentinas,153848
+2012,Rugby Championship / Tri Nations,2012-09-08,New Zealand,Argentina,21,5,Sky Stadium,153850
+2012,Rugby Championship / Tri Nations,2012-09-08,Australia,South Africa,26,19,Patersons Stadium,153849
+2012,Rugby Championship / Tri Nations,2012-09-15,New Zealand,South Africa,21,11,Forsyth Barr Stadium,153852
+2012,Rugby Championship / Tri Nations,2012-09-15,Australia,Argentina,23,19,Cbus Super Stadium,153851
+2012,Rugby Championship / Tri Nations,2012-09-29,South Africa,Australia,31,8,Loftus Versfeld,153853
+2012,Rugby Championship / Tri Nations,2012-09-29,Argentina,New Zealand,15,54,Estadio Ciudad de La Plata,153854
+2012,Rugby Championship / Tri Nations,2012-10-06,South Africa,New Zealand,16,32,FNB Stadium,153855
+2012,Rugby Championship / Tri Nations,2012-10-06,Argentina,Australia,19,25,Estadio Gigante de Arroyito,153856
+2013,Rugby Championship / Tri Nations,2013-08-17,Australia,New Zealand,29,47,Accor Stadium,174678
+2013,Rugby Championship / Tri Nations,2013-08-17,South Africa,Argentina,73,13,FNB Stadium,175507
+2013,Rugby Championship / Tri Nations,2013-08-24,New Zealand,Australia,27,16,Sky Stadium,172099
+2013,Rugby Championship / Tri Nations,2013-08-24,Argentina,South Africa,17,22,Estadio Malvinas Argentinas,175508
+2013,Rugby Championship / Tri Nations,2013-09-07,New Zealand,Argentina,28,13,FMG Stadium Waikato,172100
+2013,Rugby Championship / Tri Nations,2013-09-07,Australia,South Africa,12,38,Suncorp Stadium,175509
+2013,Rugby Championship / Tri Nations,2013-09-14,New Zealand,South Africa,29,15,Eden Park,172101
+2013,Rugby Championship / Tri Nations,2013-09-14,Australia,Argentina,14,13,Patersons Stadium,175510
+2013,Rugby Championship / Tri Nations,2013-09-28,South Africa,Australia,28,8,DHL Newlands,175511
+2013,Rugby Championship / Tri Nations,2013-09-28,Argentina,New Zealand,15,33,Estadio Ciudad de La Plata,174679
+2013,Rugby Championship / Tri Nations,2013-10-05,South Africa,New Zealand,27,38,Ellis Park,174680
+2013,Rugby Championship / Tri Nations,2013-10-05,Argentina,Australia,17,54,Estadio Gigante de Arroyito,175512
+2014,Rugby Championship / Tri Nations,2014-08-16,Australia,New Zealand,12,12,Accor Stadium,207955
+2014,Rugby Championship / Tri Nations,2014-08-16,South Africa,Argentina,13,6,Loftus Versfeld,207957
+2014,Rugby Championship / Tri Nations,2014-08-23,New Zealand,Australia,51,20,Eden Park,207959
+2014,Rugby Championship / Tri Nations,2014-08-23,Argentina,South Africa,31,33,Padre Ernesto Martearena,207961
+2014,Rugby Championship / Tri Nations,2014-09-06,New Zealand,Argentina,28,9,McLean Park,207965
+2014,Rugby Championship / Tri Nations,2014-09-06,Australia,South Africa,24,23,Patersons Stadium,207963
+2014,Rugby Championship / Tri Nations,2014-09-13,New Zealand,South Africa,14,10,Sky Stadium,207969
+2014,Rugby Championship / Tri Nations,2014-09-13,Australia,Argentina,32,25,Cbus Super Stadium,207967
+2014,Rugby Championship / Tri Nations,2014-09-27,South Africa,Australia,28,10,DHL Newlands,207971
+2014,Rugby Championship / Tri Nations,2014-09-27,Argentina,New Zealand,13,34,Estadio Ciudad de La Plata,207973
+2014,Rugby Championship / Tri Nations,2014-10-04,South Africa,New Zealand,27,25,Ellis Park,207975
+2014,Rugby Championship / Tri Nations,2014-10-04,Argentina,Australia,21,17,Estadio Malvinas Argentinas,207977
+2015,Rugby Championship / Tri Nations,2015-07-17,New Zealand,Argentina,39,18,Jade Stadium (Lancaster Park),244305
+2015,Rugby Championship / Tri Nations,2015-07-18,Australia,South Africa,24,20,Suncorp Stadium,244307
+2015,Rugby Championship / Tri Nations,2015-07-25,South Africa,New Zealand,20,27,Ellis Park,244309
+2015,Rugby Championship / Tri Nations,2015-07-25,Argentina,Australia,9,34,Estadio Malvinas Argentinas,244311
+2015,Rugby Championship / Tri Nations,2015-08-08,Australia,New Zealand,27,19,Accor Stadium,244313
+2015,Rugby Championship / Tri Nations,2015-08-08,South Africa,Argentina,25,37,Hollywoodbets Kings Park,244315
+2016,Rugby Championship / Tri Nations,2016-08-20,Australia,New Zealand,8,42,Accor Stadium,289312
+2016,Rugby Championship / Tri Nations,2016-08-20,South Africa,Argentina,30,23,Mbombela Stadium,281087
+2016,Rugby Championship / Tri Nations,2016-08-27,New Zealand,Australia,29,9,Sky Stadium,268575
+2016,Rugby Championship / Tri Nations,2016-08-27,Argentina,South Africa,26,24,Estadio Padre Ernesto Martearena,289313
+2016,Rugby Championship / Tri Nations,2016-09-10,New Zealand,Argentina,57,22,FMG Stadium Waikato,268577
+2016,Rugby Championship / Tri Nations,2016-09-10,Australia,South Africa,23,17,Suncorp Stadium,289314
+2016,Rugby Championship / Tri Nations,2016-09-17,New Zealand,South Africa,41,13,Jade Stadium (Lancaster Park),268579
+2016,Rugby Championship / Tri Nations,2016-09-17,Australia,Argentina,36,20,HBF Park,289315
+2016,Rugby Championship / Tri Nations,2016-10-01,South Africa,Australia,18,10,Loftus Versfeld,281089
+2016,Rugby Championship / Tri Nations,2016-10-01,Argentina,New Zealand,17,36,Estadio José Amalfitani,289316
+2016,Rugby Championship / Tri Nations,2016-10-08,South Africa,New Zealand,15,57,Hollywoodbets Kings Park,281091
+2016,Rugby Championship / Tri Nations,2016-10-08,Argentina,Australia,21,33,Allianz Stadium,289317
+2017,Rugby Championship / Tri Nations,2017-08-19,Australia,New Zealand,34,54,Accor Stadium,291158
+2017,Rugby Championship / Tri Nations,2017-08-19,South Africa,Argentina,37,15,Nelson Mandela Bay Stadium,291159
+2017,Rugby Championship / Tri Nations,2017-08-26,New Zealand,Australia,35,29,Forsyth Barr Stadium,291160
+2017,Rugby Championship / Tri Nations,2017-08-26,Argentina,South Africa,23,41,Estadio Padre Ernesto Martearena,291161
+2017,Rugby Championship / Tri Nations,2017-09-09,New Zealand,Argentina,39,22,Stadium Taranaki,291163
+2017,Rugby Championship / Tri Nations,2017-09-09,Australia,South Africa,23,23,HBF Park,291162
+2017,Rugby Championship / Tri Nations,2017-09-16,New Zealand,South Africa,57,0,North Harbour Stadium,291165
+2017,Rugby Championship / Tri Nations,2017-09-16,Australia,Argentina,45,20,GIO Stadium,291164
+2017,Rugby Championship / Tri Nations,2017-10-07,South Africa,New Zealand,24,25,DHL Newlands,291168
+2017,Rugby Championship / Tri Nations,2017-10-07,Argentina,Australia,20,37,Estadio Malvinas Argentinas,291169
+2018,Rugby Championship / Tri Nations,2018-08-18,Australia,New Zealand,13,38,Accor Stadium,292786
+2018,Rugby Championship / Tri Nations,2018-08-18,South Africa,Argentina,34,21,Hollywoodbets Kings Park,292787
+2018,Rugby Championship / Tri Nations,2018-08-25,New Zealand,Australia,40,12,Eden Park,292788
+2018,Rugby Championship / Tri Nations,2018-08-25,Argentina,South Africa,32,19,Estadio Malvinas Argentinas,292789
+2018,Rugby Championship / Tri Nations,2018-09-08,New Zealand,Argentina,46,24,Trafalgar Park,292791
+2018,Rugby Championship / Tri Nations,2018-09-08,Australia,South Africa,23,18,Suncorp Stadium,292790
+2018,Rugby Championship / Tri Nations,2018-09-15,New Zealand,South Africa,34,36,Sky Stadium,292793
+2018,Rugby Championship / Tri Nations,2018-09-15,Australia,Argentina,19,23,Cbus Super Stadium,292792
+2018,Rugby Championship / Tri Nations,2018-09-29,South Africa,Australia,23,12,Nelson Mandela Bay Stadium,292794
+2018,Rugby Championship / Tri Nations,2018-09-29,Argentina,New Zealand,17,35,Estadio José Amalfitani,292795
+2018,Rugby Championship / Tri Nations,2018-10-06,South Africa,New Zealand,30,32,Loftus Versfeld,292796
+2018,Rugby Championship / Tri Nations,2018-10-06,Argentina,Australia,34,45,Estadio Padre Ernesto Martearena,292797
+2019,Rugby Championship / Tri Nations,2019-07-20,South Africa,Australia,35,17,Ellis Park,294507
+2019,Rugby Championship / Tri Nations,2019-07-20,Argentina,New Zealand,16,20,Estadio José Amalfitani,294508
+2019,Rugby Championship / Tri Nations,2019-07-27,New Zealand,South Africa,16,16,Sky Stadium,294510
+2019,Rugby Championship / Tri Nations,2019-07-27,Australia,Argentina,16,10,Suncorp Stadium,294509
+2019,Rugby Championship / Tri Nations,2019-08-10,Australia,New Zealand,47,26,Optus Stadium,294511
+2019,Rugby Championship / Tri Nations,2019-08-10,Argentina,South Africa,13,46,Estadio Padre Ernesto Martearena,294512
+2021,Rugby Championship / Tri Nations,2021-08-14,New Zealand,Australia,57,22,Eden Park,594236
+2021,Rugby Championship / Tri Nations,2021-08-14,South Africa,Argentina,32,12,Nelson Mandela Bay Stadium,594231
+2021,Rugby Championship / Tri Nations,2021-08-21,Argentina,South Africa,10,29,Nelson Mandela Bay Stadium,594230
+2021,Rugby Championship / Tri Nations,2021-09-05,Australia,New Zealand,21,38,Optus Stadium,594237
+2021,Rugby Championship / Tri Nations,2021-09-12,New Zealand,Argentina,39,0,Cbus Super Stadium,594229
+2021,Rugby Championship / Tri Nations,2021-09-12,Australia,South Africa,28,26,Cbus Super Stadium,594235
+2021,Rugby Championship / Tri Nations,2021-09-18,Australia,South Africa,30,17,Suncorp Stadium,594234
+2021,Rugby Championship / Tri Nations,2021-09-18,Argentina,New Zealand,13,36,Suncorp Stadium,594228
+2021,Rugby Championship / Tri Nations,2021-09-25,New Zealand,South Africa,19,17,Queensland Country Bank Stadium,594227
+2021,Rugby Championship / Tri Nations,2021-09-25,Australia,Argentina,27,8,Queensland Country Bank Stadium,594233
+2021,Rugby Championship / Tri Nations,2021-10-02,Australia,Argentina,32,17,Cbus Super Stadium,594232
+2021,Rugby Championship / Tri Nations,2021-10-02,South Africa,New Zealand,31,29,Cbus Super Stadium,594226
+2022,Rugby Championship / Tri Nations,2022-08-06,South Africa,New Zealand,21,10,Mbombela Stadium,595482
+2022,Rugby Championship / Tri Nations,2022-08-06,Argentina,Australia,24,38,Estadio Malvinas Argentinas,595483
+2022,Rugby Championship / Tri Nations,2022-08-13,South Africa,New Zealand,23,35,Ellis Park,595484
+2022,Rugby Championship / Tri Nations,2022-08-13,Argentina,Australia,48,17,Estadio Bicentenario,595485
+2022,Rugby Championship / Tri Nations,2022-08-27,Australia,South Africa,25,17,Adelaide Oval,595486
+2022,Rugby Championship / Tri Nations,2022-08-27,New Zealand,Argentina,18,25,Apollo Projects Stadium,595487
+2022,Rugby Championship / Tri Nations,2022-09-03,New Zealand,Argentina,53,3,FMG Stadium Waikato,595488
+2022,Rugby Championship / Tri Nations,2022-09-03,Australia,South Africa,8,24,Allianz Stadium,595489
+2022,Rugby Championship / Tri Nations,2022-09-15,Australia,New Zealand,37,39,Marvel Stadium,595490
+2022,Rugby Championship / Tri Nations,2022-09-17,Argentina,South Africa,20,36,Estadio Libertadores de América,595491
+2022,Rugby Championship / Tri Nations,2022-09-24,New Zealand,Australia,40,14,Eden Park,595492
+2022,Rugby Championship / Tri Nations,2022-09-24,South Africa,Argentina,38,21,Hollywoodbets Kings Park,595493
+2023,Rugby Championship / Tri Nations,2023-07-08,South Africa,Australia,43,12,Loftus Versfeld,596592
+2023,Rugby Championship / Tri Nations,2023-07-08,Argentina,New Zealand,12,41,Estadio Malvinas Argentinas,596591
+2023,Rugby Championship / Tri Nations,2023-07-15,New Zealand,South Africa,35,20,Go Media Stadium,596593
+2023,Rugby Championship / Tri Nations,2023-07-15,Australia,Argentina,31,34,CommBank Stadium,596594
+2023,Rugby Championship / Tri Nations,2023-07-29,Australia,New Zealand,7,38,Melbourne Cricket Ground,596595
+2023,Rugby Championship / Tri Nations,2023-07-29,South Africa,Argentina,22,21,Ellis Park,596596
+2024,Rugby Championship / Tri Nations,2024-08-10,Australia,South Africa,7,33,Suncorp Stadium,600015
+2024,Rugby Championship / Tri Nations,2024-08-10,New Zealand,Argentina,30,38,Sky Stadium,600016
+2024,Rugby Championship / Tri Nations,2024-08-17,New Zealand,Argentina,42,10,Eden Park,600017
+2024,Rugby Championship / Tri Nations,2024-08-17,Australia,South Africa,12,30,Optus Stadium,600018
+2024,Rugby Championship / Tri Nations,2024-09-07,South Africa,New Zealand,18,12,DHL Stadium,600021
+2024,Rugby Championship / Tri Nations,2024-09-07,Argentina,Australia,67,27,Estadio Brigadier General Estanislao López,600022
+2024,Rugby Championship / Tri Nations,2024-09-21,Australia,New Zealand,28,31,Accor Stadium,600023
+2024,Rugby Championship / Tri Nations,2024-09-21,Argentina,South Africa,29,28,Estadio Único Madre de Ciudades,600024
+2024,Rugby Championship / Tri Nations,2024-09-28,New Zealand,Australia,33,13,Sky Stadium,600025
+2024,Rugby Championship / Tri Nations,2024-09-28,South Africa,Argentina,48,7,Mbombela Stadium,600026
+2025,Rugby Championship / Tri Nations,2025-08-16,South Africa,Australia,22,38,Ellis Park,603118
+2025,Rugby Championship / Tri Nations,2025-08-16,Argentina,New Zealand,24,41,Estadio Mario Alberto Kempes,603119
+2025,Rugby Championship / Tri Nations,2025-08-23,South Africa,Australia,30,22,DHL Stadium,603120
+2025,Rugby Championship / Tri Nations,2025-08-23,Argentina,New Zealand,29,23,Estadio José Amalfitani,603121
+2025,Rugby Championship / Tri Nations,2025-09-06,Australia,Argentina,28,24,Queensland Country Bank Stadium,603122
+2025,Rugby Championship / Tri Nations,2025-09-06,New Zealand,South Africa,24,17,Eden Park,603123
+2025,Rugby Championship / Tri Nations,2025-09-13,Australia,Argentina,26,28,Allianz Stadium,603124
+2025,Rugby Championship / Tri Nations,2025-09-13,New Zealand,South Africa,10,43,Sky Stadium,603125
+2025,Rugby Championship / Tri Nations,2025-09-27,New Zealand,Australia,33,24,Eden Park,603126
+2025,Rugby Championship / Tri Nations,2025-09-27,South Africa,Argentina,67,30,Hollywoodbets Kings Park,603127
+2025,Rugby Championship / Tri Nations,2025-10-04,Australia,New Zealand,14,28,Optus Stadium,603128
+2025,Rugby Championship / Tri Nations,2025-10-04,Argentina,South Africa,27,29,Allianz Stadium,603129

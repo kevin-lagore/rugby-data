@@ -1,0 +1,289 @@
+season,tournament,date,home_team,away_team,home_score,away_score,venue,espn_match_id
+2003,Rugby World Cup,2003-10-10,Australia,Argentina,24,8,Accor Stadium,24536
+2003,Rugby World Cup,2003-10-11,New Zealand,Italy,70,7,Marvel Stadium,24541
+2003,Rugby World Cup,2003-10-11,Ireland,Romania,45,17,Central Coast Stadium,24543
+2003,Rugby World Cup,2003-10-11,France,Fiji,61,18,Suncorp Stadium,24542
+2003,Rugby World Cup,2003-10-11,South Africa,Uruguay,72,6,Patersons Stadium,24544
+2003,Rugby World Cup,2003-10-12,Wales,Canada,41,10,Marvel Stadium,24550
+2003,Rugby World Cup,2003-10-12,Scotland,Japan,32,11,Dairy Farmers Stadium,24551
+2003,Rugby World Cup,2003-10-12,England,Georgia,84,6,Patersons Stadium,24552
+2003,Rugby World Cup,2003-10-14,Argentina,Namibia,67,14,Central Coast Stadium,24559
+2003,Rugby World Cup,2003-10-15,United States of America,Fiji,18,19,Suncorp Stadium,24560
+2003,Rugby World Cup,2003-10-15,Tonga,Italy,12,36,GIO Stadium,24561
+2003,Rugby World Cup,2003-10-15,Samoa,Uruguay,60,13,Patersons Stadium,24562
+2003,Rugby World Cup,2003-10-17,New Zealand,Canada,68,6,Marvel Stadium,24564
+2003,Rugby World Cup,2003-10-18,Australia,Romania,90,8,Suncorp Stadium,24565
+2003,Rugby World Cup,2003-10-18,France,Japan,51,29,Dairy Farmers Stadium,24566
+2003,Rugby World Cup,2003-10-18,England,South Africa,25,6,Patersons Stadium,24567
+2003,Rugby World Cup,2003-10-19,Wales,Tonga,27,20,GIO Stadium,24568
+2003,Rugby World Cup,2003-10-19,Ireland,Namibia,64,7,Allianz Stadium,24569
+2003,Rugby World Cup,2003-10-19,Samoa,Georgia,46,9,Patersons Stadium,24570
+2003,Rugby World Cup,2003-10-20,Scotland,United States of America,39,15,Suncorp Stadium,24572
+2003,Rugby World Cup,2003-10-21,Italy,Canada,19,14,GIO Stadium,24574
+2003,Rugby World Cup,2003-10-22,Argentina,Romania,50,3,Allianz Stadium,24575
+2003,Rugby World Cup,2003-10-23,Fiji,Japan,41,13,Dairy Farmers Stadium,24576
+2003,Rugby World Cup,2003-10-24,New Zealand,Tonga,91,7,Suncorp Stadium,24577
+2003,Rugby World Cup,2003-10-24,South Africa,Georgia,46,19,Allianz Stadium,24578
+2003,Rugby World Cup,2003-10-25,Australia,Namibia,142,0,Adelaide Oval,24579
+2003,Rugby World Cup,2003-10-25,Wales,Italy,27,15,GIO Stadium,24580
+2003,Rugby World Cup,2003-10-25,Scotland,France,9,51,Accor Stadium,24581
+2003,Rugby World Cup,2003-10-26,Ireland,Argentina,16,15,Adelaide Oval,24588
+2003,Rugby World Cup,2003-10-26,England,Samoa,35,22,Marvel Stadium,24587
+2003,Rugby World Cup,2003-10-27,United States of America,Japan,39,26,Central Coast Stadium,24589
+2003,Rugby World Cup,2003-10-28,Uruguay,Georgia,24,12,Allianz Stadium,24590
+2003,Rugby World Cup,2003-10-29,Tonga,Canada,7,24,WIN Stadium,24591
+2003,Rugby World Cup,2003-10-30,Romania,Namibia,37,7,York Park,24592
+2003,Rugby World Cup,2003-10-31,France,United States of America,41,14,WIN Stadium,24593
+2003,Rugby World Cup,2003-11-01,Scotland,Fiji,22,20,Allianz Stadium,24594
+2003,Rugby World Cup,2003-11-01,South Africa,Samoa,60,10,Suncorp Stadium,24595
+2003,Rugby World Cup,2003-11-01,Australia,Ireland,17,16,Marvel Stadium,24596
+2003,Rugby World Cup,2003-11-02,England,Uruguay,111,13,Suncorp Stadium,24597
+2003,Rugby World Cup,2003-11-02,Wales,New Zealand,37,53,Accor Stadium,24598
+2003,Rugby World Cup,2003-11-08,South Africa,New Zealand,9,29,Marvel Stadium,24600
+2003,Rugby World Cup,2003-11-08,Australia,Scotland,33,16,Suncorp Stadium,24599
+2003,Rugby World Cup,2003-11-09,Ireland,France,21,43,Marvel Stadium,24603
+2003,Rugby World Cup,2003-11-09,England,Wales,28,17,Suncorp Stadium,24604
+2003,Rugby World Cup,2003-11-15,Australia,New Zealand,22,10,Accor Stadium,24605
+2003,Rugby World Cup,2003-11-16,England,France,24,7,Accor Stadium,24608
+2003,Rugby World Cup,2003-11-20,New Zealand,France,40,13,Accor Stadium,24609
+2003,Rugby World Cup,2003-11-22,Australia,England,17,20,Accor Stadium,24610
+2007,Rugby World Cup,2007-09-07,France,Argentina,12,17,Stade de France,25506
+2007,Rugby World Cup,2007-09-08,New Zealand,Italy,76,14,Orange Velodrome,25509
+2007,Rugby World Cup,2007-09-08,Australia,Japan,91,3,Matmut Stadium de Gerland,25508
+2007,Rugby World Cup,2007-09-08,England,United States of America,28,10,Stade Bollaert-Delelis,25507
+2007,Rugby World Cup,2007-09-09,Wales,Canada,42,17,Stade de la Beaujoire,25511
+2007,Rugby World Cup,2007-09-09,South Africa,Samoa,59,7,Parc des Princes,25512
+2007,Rugby World Cup,2007-09-09,Scotland,Portugal,56,10,Stade Geoffroy-Guichard,25513
+2007,Rugby World Cup,2007-09-09,Ireland,Namibia,32,17,Stade Chaban-Delmas,25510
+2007,Rugby World Cup,2007-09-11,Argentina,Georgia,33,3,Matmut Stadium de Gerland,25514
+2007,Rugby World Cup,2007-09-12,United States of America,Tonga,15,25,Stade de la Mosson,25516
+2007,Rugby World Cup,2007-09-12,Fiji,Japan,35,31,Stade Toulouse,25517
+2007,Rugby World Cup,2007-09-12,Romania,Italy,18,24,Orange Velodrome,25515
+2007,Rugby World Cup,2007-09-14,England,South Africa,0,36,Stade de France,25518
+2007,Rugby World Cup,2007-09-15,New Zealand,Portugal,108,13,Matmut Stadium de Gerland,25521
+2007,Rugby World Cup,2007-09-15,Wales,Australia,20,32,Principality Stadium,25520
+2007,Rugby World Cup,2007-09-15,Ireland,Georgia,14,10,Stade Chaban-Delmas,25519
+2007,Rugby World Cup,2007-09-16,Fiji,Canada,29,16,Principality Stadium,25522
+2007,Rugby World Cup,2007-09-16,Samoa,Tonga,15,19,Stade de la Mosson,25523
+2007,Rugby World Cup,2007-09-16,France,Namibia,87,10,Stade Toulouse,25524
+2007,Rugby World Cup,2007-09-18,Scotland,Romania,42,0,Scottish Gas Murrayfield,25525
+2007,Rugby World Cup,2007-09-19,Italy,Portugal,31,5,Parc des Princes,25526
+2007,Rugby World Cup,2007-09-20,Wales,Japan,72,18,Principality Stadium,25527
+2007,Rugby World Cup,2007-09-21,France,Ireland,25,3,Stade de France,25528
+2007,Rugby World Cup,2007-09-22,South Africa,Tonga,30,25,Stade Bollaert-Delelis,25529
+2007,Rugby World Cup,2007-09-22,England,Samoa,44,22,Stade de la Beaujoire,25531
+2007,Rugby World Cup,2007-09-22,Argentina,Namibia,63,3,Orange Velodrome,25530
+2007,Rugby World Cup,2007-09-23,Australia,Fiji,55,12,Stade de la Mosson,25533
+2007,Rugby World Cup,2007-09-23,Scotland,New Zealand,0,40,Scottish Gas Murrayfield,25532
+2007,Rugby World Cup,2007-09-25,Japan,Canada,12,12,Stade Chaban-Delmas,25534
+2007,Rugby World Cup,2007-09-25,Romania,Portugal,14,10,Stade Toulouse,25535
+2007,Rugby World Cup,2007-09-26,Georgia,Namibia,30,0,Stade Bollaert-Delelis,25536
+2007,Rugby World Cup,2007-09-26,United States of America,Samoa,21,25,Stade Geoffroy-Guichard,25537
+2007,Rugby World Cup,2007-09-28,England,Tonga,36,20,Parc des Princes,25538
+2007,Rugby World Cup,2007-09-29,New Zealand,Romania,85,8,Stade Toulouse,25542
+2007,Rugby World Cup,2007-09-29,Australia,Canada,37,6,Stade Chaban-Delmas,25539
+2007,Rugby World Cup,2007-09-29,Wales,Fiji,34,38,Stade de la Beaujoire,25540
+2007,Rugby World Cup,2007-09-29,Scotland,Italy,18,16,Stade Geoffroy-Guichard,25541
+2007,Rugby World Cup,2007-09-30,France,Georgia,64,7,Orange Velodrome,25543
+2007,Rugby World Cup,2007-09-30,Ireland,Argentina,15,30,Parc des Princes,25545
+2007,Rugby World Cup,2007-09-30,South Africa,United States of America,64,15,Stade de la Mosson,25544
+2007,Rugby World Cup,2007-10-06,England,Australia,12,10,Orange Velodrome,25546
+2007,Rugby World Cup,2007-10-06,New Zealand,France,18,20,Principality Stadium,25547
+2007,Rugby World Cup,2007-10-07,South Africa,Fiji,37,20,Orange Velodrome,25548
+2007,Rugby World Cup,2007-10-07,Scotland,Argentina,13,19,Stade de France,25549
+2007,Rugby World Cup,2007-10-13,France,England,9,14,Stade de France,25550
+2007,Rugby World Cup,2007-10-14,South Africa,Argentina,37,13,Stade de France,25551
+2007,Rugby World Cup,2007-10-19,France,Argentina,10,34,Parc des Princes,25552
+2007,Rugby World Cup,2007-10-20,England,South Africa,6,15,Stade de France,25553
+2011,Rugby World Cup,2011-09-09,New Zealand,Tonga,41,10,Eden Park,93458
+2011,Rugby World Cup,2011-09-10,Scotland,Romania,34,24,Invercargill Rugby Park,93459
+2011,Rugby World Cup,2011-09-10,Fiji,Namibia,49,25,Rotorua International Stadium,93460
+2011,Rugby World Cup,2011-09-10,France,Japan,47,21,North Harbour Stadium,93461
+2011,Rugby World Cup,2011-09-10,England,Argentina,13,9,Forsyth Barr Stadium,93462
+2011,Rugby World Cup,2011-09-11,Australia,Italy,32,6,North Harbour Stadium,93463
+2011,Rugby World Cup,2011-09-11,Ireland,United States of America,22,10,Stadium Taranaki,93464
+2011,Rugby World Cup,2011-09-11,Wales,South Africa,16,17,Sky Stadium,93465
+2011,Rugby World Cup,2011-09-14,Samoa,Namibia,49,12,Rotorua International Stadium,93466
+2011,Rugby World Cup,2011-09-14,Tonga,Canada,20,25,Semenoff Stadium,93467
+2011,Rugby World Cup,2011-09-14,Scotland,Georgia,15,6,Invercargill Rugby Park,93468
+2011,Rugby World Cup,2011-09-15,United States of America,Russia,13,6,Stadium Taranaki,93469
+2011,Rugby World Cup,2011-09-16,New Zealand,Japan,83,7,FMG Stadium Waikato,93470
+2011,Rugby World Cup,2011-09-17,Argentina,Romania,43,8,Invercargill Rugby Park,93471
+2011,Rugby World Cup,2011-09-17,South Africa,Fiji,49,3,Sky Stadium,93472
+2011,Rugby World Cup,2011-09-17,Ireland,Australia,15,6,Eden Park,93473
+2011,Rugby World Cup,2011-09-18,Wales,Samoa,17,10,FMG Stadium Waikato,93474
+2011,Rugby World Cup,2011-09-18,England,Georgia,41,10,Forsyth Barr Stadium,93475
+2011,Rugby World Cup,2011-09-18,France,Canada,46,19,McLean Park,93476
+2011,Rugby World Cup,2011-09-20,Italy,Russia,53,17,Trafalgar Park,93477
+2011,Rugby World Cup,2011-09-21,Tonga,Japan,31,18,Semenoff Stadium,93478
+2011,Rugby World Cup,2011-09-22,South Africa,Namibia,87,0,North Harbour Stadium,93479
+2011,Rugby World Cup,2011-09-23,Australia,United States of America,67,5,Sky Stadium,93480
+2011,Rugby World Cup,2011-09-24,England,Romania,67,3,Forsyth Barr Stadium,93481
+2011,Rugby World Cup,2011-09-24,New Zealand,France,37,17,Eden Park,93482
+2011,Rugby World Cup,2011-09-25,Fiji,Samoa,7,27,Eden Park,93483
+2011,Rugby World Cup,2011-09-25,Ireland,Russia,62,12,Rotorua International Stadium,93484
+2011,Rugby World Cup,2011-09-25,Scotland,Argentina,12,13,Sky Stadium,93485
+2011,Rugby World Cup,2011-09-26,Wales,Namibia,81,7,Stadium Taranaki,93486
+2011,Rugby World Cup,2011-09-27,Japan,Canada,23,23,McLean Park,93487
+2011,Rugby World Cup,2011-09-27,United States of America,Italy,10,27,Trafalgar Park,93488
+2011,Rugby World Cup,2011-09-28,Romania,Georgia,9,25,Central Energy Trust Arena,93489
+2011,Rugby World Cup,2011-09-30,South Africa,Samoa,13,5,North Harbour Stadium,93490
+2011,Rugby World Cup,2011-10-01,Australia,Russia,68,22,Trafalgar Park,93491
+2011,Rugby World Cup,2011-10-01,France,Tonga,14,19,Sky Stadium,93492
+2011,Rugby World Cup,2011-10-01,England,Scotland,16,12,Eden Park,93493
+2011,Rugby World Cup,2011-10-02,Argentina,Georgia,25,7,Central Energy Trust Arena,93494
+2011,Rugby World Cup,2011-10-02,New Zealand,Canada,79,15,Sky Stadium,93495
+2011,Rugby World Cup,2011-10-02,Wales,Fiji,66,0,FMG Stadium Waikato,93496
+2011,Rugby World Cup,2011-10-02,Ireland,Italy,36,6,Forsyth Barr Stadium,93497
+2011,Rugby World Cup,2011-10-08,Ireland,Wales,10,22,Sky Stadium,93498
+2011,Rugby World Cup,2011-10-08,England,France,12,19,Eden Park,93499
+2011,Rugby World Cup,2011-10-09,South Africa,Australia,9,11,Sky Stadium,93500
+2011,Rugby World Cup,2011-10-09,New Zealand,Argentina,33,10,Eden Park,93501
+2011,Rugby World Cup,2011-10-15,Wales,France,8,9,Eden Park,93502
+2011,Rugby World Cup,2011-10-16,New Zealand,Australia,20,6,Eden Park,93503
+2011,Rugby World Cup,2011-10-21,Wales,Australia,18,21,Eden Park,93504
+2011,Rugby World Cup,2011-10-23,New Zealand,France,8,7,Eden Park,93505
+2015,Rugby World Cup,2015-09-18,England,Fiji,35,11,Allianz Stadium,181969
+2015,Rugby World Cup,2015-09-19,Tonga,Georgia,10,17,Kingsholm,181971
+2015,Rugby World Cup,2015-09-19,Ireland,Canada,50,7,Principality Stadium,181973
+2015,Rugby World Cup,2015-09-19,South Africa,Japan,32,34,Brighton Community Stadium,181970
+2015,Rugby World Cup,2015-09-19,France,Italy,32,10,Allianz Stadium,181972
+2015,Rugby World Cup,2015-09-20,United States of America,Samoa,16,25,Brighton Community Stadium,181975
+2015,Rugby World Cup,2015-09-20,Wales,Uruguay,54,9,Principality Stadium,181974
+2015,Rugby World Cup,2015-09-20,New Zealand,Argentina,26,16,Wembley Stadium,181976
+2015,Rugby World Cup,2015-09-23,Scotland,Japan,45,10,Kingsholm,181978
+2015,Rugby World Cup,2015-09-23,Australia,Fiji,28,13,Principality Stadium,181977
+2015,Rugby World Cup,2015-09-23,France,Romania,38,11,London Stadium,181979
+2015,Rugby World Cup,2015-09-24,New Zealand,Namibia,58,14,London Stadium,181980
+2015,Rugby World Cup,2015-09-25,Argentina,Georgia,54,9,Kingsholm,181981
+2015,Rugby World Cup,2015-09-26,Italy,Canada,23,18,Elland Road,181984
+2015,Rugby World Cup,2015-09-26,South Africa,Samoa,46,6,Villa Park,181983
+2015,Rugby World Cup,2015-09-26,England,Wales,25,28,Allianz Stadium,181982
+2015,Rugby World Cup,2015-09-27,Australia,Uruguay,65,3,Villa Park,181985
+2015,Rugby World Cup,2015-09-27,Scotland,United States of America,39,16,Elland Road,181986
+2015,Rugby World Cup,2015-09-27,Ireland,Romania,44,10,Wembley Stadium,181987
+2015,Rugby World Cup,2015-09-29,Tonga,Namibia,35,21,Sandy Park,181988
+2015,Rugby World Cup,2015-10-01,Wales,Fiji,23,13,Principality Stadium,181989
+2015,Rugby World Cup,2015-10-01,France,Canada,41,18,stadium:mk,181990
+2015,Rugby World Cup,2015-10-02,New Zealand,Georgia,43,10,Principality Stadium,181991
+2015,Rugby World Cup,2015-10-03,Samoa,Japan,5,26,stadium:mk,181993
+2015,Rugby World Cup,2015-10-03,Scotland,South Africa,16,34,St James' Park,181994
+2015,Rugby World Cup,2015-10-03,England,Australia,13,33,Allianz Stadium,181992
+2015,Rugby World Cup,2015-10-04,Argentina,Tonga,45,16,Leicester City Stadium,181995
+2015,Rugby World Cup,2015-10-04,Ireland,Italy,16,9,London Stadium,181996
+2015,Rugby World Cup,2015-10-06,Romania,Canada,17,15,Leicester City Stadium,181998
+2015,Rugby World Cup,2015-10-06,Fiji,Uruguay,47,15,stadium:mk,181997
+2015,Rugby World Cup,2015-10-07,South Africa,United States of America,64,0,London Stadium,181999
+2015,Rugby World Cup,2015-10-07,Georgia,Namibia,17,16,Sandy Park,182000
+2015,Rugby World Cup,2015-10-09,New Zealand,Tonga,47,9,St James' Park,182001
+2015,Rugby World Cup,2015-10-10,Scotland,Samoa,36,33,St James' Park,182004
+2015,Rugby World Cup,2015-10-10,Wales,Australia,6,15,Allianz Stadium,182002
+2015,Rugby World Cup,2015-10-10,England,Uruguay,60,3,City of Manchester Stadium,182003
+2015,Rugby World Cup,2015-10-11,Argentina,Namibia,64,19,Leicester City Stadium,182006
+2015,Rugby World Cup,2015-10-11,Romania,Italy,22,32,Sandy Park,182008
+2015,Rugby World Cup,2015-10-11,Ireland,France,24,9,Principality Stadium,182007
+2015,Rugby World Cup,2015-10-11,United States of America,Japan,18,28,Kingsholm,182005
+2015,Rugby World Cup,2015-10-17,Wales,South Africa,19,23,Allianz Stadium,236307
+2015,Rugby World Cup,2015-10-17,New Zealand,France,62,13,Principality Stadium,236305
+2015,Rugby World Cup,2015-10-18,Ireland,Argentina,20,43,Principality Stadium,236309
+2015,Rugby World Cup,2015-10-18,Scotland,Australia,34,35,Allianz Stadium,236311
+2015,Rugby World Cup,2015-10-24,South Africa,New Zealand,18,20,Allianz Stadium,236313
+2015,Rugby World Cup,2015-10-25,Australia,Argentina,29,15,Allianz Stadium,236315
+2015,Rugby World Cup,2015-10-30,South Africa,Argentina,24,13,London Stadium,236317
+2015,Rugby World Cup,2015-10-31,Australia,New Zealand,17,34,Allianz Stadium,236319
+2019,Rugby World Cup,2019-09-20,Japan,Russia,30,10,Ajinomoto Stadium,292888
+2019,Rugby World Cup,2019-09-21,Australia,Fiji,39,21,Daiwa House Premist Dome,292889
+2019,Rugby World Cup,2019-09-21,France,Argentina,23,21,Ajinomoto Stadium,292890
+2019,Rugby World Cup,2019-09-21,New Zealand,South Africa,23,13,International Stadium Yokohama,292891
+2019,Rugby World Cup,2019-09-22,Italy,Namibia,47,22,Hanazono Rugby Stadium,292892
+2019,Rugby World Cup,2019-09-22,Ireland,Scotland,27,3,International Stadium Yokohama,292893
+2019,Rugby World Cup,2019-09-22,England,Tonga,35,3,Daiwa House Premist Dome,292894
+2019,Rugby World Cup,2019-09-23,Wales,Georgia,43,14,City of Toyota Stadium,292895
+2019,Rugby World Cup,2019-09-24,Russia,Samoa,9,34,Kumagaya Rugby Stadium,292896
+2019,Rugby World Cup,2019-09-25,Fiji,Uruguay,27,30,Kamaishi Recovery Memorial Stadium,292897
+2019,Rugby World Cup,2019-09-26,Italy,Canada,48,7,Best Denki Stadium,292898
+2019,Rugby World Cup,2019-09-26,England,United States of America,45,7,Kobe Misaki Stadium,292899
+2019,Rugby World Cup,2019-09-28,Argentina,Tonga,28,12,Hanazono Rugby Stadium,292900
+2019,Rugby World Cup,2019-09-28,Japan,Ireland,19,12,Shizuoka Stadium Ecopa,292901
+2019,Rugby World Cup,2019-09-28,South Africa,Namibia,57,3,City of Toyota Stadium,292902
+2019,Rugby World Cup,2019-09-29,Georgia,Uruguay,33,7,Kumagaya Rugby Stadium,292903
+2019,Rugby World Cup,2019-09-29,Australia,Wales,25,29,Ajinomoto Stadium,292904
+2019,Rugby World Cup,2019-09-30,Scotland,Samoa,34,0,Kobe Misaki Stadium,292905
+2019,Rugby World Cup,2019-10-02,France,United States of America,33,9,Best Denki Stadium,292906
+2019,Rugby World Cup,2019-10-02,New Zealand,Canada,63,0,Showa Denko Dome Oita,292907
+2019,Rugby World Cup,2019-10-03,Georgia,Fiji,10,45,Hanazono Rugby Stadium,292908
+2019,Rugby World Cup,2019-10-03,Ireland,Russia,35,0,Kobe Misaki Stadium,292909
+2019,Rugby World Cup,2019-10-04,South Africa,Italy,49,3,Shizuoka Stadium Ecopa,292910
+2019,Rugby World Cup,2019-10-05,Australia,Uruguay,45,10,Showa Denko Dome Oita,292911
+2019,Rugby World Cup,2019-10-05,England,Argentina,39,10,Ajinomoto Stadium,292912
+2019,Rugby World Cup,2019-10-05,Japan,Samoa,38,19,City of Toyota Stadium,292913
+2019,Rugby World Cup,2019-10-06,New Zealand,Namibia,71,9,Ajinomoto Stadium,292914
+2019,Rugby World Cup,2019-10-06,France,Tonga,23,21,Egao Health (Umakana Yokana) Stadium,292915
+2019,Rugby World Cup,2019-10-08,South Africa,Canada,66,7,Kobe Misaki Stadium,292916
+2019,Rugby World Cup,2019-10-09,Argentina,United States of America,47,17,Kumagaya Rugby Stadium,292917
+2019,Rugby World Cup,2019-10-09,Scotland,Russia,61,0,Shizuoka Stadium Ecopa,292918
+2019,Rugby World Cup,2019-10-09,Wales,Fiji,29,17,Showa Denko Dome Oita,292919
+2019,Rugby World Cup,2019-10-11,Australia,Georgia,27,8,Shizuoka Stadium Ecopa,292920
+2019,Rugby World Cup,2019-10-12,New Zealand,Italy,0,0,City of Toyota Stadium,292921
+2019,Rugby World Cup,2019-10-12,England,France,0,0,International Stadium Yokohama,292922
+2019,Rugby World Cup,2019-10-12,Ireland,Samoa,47,5,Best Denki Stadium,292923
+2019,Rugby World Cup,2019-10-13,Namibia,Canada,0,0,Kamaishi Recovery Memorial Stadium,292924
+2019,Rugby World Cup,2019-10-13,United States of America,Tonga,19,31,Hanazono Rugby Stadium,292925
+2019,Rugby World Cup,2019-10-13,Wales,Uruguay,35,13,Egao Health (Umakana Yokana) Stadium,292926
+2019,Rugby World Cup,2019-10-13,Japan,Scotland,28,21,International Stadium Yokohama,292927
+2019,Rugby World Cup,2019-10-19,England,Australia,40,16,Showa Denko Dome Oita,292930
+2019,Rugby World Cup,2019-10-19,New Zealand,Ireland,46,14,Ajinomoto Stadium,292931
+2019,Rugby World Cup,2019-10-20,Wales,France,20,19,Showa Denko Dome Oita,292932
+2019,Rugby World Cup,2019-10-20,Japan,South Africa,3,26,Ajinomoto Stadium,292933
+2019,Rugby World Cup,2019-10-26,England,New Zealand,19,7,International Stadium Yokohama,292934
+2019,Rugby World Cup,2019-10-27,Wales,South Africa,16,19,International Stadium Yokohama,292935
+2019,Rugby World Cup,2019-11-01,New Zealand,Wales,40,17,Ajinomoto Stadium,292928
+2019,Rugby World Cup,2019-11-02,England,South Africa,12,32,International Stadium Yokohama,292929
+2023,Rugby World Cup,2023-09-08,France,New Zealand,27,13,Stade de France,596154
+2023,Rugby World Cup,2023-09-09,Italy,Namibia,52,8,Stade Geoffroy-Guichard,596155
+2023,Rugby World Cup,2023-09-09,Ireland,Romania,82,8,Stade Matmut-Atlantique,596156
+2023,Rugby World Cup,2023-09-09,Australia,Georgia,35,15,Stade de France,596157
+2023,Rugby World Cup,2023-09-09,England,Argentina,27,10,Orange Velodrome,596158
+2023,Rugby World Cup,2023-09-10,Japan,Chile,42,12,Stadium de Toulouse,596159
+2023,Rugby World Cup,2023-09-10,South Africa,Scotland,18,3,Orange Velodrome,596160
+2023,Rugby World Cup,2023-09-10,Wales,Fiji,32,26,Stade Matmut-Atlantique,596161
+2023,Rugby World Cup,2023-09-14,France,Uruguay,27,12,Stade Pierre Mauroy,596162
+2023,Rugby World Cup,2023-09-15,New Zealand,Namibia,71,3,Stadium de Toulouse,596163
+2023,Rugby World Cup,2023-09-16,Samoa,Chile,43,10,Stade Matmut-Atlantique,596164
+2023,Rugby World Cup,2023-09-16,Wales,Portugal,28,8,Allianz Riviera,596165
+2023,Rugby World Cup,2023-09-16,Ireland,Tonga,59,16,Stade de la Beaujoire,596166
+2023,Rugby World Cup,2023-09-17,South Africa,Romania,76,0,Stade Matmut-Atlantique,596167
+2023,Rugby World Cup,2023-09-17,Australia,Fiji,15,22,Stade Geoffroy-Guichard,596168
+2023,Rugby World Cup,2023-09-17,England,Japan,34,12,Allianz Riviera,596169
+2023,Rugby World Cup,2023-09-20,Italy,Uruguay,38,17,Allianz Riviera,596170
+2023,Rugby World Cup,2023-09-21,France,Namibia,96,0,Orange Velodrome,596171
+2023,Rugby World Cup,2023-09-22,Argentina,Samoa,19,10,Stade Geoffroy-Guichard,596172
+2023,Rugby World Cup,2023-09-23,Georgia,Portugal,18,18,Stadium de Toulouse,596173
+2023,Rugby World Cup,2023-09-23,England,Chile,71,0,Stade Pierre Mauroy,596174
+2023,Rugby World Cup,2023-09-23,South Africa,Ireland,8,13,Stade de France,596175
+2023,Rugby World Cup,2023-09-24,Scotland,Tonga,45,17,Allianz Riviera,596176
+2023,Rugby World Cup,2023-09-24,Wales,Australia,40,6,Groupama Stadium,596177
+2023,Rugby World Cup,2023-09-27,Uruguay,Namibia,36,26,Groupama Stadium,596178
+2023,Rugby World Cup,2023-09-28,Japan,Samoa,28,22,Stadium de Toulouse,596179
+2023,Rugby World Cup,2023-09-29,New Zealand,Italy,96,17,Groupama Stadium,596180
+2023,Rugby World Cup,2023-09-30,Argentina,Chile,59,5,Stade de la Beaujoire,596181
+2023,Rugby World Cup,2023-09-30,Fiji,Georgia,17,12,Stade Matmut-Atlantique,596182
+2023,Rugby World Cup,2023-09-30,Scotland,Romania,84,0,Stade Pierre Mauroy,596183
+2023,Rugby World Cup,2023-10-01,Australia,Portugal,34,14,Stade Geoffroy-Guichard,596184
+2023,Rugby World Cup,2023-10-01,South Africa,Tonga,49,18,Orange Velodrome,596185
+2023,Rugby World Cup,2023-10-05,New Zealand,Uruguay,73,0,Groupama Stadium,596186
+2023,Rugby World Cup,2023-10-06,France,Italy,60,7,Groupama Stadium,596187
+2023,Rugby World Cup,2023-10-07,Wales,Georgia,43,19,Stade de la Beaujoire,596188
+2023,Rugby World Cup,2023-10-07,England,Samoa,18,17,Stade Pierre Mauroy,596189
+2023,Rugby World Cup,2023-10-07,Ireland,Scotland,36,14,Stade de France,596190
+2023,Rugby World Cup,2023-10-08,Japan,Argentina,27,39,Stade de la Beaujoire,596191
+2023,Rugby World Cup,2023-10-08,Tonga,Romania,45,24,Stade Pierre Mauroy,596192
+2023,Rugby World Cup,2023-10-08,Fiji,Portugal,23,24,Stadium de Toulouse,596193
+2023,Rugby World Cup,2023-10-14,Wales,Argentina,17,29,Orange Velodrome,596194
+2023,Rugby World Cup,2023-10-14,Ireland,New Zealand,24,28,Stade de France,596195
+2023,Rugby World Cup,2023-10-15,England,Fiji,30,24,Orange Velodrome,596196
+2023,Rugby World Cup,2023-10-15,France,South Africa,28,29,Stade de France,596197
+2023,Rugby World Cup,2023-10-20,Argentina,New Zealand,6,44,Stade de France,596198
+2023,Rugby World Cup,2023-10-21,England,South Africa,15,16,Stade de France,596199
+2023,Rugby World Cup,2023-10-27,Argentina,England,23,26,Stade de France,596200
+2023,Rugby World Cup,2023-10-28,New Zealand,South Africa,11,12,Stade de France,596201

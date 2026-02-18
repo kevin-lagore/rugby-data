@@ -1,0 +1,406 @@
+season,date,home_team,away_team,home_score,away_score,venue,espn_match_id,sky_match_id
+1999-00,2000-02-05,Italy,Scotland,34,20,Stadio Flaminio,23722,
+1999-00,2000-02-05,England,Ireland,50,18,Allianz Stadium,23721,
+1999-00,2000-02-05,Wales,France,3,36,Principality Stadium,23720,
+1999-00,2000-02-19,France,England,9,15,Stade de France,23728,
+1999-00,2000-02-19,Wales,Italy,47,16,Principality Stadium,23730,
+1999-00,2000-02-19,Ireland,Scotland,44,22,Aviva Stadium,23729,
+1999-00,2000-03-04,Scotland,France,16,28,Scottish Gas Murrayfield,23736,
+1999-00,2000-03-04,England,Wales,46,12,Allianz Stadium,23735,
+1999-00,2000-03-04,Ireland,Italy,60,13,Aviva Stadium,23737,
+1999-00,2000-03-18,Italy,England,12,59,Stadio Flaminio,23743,
+1999-00,2000-03-18,Wales,Scotland,26,18,Principality Stadium,23742,
+1999-00,2000-03-19,France,Ireland,25,27,Stade de France,23745,
+1999-00,2000-04-01,France,Italy,42,31,Stade de France,23753,
+1999-00,2000-04-01,Ireland,Wales,19,23,Aviva Stadium,23752,
+1999-00,2000-04-02,Scotland,England,19,13,Scottish Gas Murrayfield,23757,
+2000-01,2001-02-03,Italy,Ireland,22,41,Stadio Flaminio,23906,
+2000-01,2001-02-03,Wales,England,15,44,Principality Stadium,23905,
+2000-01,2001-02-04,France,Scotland,16,6,Stade de France,23907,
+2000-01,2001-02-17,Ireland,France,22,15,Aviva Stadium,23913,
+2000-01,2001-02-17,England,Italy,80,23,Allianz Stadium,23914,
+2000-01,2001-02-17,Scotland,Wales,28,28,Scottish Gas Murrayfield,23912,
+2000-01,2001-03-03,Italy,France,19,30,Stadio Flaminio,23919,
+2000-01,2001-03-03,England,Scotland,43,3,Allianz Stadium,23918,
+2000-01,2001-03-17,France,Wales,35,43,Stade de France,23926,
+2000-01,2001-03-17,Scotland,Italy,23,19,Scottish Gas Murrayfield,23927,
+2000-01,2001-04-07,England,France,48,19,Allianz Stadium,23934,
+2000-01,2001-04-08,Italy,Wales,23,33,Stadio Flaminio,23938,
+2000-01,2001-09-22,Scotland,Ireland,32,10,Scottish Gas Murrayfield,24052,
+2000-01,2001-10-13,Wales,Ireland,6,36,Principality Stadium,24065,
+2000-01,2001-10-20,Ireland,England,20,14,Aviva Stadium,24072,
+2001-02,2002-02-02,France,Italy,33,12,Stade de France,24137,
+2001-02,2002-02-02,Scotland,England,3,29,Scottish Gas Murrayfield,24138,
+2001-02,2002-02-03,Ireland,Wales,54,10,Aviva Stadium,24139,
+2001-02,2002-02-16,Wales,France,33,37,Principality Stadium,24147,
+2001-02,2002-02-16,Italy,Scotland,12,29,Stadio Flaminio,24145,
+2001-02,2002-02-16,England,Ireland,45,11,Allianz Stadium,24146,
+2001-02,2002-03-02,France,England,20,15,Stade de France,24152,
+2001-02,2002-03-02,Wales,Italy,44,20,Principality Stadium,24151,
+2001-02,2002-03-02,Ireland,Scotland,43,22,Aviva Stadium,24153,
+2001-02,2002-03-23,Ireland,Italy,32,17,Aviva Stadium,24158,
+2001-02,2002-03-23,England,Wales,50,10,Allianz Stadium,24159,
+2001-02,2002-03-23,Scotland,France,10,22,Scottish Gas Murrayfield,24160,
+2001-02,2002-04-06,France,Ireland,44,5,Stade de France,24166,
+2001-02,2002-04-06,Wales,Scotland,22,27,Principality Stadium,24167,
+2001-02,2002-04-07,Italy,England,9,45,Stadio Flaminio,24175,
+2002-03,2003-02-15,Italy,Wales,30,22,Stadio Flaminio,24362,
+2002-03,2003-02-15,England,France,25,17,Allianz Stadium,24363,
+2002-03,2003-02-16,Scotland,Ireland,6,36,Scottish Gas Murrayfield,24364,
+2002-03,2003-02-22,Italy,Ireland,13,37,Stadio Flaminio,24367,
+2002-03,2003-02-22,Wales,England,9,26,Principality Stadium,24368,
+2002-03,2003-02-23,France,Scotland,38,3,Stade de France,24372,
+2002-03,2003-03-08,Ireland,France,15,12,Aviva Stadium,24374,
+2002-03,2003-03-08,Scotland,Wales,30,22,Scottish Gas Murrayfield,24373,
+2002-03,2003-03-09,England,Italy,40,5,Allianz Stadium,24377,
+2002-03,2003-03-22,Wales,Ireland,24,25,Principality Stadium,24383,
+2002-03,2003-03-22,England,Scotland,40,9,Allianz Stadium,24384,
+2002-03,2003-03-23,Italy,France,27,53,Stadio Flaminio,24388,
+2002-03,2003-03-29,France,Wales,33,5,Stade de France,24392,
+2002-03,2003-03-29,Scotland,Italy,33,25,Scottish Gas Murrayfield,24391,
+2002-03,2003-03-30,Ireland,England,6,42,Aviva Stadium,24396,
+2003-04,2004-02-14,France,Ireland,35,17,Stade de France,24611,
+2003-04,2004-02-14,Wales,Scotland,23,10,Principality Stadium,24612,
+2003-04,2004-02-15,Italy,England,9,50,Stadio Flaminio,24616,
+2003-04,2004-02-21,France,Italy,25,0,Stade de France,24618,
+2003-04,2004-02-21,Scotland,England,13,35,Scottish Gas Murrayfield,24617,
+2003-04,2004-02-22,Ireland,Wales,36,15,Aviva Stadium,24620,
+2003-04,2004-03-06,Italy,Scotland,20,14,Stadio Flaminio,24625,
+2003-04,2004-03-06,England,Ireland,13,19,Allianz Stadium,24624,
+2003-04,2004-03-07,Wales,France,22,29,Principality Stadium,24629,
+2003-04,2004-03-20,Ireland,Italy,19,3,Aviva Stadium,24633,
+2003-04,2004-03-20,England,Wales,31,21,Allianz Stadium,24632,
+2003-04,2004-03-21,Scotland,France,0,31,Scottish Gas Murrayfield,24636,
+2003-04,2004-03-27,Wales,Italy,44,10,Principality Stadium,24640,
+2003-04,2004-03-27,Ireland,Scotland,37,16,Aviva Stadium,24639,
+2003-04,2004-03-27,France,England,24,21,Stade de France,24638,
+2004-05,2005-02-05,France,Scotland,16,9,Stade de France,24843,
+2004-05,2005-02-05,Wales,England,11,9,Principality Stadium,24844,
+2004-05,2005-02-06,Italy,Ireland,17,28,Stadio Flaminio,24846,
+2004-05,2005-02-12,Italy,Wales,8,38,Stadio Flaminio,24847,
+2004-05,2005-02-12,Scotland,Ireland,13,40,Scottish Gas Murrayfield,24848,
+2004-05,2005-02-13,England,France,17,18,Allianz Stadium,24849,
+2004-05,2005-02-26,Scotland,Italy,18,10,Scottish Gas Murrayfield,24852,
+2004-05,2005-02-26,France,Wales,18,24,Stade de France,24853,
+2004-05,2005-02-27,Ireland,England,19,13,Aviva Stadium,24857,
+2004-05,2005-03-12,Ireland,France,19,26,Aviva Stadium,24859,
+2004-05,2005-03-12,England,Italy,39,7,Allianz Stadium,24860,
+2004-05,2005-03-13,Scotland,Wales,22,46,Scottish Gas Murrayfield,24866,
+2004-05,2005-03-19,Italy,France,13,56,Stadio Flaminio,24867,
+2004-05,2005-03-19,Wales,Ireland,32,20,Principality Stadium,24868,
+2004-05,2005-03-19,England,Scotland,43,22,Allianz Stadium,24869,
+2005-06,2006-02-04,Ireland,Italy,26,16,Aviva Stadium,25112,
+2005-06,2006-02-04,England,Wales,47,13,Allianz Stadium,25113,
+2005-06,2006-02-05,Scotland,France,20,16,Scottish Gas Murrayfield,25115,
+2005-06,2006-02-11,France,Ireland,43,31,Stade de France,25116,
+2005-06,2006-02-11,Italy,England,16,31,Stadio Flaminio,25117,
+2005-06,2006-02-12,Wales,Scotland,28,18,Principality Stadium,25118,
+2005-06,2006-02-25,France,Italy,37,12,Stade de France,25119,
+2005-06,2006-02-25,Scotland,England,18,12,Scottish Gas Murrayfield,25120,
+2005-06,2006-02-26,Ireland,Wales,31,5,Aviva Stadium,25123,
+2005-06,2006-03-11,Wales,Italy,18,18,Principality Stadium,25124,
+2005-06,2006-03-11,Ireland,Scotland,15,9,Aviva Stadium,25125,
+2005-06,2006-03-12,France,England,31,6,Stade de France,25129,
+2005-06,2006-03-18,Italy,Scotland,10,13,Stadio Flaminio,25130,
+2005-06,2006-03-18,Wales,France,16,21,Principality Stadium,25131,
+2005-06,2006-03-18,England,Ireland,24,28,Allianz Stadium,25132,
+2006-07,2007-02-03,Italy,France,3,39,Stadio Flaminio,25364,
+2006-07,2007-02-03,England,Scotland,42,20,Allianz Stadium,25365,
+2006-07,2007-02-04,Wales,Ireland,9,19,Principality Stadium,25368,
+2006-07,2007-02-10,England,Italy,20,7,Allianz Stadium,25369,
+2006-07,2007-02-10,Scotland,Wales,21,9,Scottish Gas Murrayfield,25370,
+2006-07,2007-02-11,Ireland,France,17,20,Croke Park,25373,
+2006-07,2007-02-24,Scotland,Italy,17,37,Scottish Gas Murrayfield,25374,
+2006-07,2007-02-24,Ireland,England,43,13,Croke Park,25375,
+2006-07,2007-02-24,France,Wales,32,21,Stade de France,25376,
+2006-07,2007-03-10,Scotland,Ireland,18,19,Scottish Gas Murrayfield,25377,
+2006-07,2007-03-10,Italy,Wales,23,20,Stadio Flaminio,25378,
+2006-07,2007-03-11,England,France,26,18,Allianz Stadium,25381,
+2006-07,2007-03-17,Italy,Ireland,24,51,Stadio Flaminio,25382,
+2006-07,2007-03-17,France,Scotland,46,19,Stade de France,25383,
+2006-07,2007-03-17,Wales,England,27,18,Principality Stadium,25384,
+2007-08,2008-02-02,Ireland,Italy,16,11,Croke Park,25583,
+2007-08,2008-02-02,England,Wales,19,26,Allianz Stadium,25584,
+2007-08,2008-02-03,Scotland,France,6,27,Scottish Gas Murrayfield,25586,
+2007-08,2008-02-09,Wales,Scotland,30,15,Principality Stadium,25587,
+2007-08,2008-02-09,France,Ireland,26,21,Stade de France,25588,
+2007-08,2008-02-10,Italy,England,19,23,Stadio Flaminio,25590,
+2007-08,2008-02-23,Wales,Italy,47,8,Principality Stadium,25592,
+2007-08,2008-02-23,Ireland,Scotland,34,13,Croke Park,25593,
+2007-08,2008-02-23,France,England,13,24,Stade de France,25594,
+2007-08,2008-03-08,Ireland,Wales,12,16,Croke Park,25598,
+2007-08,2008-03-08,Scotland,England,15,9,Scottish Gas Murrayfield,25599,
+2007-08,2008-03-09,France,Italy,25,13,Stade de France,25602,
+2007-08,2008-03-15,Italy,Scotland,23,20,Stadio Flaminio,25603,
+2007-08,2008-03-15,England,Ireland,33,10,Allianz Stadium,25604,
+2007-08,2008-03-15,Wales,France,29,12,Principality Stadium,25605,
+2008-09,2009-02-07,England,Italy,36,11,Allianz Stadium,25776,
+2008-09,2009-02-07,Ireland,France,30,21,Croke Park,25777,
+2008-09,2009-02-08,Scotland,Wales,13,26,Scottish Gas Murrayfield,25778,
+2008-09,2009-02-14,France,Scotland,22,13,Stade de France,25781,
+2008-09,2009-02-14,Wales,England,23,15,Principality Stadium,25782,
+2008-09,2009-02-15,Italy,Ireland,9,38,Stadio Flaminio,25783,
+2008-09,2009-02-27,France,Wales,21,16,Stade de France,25785,
+2008-09,2009-02-28,Scotland,Italy,26,6,Scottish Gas Murrayfield,25788,
+2008-09,2009-02-28,Ireland,England,14,13,Croke Park,25789,
+2008-09,2009-03-14,Italy,Wales,15,20,Stadio Flaminio,25793,
+2008-09,2009-03-14,Scotland,Ireland,15,22,Scottish Gas Murrayfield,25794,
+2008-09,2009-03-15,England,France,34,10,Allianz Stadium,25797,
+2008-09,2009-03-21,Italy,France,8,50,Stadio Flaminio,25804,
+2008-09,2009-03-21,England,Scotland,26,12,Allianz Stadium,25805,
+2008-09,2009-03-21,Wales,Ireland,15,17,Principality Stadium,25806,
+2009-10,2010-02-06,Ireland,Italy,29,11,Croke Park,94943,36385
+2009-10,2010-02-06,England,Wales,30,17,Allianz Stadium,94944,35713
+2009-10,2010-02-07,Scotland,France,9,18,Scottish Gas Murrayfield,94945,36247
+2009-10,2010-02-13,Wales,Scotland,31,24,Principality Stadium,94946,35436
+2009-10,2010-02-13,France,Ireland,33,10,Stade de France,94947,35258
+2009-10,2010-02-14,Italy,England,12,17,Stadio Flaminio,94948,35719
+2009-10,2010-02-26,Wales,France,20,26,Principality Stadium,94949,35920
+2009-10,2010-02-27,Italy,Scotland,16,12,Stadio Flaminio,94950,36471
+2009-10,2010-02-27,England,Ireland,16,20,Allianz Stadium,94951,36388
+2009-10,2010-03-13,Ireland,Wales,27,12,Croke Park,94952,35855
+2009-10,2010-03-13,Scotland,England,15,15,Scottish Gas Murrayfield,94953,35299
+2009-10,2010-03-14,France,Italy,46,20,Stade de France,94954,35770
+2009-10,2010-03-20,Wales,Italy,33,10,Principality Stadium,94955,36033
+2009-10,2010-03-20,Ireland,Scotland,20,23,Croke Park,94956,35236
+2009-10,2010-03-20,France,England,12,10,Stade de France,94957,36180
+2010-11,2011-02-04,Wales,England,19,26,Principality Stadium,114117,42842
+2010-11,2011-02-05,Italy,Ireland,11,13,Stadio Flaminio,114118,43078
+2010-11,2011-02-05,France,Scotland,34,21,Stade de France,114119,42641
+2010-11,2011-02-12,England,Italy,59,13,Allianz Stadium,114120,42407
+2010-11,2011-02-12,Scotland,Wales,6,24,Scottish Gas Murrayfield,114121,43076
+2010-11,2011-02-13,Ireland,France,22,25,Aviva Stadium,114122,43685
+2010-11,2011-02-26,Italy,Wales,16,24,Stadio Flaminio,114123,43432
+2010-11,2011-02-26,England,France,17,9,Allianz Stadium,114124,42764
+2010-11,2011-02-27,Scotland,Ireland,18,21,Scottish Gas Murrayfield,114125,43554
+2010-11,2011-03-12,Italy,France,22,21,Stadio Flaminio,114126,42890
+2010-11,2011-03-12,Wales,Ireland,19,13,Principality Stadium,114127,42861
+2010-11,2011-03-13,England,Scotland,22,16,Allianz Stadium,114128,42327
+2010-11,2011-03-19,Scotland,Italy,21,8,Scottish Gas Murrayfield,114129,43182
+2010-11,2011-03-19,Ireland,England,24,8,Aviva Stadium,114130,42516
+2010-11,2011-03-19,France,Wales,28,9,Stade de France,114131,42615
+2011-12,2012-02-04,France,Italy,30,12,Stade de France,133767,50213
+2011-12,2012-02-04,Scotland,England,6,13,Scottish Gas Murrayfield,133768,49936
+2011-12,2012-02-05,Ireland,Wales,21,23,Aviva Stadium,133769,50630
+2011-12,2012-02-11,Italy,England,15,19,Stadio Olimpico,133770,49947
+2011-12,2012-02-12,Wales,Scotland,27,13,Principality Stadium,133772,50078
+2011-12,2012-02-25,Ireland,Italy,42,10,Aviva Stadium,133773,50349
+2011-12,2012-02-25,England,Wales,12,19,Allianz Stadium,133774,49649
+2011-12,2012-02-26,Scotland,France,17,23,Scottish Gas Murrayfield,133775,50170
+2011-12,2012-03-04,France,Ireland,17,17,Stade de France,133771,52289
+2011-12,2012-03-10,Wales,Italy,24,3,Principality Stadium,133776,50716
+2011-12,2012-03-10,Ireland,Scotland,32,14,Aviva Stadium,133777,50667
+2011-12,2012-03-11,France,England,22,24,Stade de France,133778,50113
+2011-12,2012-03-17,Italy,Scotland,13,6,Stadio Olimpico,133779,50674
+2011-12,2012-03-17,Wales,France,16,9,Principality Stadium,133780,49736
+2011-12,2012-03-17,England,Ireland,30,9,Allianz Stadium,133781,49693
+2012-13,2013-02-02,Wales,Ireland,22,30,Principality Stadium,133782,56269
+2012-13,2013-02-02,England,Scotland,38,18,Allianz Stadium,133783,56270
+2012-13,2013-02-03,Italy,France,23,18,Stadio Olimpico,133784,56271
+2012-13,2013-02-09,Scotland,Italy,34,10,Scottish Gas Murrayfield,133785,56272
+2012-13,2013-02-09,France,Wales,6,16,Stade de France,133786,56273
+2012-13,2013-02-10,Ireland,England,6,12,Aviva Stadium,133787,56274
+2012-13,2013-02-23,Italy,Wales,9,26,Stadio Olimpico,133788,56275
+2012-13,2013-02-23,England,France,23,13,Allianz Stadium,133789,56276
+2012-13,2013-02-24,Scotland,Ireland,12,8,Scottish Gas Murrayfield,133790,56277
+2012-13,2013-03-09,Scotland,Wales,28,28,Scottish Gas Murrayfield,133791,56280
+2012-13,2013-03-09,Ireland,France,13,13,Aviva Stadium,133792,56281
+2012-13,2013-03-10,England,Italy,18,11,Allianz Stadium,133793,56279
+2012-13,2013-03-16,Italy,Ireland,22,15,Stadio Olimpico,133794,56278
+2012-13,2013-03-16,Wales,England,30,3,Principality Stadium,133795,56282
+2012-13,2013-03-16,France,Scotland,23,16,Stade de France,133796,56283
+2013-14,2014-02-01,Wales,Italy,23,15,Principality Stadium,180664,59399
+2013-14,2014-02-01,France,England,26,24,Stade de France,180665,59398
+2013-14,2014-02-02,Ireland,Scotland,28,6,Aviva Stadium,180666,59392
+2013-14,2014-02-08,Ireland,Wales,26,3,Aviva Stadium,180667,59397
+2013-14,2014-02-08,Scotland,England,0,20,Scottish Gas Murrayfield,180668,59400
+2013-14,2014-02-09,France,Italy,30,10,Stade de France,180669,59401
+2013-14,2014-02-21,Wales,France,27,6,Principality Stadium,180670,59402
+2013-14,2014-02-22,Italy,Scotland,20,21,Stadio Olimpico,180671,59404
+2013-14,2014-02-22,England,Ireland,13,10,Allianz Stadium,180672,59405
+2013-14,2014-03-08,Ireland,Italy,46,7,Aviva Stadium,180673,59403
+2013-14,2014-03-08,Scotland,France,17,19,Scottish Gas Murrayfield,180674,59406
+2013-14,2014-03-09,England,Wales,29,18,Allianz Stadium,180675,59407
+2013-14,2014-03-15,Italy,England,11,52,Stadio Olimpico,180676,59409
+2013-14,2014-03-15,Wales,Scotland,51,3,Principality Stadium,180677,59410
+2013-14,2014-03-15,France,Ireland,20,22,Stade de France,180678,59408
+2014-15,2015-02-06,Wales,England,16,21,Principality Stadium,180679,68732
+2014-15,2015-02-07,Italy,Ireland,3,26,Stadio Olimpico,180680,68734
+2014-15,2015-02-07,France,Scotland,15,8,Stade de France,180681,68735
+2014-15,2015-02-14,England,Italy,47,17,Allianz Stadium,180682,68733
+2014-15,2015-02-14,Ireland,France,18,11,Aviva Stadium,180683,68736
+2014-15,2015-02-15,Scotland,Wales,23,26,Scottish Gas Murrayfield,180684,68737
+2014-15,2015-02-28,Scotland,Italy,19,22,Scottish Gas Murrayfield,180685,68739
+2014-15,2015-02-28,France,Wales,13,20,Stade de France,180686,68740
+2014-15,2015-03-01,Ireland,England,19,9,Aviva Stadium,180687,68738
+2014-15,2015-03-14,Wales,Ireland,23,16,Principality Stadium,180688,68742
+2014-15,2015-03-14,England,Scotland,25,13,Allianz Stadium,180689,68743
+2014-15,2015-03-15,Italy,France,0,29,Stadio Olimpico,180690,68741
+2014-15,2015-03-21,Italy,Wales,20,61,Stadio Olimpico,180691,68744
+2014-15,2015-03-21,Scotland,Ireland,10,40,Scottish Gas Murrayfield,180692,68745
+2014-15,2015-03-21,England,France,55,35,Allianz Stadium,180693,68746
+2015-16,2016-02-06,France,Italy,23,21,Stade de France,254973,74952
+2015-16,2016-02-06,Scotland,England,9,15,Scottish Gas Murrayfield,254975,74953
+2015-16,2016-02-07,Ireland,Wales,16,16,Aviva Stadium,254977,74954
+2015-16,2016-02-13,France,Ireland,10,9,Stade de France,254979,74955
+2015-16,2016-02-13,Wales,Scotland,27,23,Principality Stadium,254981,74956
+2015-16,2016-02-14,Italy,England,9,40,Stadio Olimpico,254983,74957
+2015-16,2016-02-26,Wales,France,19,10,Principality Stadium,254985,74958
+2015-16,2016-02-27,Italy,Scotland,20,36,Stadio Olimpico,254987,74959
+2015-16,2016-02-27,England,Ireland,21,10,Allianz Stadium,254989,74960
+2015-16,2016-03-12,Ireland,Italy,58,15,Aviva Stadium,254991,74961
+2015-16,2016-03-12,England,Wales,25,21,Allianz Stadium,254993,74962
+2015-16,2016-03-13,Scotland,France,29,18,Scottish Gas Murrayfield,254995,74963
+2015-16,2016-03-19,Wales,Italy,67,14,Principality Stadium,254997,74964
+2015-16,2016-03-19,Ireland,Scotland,35,25,Aviva Stadium,254999,74965
+2015-16,2016-03-19,France,England,21,31,Stade de France,255001,74966
+2016-17,2017-02-04,Scotland,Ireland,27,22,Scottish Gas Murrayfield,290767,77804
+2016-17,2017-02-04,England,France,19,16,Allianz Stadium,290768,77805
+2016-17,2017-02-05,Italy,Wales,7,33,Stadio Olimpico,290904,77806
+2016-17,2017-02-11,Italy,Ireland,10,63,Stadio Olimpico,290905,77807
+2016-17,2017-02-11,Wales,England,16,21,Principality Stadium,290906,77808
+2016-17,2017-02-12,France,Scotland,22,16,Stade de France,290907,77809
+2016-17,2017-02-25,Scotland,Wales,29,13,Scottish Gas Murrayfield,290908,77810
+2016-17,2017-02-25,Ireland,France,19,9,Aviva Stadium,290909,77811
+2016-17,2017-02-26,England,Italy,36,15,Allianz Stadium,290910,77812
+2016-17,2017-03-10,Wales,Ireland,22,9,Principality Stadium,290911,77813
+2016-17,2017-03-11,Italy,France,18,40,Stadio Olimpico,290912,77814
+2016-17,2017-03-11,England,Scotland,61,21,Allianz Stadium,290913,77815
+2016-17,2017-03-18,Scotland,Italy,29,0,Scottish Gas Murrayfield,290914,77816
+2016-17,2017-03-18,France,Wales,20,18,Stade de France,290915,77817
+2016-17,2017-03-18,Ireland,England,13,9,Aviva Stadium,290916,77818
+2017-18,2018-02-03,Wales,Scotland,34,7,Principality Stadium,291689,81914
+2017-18,2018-02-03,France,Ireland,13,15,Stade de France,291690,81915
+2017-18,2018-02-04,Italy,England,15,46,Stadio Olimpico,291691,81916
+2017-18,2018-02-10,Ireland,Italy,56,19,Aviva Stadium,291692,81917
+2017-18,2018-02-10,England,Wales,12,6,Allianz Stadium,291693,81918
+2017-18,2018-02-11,Scotland,France,32,26,Scottish Gas Murrayfield,291694,81919
+2017-18,2018-02-23,France,Italy,34,17,Orange Velodrome,291695,81920
+2017-18,2018-02-24,Ireland,Wales,37,27,Aviva Stadium,291696,81921
+2017-18,2018-02-24,Scotland,England,25,13,Scottish Gas Murrayfield,291697,81922
+2017-18,2018-03-10,Ireland,Scotland,28,8,Aviva Stadium,291698,81923
+2017-18,2018-03-10,France,England,22,16,Stade de France,291699,81924
+2017-18,2018-03-11,Wales,Italy,38,14,Principality Stadium,291700,81925
+2017-18,2018-03-17,Italy,Scotland,27,29,Stadio Olimpico,291701,81926
+2017-18,2018-03-17,England,Ireland,15,24,Allianz Stadium,291702,81927
+2017-18,2018-03-17,Wales,France,14,13,Principality Stadium,291703,81928
+2018-19,2019-02-01,France,Wales,19,24,Stade de France,294246,87082
+2018-19,2019-02-02,Scotland,Italy,33,20,Scottish Gas Murrayfield,294247,87083
+2018-19,2019-02-02,Ireland,England,20,32,Aviva Stadium,294248,87084
+2018-19,2019-02-09,Scotland,Ireland,13,22,Scottish Gas Murrayfield,294249,87085
+2018-19,2019-02-09,Italy,Wales,15,26,Stadio Olimpico,294250,87086
+2018-19,2019-02-10,England,France,44,8,Allianz Stadium,294251,87087
+2018-19,2019-02-23,France,Scotland,27,10,Stade de France,294252,87088
+2018-19,2019-02-23,Wales,England,21,13,Principality Stadium,294253,87089
+2018-19,2019-02-24,Italy,Ireland,16,26,Stadio Olimpico,294254,87090
+2018-19,2019-03-09,Scotland,Wales,11,18,Scottish Gas Murrayfield,294255,87091
+2018-19,2019-03-09,England,Italy,57,14,Allianz Stadium,294256,87092
+2018-19,2019-03-10,Ireland,France,26,14,Aviva Stadium,294257,87093
+2018-19,2019-03-16,Italy,France,14,25,Stadio Olimpico,294258,87094
+2018-19,2019-03-16,Wales,Ireland,25,7,Principality Stadium,294259,87095
+2018-19,2019-03-16,England,Scotland,38,38,Allianz Stadium,294260,87096
+2019-20,2020-02-01,Wales,Italy,42,0,Principality Stadium,295492,91498
+2019-20,2020-02-01,Ireland,Scotland,19,12,Aviva Stadium,295493,91499
+2019-20,2020-02-02,France,England,24,17,Stade de France,295494,91500
+2019-20,2020-02-08,Ireland,Wales,24,14,Aviva Stadium,295495,91501
+2019-20,2020-02-08,Scotland,England,6,13,Scottish Gas Murrayfield,295496,91502
+2019-20,2020-02-09,France,Italy,35,22,Stade de France,295497,91503
+2019-20,2020-02-22,Italy,Scotland,0,17,Stadio Olimpico,295498,91504
+2019-20,2020-02-22,Wales,France,23,27,Principality Stadium,295499,91505
+2019-20,2020-02-23,England,Ireland,24,12,Allianz Stadium,295500,91506
+2019-20,2020-03-07,England,Wales,33,30,Allianz Stadium,295502,91508
+2019-20,2020-03-08,Scotland,France,28,17,Scottish Gas Murrayfield,295503,91509
+2019-20,2020-10-24,Ireland,Italy,50,17,Aviva Stadium,295501,96527
+2019-20,2020-10-31,Wales,Scotland,10,14,Parc y Scarlets,295504,96528
+2019-20,2020-10-31,Italy,England,5,34,Stadio Olimpico,295505,96529
+2019-20,2020-10-31,France,Ireland,35,27,Stade de France,295506,96530
+2020-21,2021-02-06,Italy,France,10,50,Stadio Olimpico,593094,97515
+2020-21,2021-02-06,England,Scotland,6,11,Allianz Stadium,593095,97516
+2020-21,2021-02-07,Wales,Ireland,21,16,Principality Stadium,593096,97517
+2020-21,2021-02-13,England,Italy,41,18,Allianz Stadium,593097,97518
+2020-21,2021-02-13,Scotland,Wales,24,25,Scottish Gas Murrayfield,593098,97519
+2020-21,2021-02-14,Ireland,France,13,15,Aviva Stadium,593099,97520
+2020-21,2021-02-27,Italy,Ireland,10,48,Stadio Olimpico,593100,97521
+2020-21,2021-02-27,Wales,England,40,24,Principality Stadium,593101,97522
+2020-21,2021-03-13,Italy,Wales,7,48,Stadio Olimpico,593103,97524
+2020-21,2021-03-13,England,France,23,20,Allianz Stadium,593104,97525
+2020-21,2021-03-14,Scotland,Ireland,24,27,Scottish Gas Murrayfield,593105,97526
+2020-21,2021-03-20,Scotland,Italy,52,10,Scottish Gas Murrayfield,593106,97527
+2020-21,2021-03-20,Ireland,England,32,18,Aviva Stadium,593107,97528
+2020-21,2021-03-20,France,Wales,32,30,Stade de France,593108,97530
+2020-21,2021-03-26,France,Scotland,23,27,Stade de France,593102,97976
+2021-22,2022-02-05,Ireland,Wales,29,7,Aviva Stadium,595080,
+2021-22,2022-02-05,Scotland,England,20,17,Scottish Gas Murrayfield,595081,
+2021-22,2022-02-06,France,Italy,37,10,Stade de France,595082,
+2021-22,2022-02-12,Wales,Scotland,20,17,Principality Stadium,595083,
+2021-22,2022-02-12,France,Ireland,30,24,Stade de France,595084,
+2021-22,2022-02-13,Italy,England,0,33,Stadio Olimpico,595085,
+2021-22,2022-02-26,Scotland,France,17,36,Scottish Gas Murrayfield,595086,
+2021-22,2022-02-26,England,Wales,23,19,Allianz Stadium,595087,
+2021-22,2022-02-27,Ireland,Italy,57,6,Aviva Stadium,595088,
+2021-22,2022-03-11,Wales,France,9,13,Principality Stadium,595089,
+2021-22,2022-03-12,Italy,Scotland,22,33,Stadio Olimpico,595090,
+2021-22,2022-03-12,England,Ireland,15,32,Allianz Stadium,595091,
+2021-22,2022-03-19,Wales,Italy,21,22,Principality Stadium,595092,
+2021-22,2022-03-19,Ireland,Scotland,26,5,Aviva Stadium,595093,
+2021-22,2022-03-19,France,England,25,13,Stade de France,595094,
+2022-23,2023-02-04,Wales,Ireland,10,34,Principality Stadium,596205,
+2022-23,2023-02-04,England,Scotland,23,29,Allianz Stadium,596206,
+2022-23,2023-02-05,Italy,France,24,29,Stadio Olimpico,596207,
+2022-23,2023-02-11,Ireland,France,32,19,Aviva Stadium,596208,
+2022-23,2023-02-11,Scotland,Wales,35,7,Scottish Gas Murrayfield,596209,
+2022-23,2023-02-12,England,Italy,31,14,Allianz Stadium,596210,
+2022-23,2023-02-25,Italy,Ireland,20,34,Stadio Olimpico,596211,
+2022-23,2023-02-25,Wales,England,10,20,Principality Stadium,596212,
+2022-23,2023-02-26,France,Scotland,32,21,Stade de France,596213,
+2022-23,2023-03-11,Italy,Wales,17,29,Stadio Olimpico,596214,
+2022-23,2023-03-11,England,France,10,53,Allianz Stadium,596215,
+2022-23,2023-03-12,Scotland,Ireland,7,22,Scottish Gas Murrayfield,596216,
+2022-23,2023-03-18,Scotland,Italy,26,14,Scottish Gas Murrayfield,596217,
+2022-23,2023-03-18,France,Wales,41,28,Stade de France,596218,
+2022-23,2023-03-18,Ireland,England,29,16,Aviva Stadium,596219,
+2023-24,,Scotland,Italy,26,14,,,102877
+2023-24,,France,Wales,41,28,,,102878
+2023-24,,Ireland,England,29,16,,,102879
+2023-24,,Scotland,Ireland,7,22,,,102876
+2023-24,,Italy,Wales,17,29,,,102874
+2023-24,,England,France,10,53,,,102875
+2023-24,,France,Scotland,32,21,,,102873
+2023-24,,Italy,Ireland,20,34,,,102871
+2023-24,,Wales,England,10,20,,,102872
+2023-24,,England,Italy,31,14,,,102870
+2023-24,,Ireland,France,32,19,,,102868
+2023-24,,Scotland,Wales,35,7,,,102869
+2023-24,,Italy,France,24,29,,,102867
+2023-24,,Wales,Ireland,10,34,,,102865
+2023-24,,England,Scotland,23,29,,,102866
+2023-24,2024-02-02,France,Ireland,17,38,Orange Velodrome,597377,98091
+2023-24,2024-02-03,Italy,England,24,27,Stadio Olimpico,597378,98092
+2023-24,2024-02-03,Wales,Scotland,26,27,Principality Stadium,597379,98090
+2023-24,2024-02-10,Scotland,France,16,20,Scottish Gas Murrayfield,597380,98093
+2023-24,2024-02-10,England,Wales,16,14,Allianz Stadium,597381,98094
+2023-24,2024-02-11,Ireland,Italy,36,0,Aviva Stadium,597382,98095
+2023-24,2024-02-24,Ireland,Wales,31,7,Aviva Stadium,597383,98087
+2023-24,2024-02-24,Scotland,England,30,21,Scottish Gas Murrayfield,597384,98088
+2023-24,2024-02-25,France,Italy,13,13,Stade Pierre Mauroy,597385,98089
+2023-24,2024-03-09,Italy,Scotland,31,29,Stadio Olimpico,597386,98097
+2023-24,2024-03-09,England,Ireland,23,22,Allianz Stadium,597387,98098
+2023-24,2024-03-10,Wales,France,24,45,Principality Stadium,597388,98096
+2023-24,2024-03-16,Wales,Italy,21,24,Principality Stadium,597389,98100
+2023-24,2024-03-16,Ireland,Scotland,17,13,Aviva Stadium,597390,98101
+2023-24,2024-03-16,France,England,33,31,Groupama Stadium,597391,98099
+2024-25,2025-01-31,France,Wales,43,0,Stade de France,600250,108360
+2024-25,2025-02-01,Scotland,Italy,31,19,Scottish Gas Murrayfield,600251,108361
+2024-25,2025-02-01,Ireland,England,27,22,Aviva Stadium,600252,108362
+2024-25,2025-02-08,Italy,Wales,22,15,Stadio Olimpico,600253,108363
+2024-25,2025-02-08,England,France,26,25,Allianz Stadium,600254,108364
+2024-25,2025-02-09,Scotland,Ireland,18,32,Scottish Gas Murrayfield,600255,108365
+2024-25,2025-02-22,Wales,Ireland,18,27,Principality Stadium,600256,108366
+2024-25,2025-02-22,England,Scotland,16,15,Allianz Stadium,600257,108367
+2024-25,2025-02-23,Italy,France,24,73,Stadio Olimpico,600258,108368
+2024-25,2025-03-08,Ireland,France,27,42,Aviva Stadium,600259,108369
+2024-25,2025-03-08,Scotland,Wales,35,29,Scottish Gas Murrayfield,600260,108370
+2024-25,2025-03-09,England,Italy,47,24,Allianz Stadium,600261,108371
+2024-25,2025-03-15,Italy,Ireland,17,22,Stadio Olimpico,600262,108372
+2024-25,2025-03-15,Wales,England,14,68,Principality Stadium,600263,108373
+2024-25,2025-03-15,France,Scotland,35,16,Stade de France,600264,108374

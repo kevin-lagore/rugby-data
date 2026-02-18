@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.skysports.com)",
+      "Bash(dir:*)",
+      "Bash(gh auth:*)",
+      "WebFetch(domain:www.espn.co.uk)",
+      "WebFetch(domain:www.espn.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.sixnationsrugby.com)",
+      "WebFetch(domain:www.rugbydatabase.co.uk)",
+      "WebFetch(domain:www.rugbypass.com)",
+      "WebFetch(domain:site.api.espn.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\pip.exe\" install -r \"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\requirements.txt\")",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\python.exe\" -c:*)",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\python.exe\":*)",
+      "WebFetch(domain:eu-cdn.rugbypass.com)",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\python.exe\" -m src.scraping.run_scraper:*)",
+      "Bash(ls:*)",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\python.exe\" -c \"\nimport os\ncsv_path = r''c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\data\\\\players.csv''\nlog_path = r''C:\\\\Users\\\\kevin\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-kevin-Hobby-Projects-Rugby\\\\tasks\\\\b4a0808.output''\nif os.path.exists\\(csv_path\\):\n    with open\\(csv_path, ''r'', encoding=''utf-8''\\) as f:\n        rows = sum\\(1 for _ in f\\) - 1\n    print\\(f''CSV rows: {rows}''\\)\nwith open\\(log_path, ''r'', encoding=''utf-8''\\) as f:\n    lines = f.readlines\\(\\)\nfor line in lines[-5:]:\n    print\\(line.rstrip\\(\\)\\)\n\")",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:sports.core.api.espn.com)",
+      "Bash(curl:*)",
+      "Bash(cd:*)",
+      "Bash(wc -l:*)",
+      "Bash(find:*)",
+      "Bash(venv/Scripts/pip install:*)",
+      "Bash(venv/Scripts/python:*)",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\python.exe\" -c \"\nimport os\npath = r''c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\data\\\\players.csv''\nwith open\\(path, ''r'', encoding=''utf-8''\\) as f:\n    rows = sum\\(1 for _ in f\\) - 1\nremaining = 17724 - rows\nrate = rows / \\(55*60\\)  # ~55 min since 09:47\nprint\\(f''CSV rows: {rows:,} / 17,724 \\({rows/17724*100:.1f}%\\)''\\)\nprint\\(f''Rate: ~{rate:.1f}/sec \\(~{rate*60:.0f}/min\\)''\\)\nprint\\(f''Remaining: {remaining:,} | ETA: ~{remaining/rate/60:.0f}min \\(~{remaining/rate/3600:.1f}h\\)''\\)\n\")",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\python.exe\" -c \"\nimport os\npath = r''c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\data\\\\players.csv''\nwith open\\(path, ''r'', encoding=''utf-8''\\) as f:\n    rows = sum\\(1 for _ in f\\) - 1\nremaining = 17724 - rows\nrate = rows / \\(80*60\\)  # ~80 min since 09:47\nprint\\(f''CSV rows: {rows:,} / 17,724 \\({rows/17724*100:.1f}%\\)''\\)\nprint\\(f''Rate: ~{rate:.1f}/sec \\(~{rate*60:.0f}/min\\)''\\)\nprint\\(f''Remaining: {remaining:,} | ETA: ~{remaining/rate/60:.0f}min \\(~{remaining/rate/3600:.1f}h\\)''\\)\n\")",
+      "Bash(\"c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\venv\\\\Scripts\\\\python.exe\" -c \"\nimport os\npath = r''c:\\\\Users\\\\kevin\\\\Hobby Projects\\\\Rugby\\\\data\\\\players.csv''\nwith open\\(path, ''r'', encoding=''utf-8''\\) as f:\n    rows = sum\\(1 for _ in f\\) - 1\nremaining = 17724 - rows\nprint\\(f''CSV rows: {rows:,} / 17,724 \\({rows/17724*100:.1f}%\\)''\\)\nif remaining > 0:\n    print\\(f''Remaining: {remaining:,}''\\)\nelse:\n    print\\(''COMPLETE!''\\)\n\")"
+    ]
+  }
+}

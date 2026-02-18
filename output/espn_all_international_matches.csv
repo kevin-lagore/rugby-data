@@ -1,0 +1,1650 @@
+season,tournament,date,home_team,away_team,home_score,away_score,venue,espn_match_id
+1999-00,Six Nations,2000-02-05,Italy,Scotland,34,20,Stadio Flaminio,23722
+1999-00,Six Nations,2000-02-05,England,Ireland,50,18,Allianz Stadium,23721
+1999-00,Six Nations,2000-02-05,Wales,France,3,36,Principality Stadium,23720
+1999-00,Six Nations,2000-02-19,France,England,9,15,Stade de France,23728
+1999-00,Six Nations,2000-02-19,Wales,Italy,47,16,Principality Stadium,23730
+1999-00,Six Nations,2000-02-19,Ireland,Scotland,44,22,Aviva Stadium,23729
+1999-00,Six Nations,2000-03-04,Scotland,France,16,28,Scottish Gas Murrayfield,23736
+1999-00,Six Nations,2000-03-04,England,Wales,46,12,Allianz Stadium,23735
+1999-00,Six Nations,2000-03-04,Ireland,Italy,60,13,Aviva Stadium,23737
+1999-00,Six Nations,2000-03-18,Italy,England,12,59,Stadio Flaminio,23743
+1999-00,Six Nations,2000-03-18,Wales,Scotland,26,18,Principality Stadium,23742
+1999-00,Six Nations,2000-03-19,France,Ireland,25,27,Stade de France,23745
+1999-00,Six Nations,2000-04-01,France,Italy,42,31,Stade de France,23753
+1999-00,Six Nations,2000-04-01,Ireland,Wales,19,23,Aviva Stadium,23752
+1999-00,Six Nations,2000-04-02,Scotland,England,19,13,Scottish Gas Murrayfield,23757
+2000,Rugby Championship / Tri Nations,2000-07-15,Australia,New Zealand,35,39,Accor Stadium,23836
+2000,Rugby Championship / Tri Nations,2000-07-22,New Zealand,South Africa,25,12,Jade Stadium (Lancaster Park),23841
+2000,Rugby Championship / Tri Nations,2000-07-29,Australia,South Africa,26,6,Accor Stadium,23843
+2000,Rugby Championship / Tri Nations,2000-08-05,New Zealand,Australia,23,24,Sky Stadium,23844
+2000,Rugby Championship / Tri Nations,2000-08-19,South Africa,New Zealand,46,40,Ellis Park,23845
+2000,Rugby Championship / Tri Nations,2000-08-26,South Africa,Australia,18,19,Hollywoodbets Kings Park,23846
+2000-01,Six Nations,2001-02-03,Italy,Ireland,22,41,Stadio Flaminio,23906
+2000-01,Six Nations,2001-02-03,Wales,England,15,44,Principality Stadium,23905
+2000-01,Six Nations,2001-02-04,France,Scotland,16,6,Stade de France,23907
+2000-01,Six Nations,2001-02-17,Ireland,France,22,15,Aviva Stadium,23913
+2000-01,Six Nations,2001-02-17,England,Italy,80,23,Allianz Stadium,23914
+2000-01,Six Nations,2001-02-17,Scotland,Wales,28,28,Scottish Gas Murrayfield,23912
+2000-01,Six Nations,2001-03-03,Italy,France,19,30,Stadio Flaminio,23919
+2000-01,Six Nations,2001-03-03,England,Scotland,43,3,Allianz Stadium,23918
+2000-01,Six Nations,2001-03-17,France,Wales,35,43,Stade de France,23926
+2000-01,Six Nations,2001-03-17,Scotland,Italy,23,19,Scottish Gas Murrayfield,23927
+2000-01,Six Nations,2001-04-07,England,France,48,19,Allianz Stadium,23934
+2000-01,Six Nations,2001-04-08,Italy,Wales,23,33,Stadio Flaminio,23938
+2001,Rugby Championship / Tri Nations,2001-07-21,South Africa,New Zealand,3,12,DHL Newlands,24036
+2001,Rugby Championship / Tri Nations,2001-07-28,South Africa,Australia,20,15,Loftus Versfeld,24038
+2001,Rugby Championship / Tri Nations,2001-08-11,New Zealand,Australia,15,23,Carisbrook,24040
+2001,Rugby Championship / Tri Nations,2001-08-18,Australia,South Africa,14,14,Patersons Stadium,24042
+2001,Rugby Championship / Tri Nations,2001-08-25,New Zealand,South Africa,26,15,Eden Park,24043
+2001,Rugby Championship / Tri Nations,2001-09-01,Australia,New Zealand,29,26,Accor Stadium,24045
+2000-01,Six Nations,2001-09-22,Scotland,Ireland,32,10,Scottish Gas Murrayfield,24052
+2000-01,Six Nations,2001-10-13,Wales,Ireland,6,36,Principality Stadium,24065
+2000-01,Six Nations,2001-10-20,Ireland,England,20,14,Aviva Stadium,24072
+2001-02,Six Nations,2002-02-02,France,Italy,33,12,Stade de France,24137
+2001-02,Six Nations,2002-02-02,Scotland,England,3,29,Scottish Gas Murrayfield,24138
+2001-02,Six Nations,2002-02-03,Ireland,Wales,54,10,Aviva Stadium,24139
+2001-02,Six Nations,2002-02-16,Wales,France,33,37,Principality Stadium,24147
+2001-02,Six Nations,2002-02-16,Italy,Scotland,12,29,Stadio Flaminio,24145
+2001-02,Six Nations,2002-02-16,England,Ireland,45,11,Allianz Stadium,24146
+2001-02,Six Nations,2002-03-02,France,England,20,15,Stade de France,24152
+2001-02,Six Nations,2002-03-02,Wales,Italy,44,20,Principality Stadium,24151
+2001-02,Six Nations,2002-03-02,Ireland,Scotland,43,22,Aviva Stadium,24153
+2001-02,Six Nations,2002-03-23,Ireland,Italy,32,17,Aviva Stadium,24158
+2001-02,Six Nations,2002-03-23,England,Wales,50,10,Allianz Stadium,24159
+2001-02,Six Nations,2002-03-23,Scotland,France,10,22,Scottish Gas Murrayfield,24160
+2001-02,Six Nations,2002-04-06,France,Ireland,44,5,Stade de France,24166
+2001-02,Six Nations,2002-04-06,Wales,Scotland,22,27,Principality Stadium,24167
+2001-02,Six Nations,2002-04-07,Italy,England,9,45,Stadio Flaminio,24175
+2002,Rugby Championship / Tri Nations,2002-07-13,New Zealand,Australia,12,6,Jade Stadium (Lancaster Park),24251
+2002,Rugby Championship / Tri Nations,2002-07-20,New Zealand,South Africa,41,20,Sky Stadium,24254
+2002,Rugby Championship / Tri Nations,2002-07-27,Australia,South Africa,38,27,Wooloongabba,24256
+2002,Rugby Championship / Tri Nations,2002-08-03,Australia,New Zealand,16,14,Accor Stadium,24259
+2002,Rugby Championship / Tri Nations,2002-08-10,South Africa,New Zealand,23,30,Hollywoodbets Kings Park,24260
+2002,Rugby Championship / Tri Nations,2002-08-17,South Africa,Australia,33,31,Ellis Park,24264
+2002-03,Six Nations,2003-02-15,Italy,Wales,30,22,Stadio Flaminio,24362
+2002-03,Six Nations,2003-02-15,England,France,25,17,Allianz Stadium,24363
+2002-03,Six Nations,2003-02-16,Scotland,Ireland,6,36,Scottish Gas Murrayfield,24364
+2002-03,Six Nations,2003-02-22,Italy,Ireland,13,37,Stadio Flaminio,24367
+2002-03,Six Nations,2003-02-22,Wales,England,9,26,Principality Stadium,24368
+2002-03,Six Nations,2003-02-23,France,Scotland,38,3,Stade de France,24372
+2002-03,Six Nations,2003-03-08,Ireland,France,15,12,Aviva Stadium,24374
+2002-03,Six Nations,2003-03-08,Scotland,Wales,30,22,Scottish Gas Murrayfield,24373
+2002-03,Six Nations,2003-03-09,England,Italy,40,5,Allianz Stadium,24377
+2002-03,Six Nations,2003-03-22,Wales,Ireland,24,25,Principality Stadium,24383
+2002-03,Six Nations,2003-03-22,England,Scotland,40,9,Allianz Stadium,24384
+2002-03,Six Nations,2003-03-23,Italy,France,27,53,Stadio Flaminio,24388
+2002-03,Six Nations,2003-03-29,France,Wales,33,5,Stade de France,24392
+2002-03,Six Nations,2003-03-29,Scotland,Italy,33,25,Scottish Gas Murrayfield,24391
+2002-03,Six Nations,2003-03-30,Ireland,England,6,42,Aviva Stadium,24396
+2003,Rugby Championship / Tri Nations,2003-07-12,South Africa,Australia,26,22,DHL Newlands,24478
+2003,Rugby Championship / Tri Nations,2003-07-19,South Africa,New Zealand,16,52,Loftus Versfeld,24482
+2003,Rugby Championship / Tri Nations,2003-07-26,Australia,New Zealand,21,50,Accor Stadium,24484
+2003,Rugby Championship / Tri Nations,2003-08-02,Australia,South Africa,29,9,Suncorp Stadium,24485
+2003,Rugby Championship / Tri Nations,2003-08-09,New Zealand,South Africa,19,11,Carisbrook,24488
+2003,Rugby Championship / Tri Nations,2003-08-16,New Zealand,Australia,21,17,Eden Park,24489
+2003,Rugby World Cup,2003-10-10,Australia,Argentina,24,8,Accor Stadium,24536
+2003,Rugby World Cup,2003-10-11,New Zealand,Italy,70,7,Marvel Stadium,24541
+2003,Rugby World Cup,2003-10-11,Ireland,Romania,45,17,Central Coast Stadium,24543
+2003,Rugby World Cup,2003-10-11,France,Fiji,61,18,Suncorp Stadium,24542
+2003,Rugby World Cup,2003-10-11,South Africa,Uruguay,72,6,Patersons Stadium,24544
+2003,Rugby World Cup,2003-10-12,Wales,Canada,41,10,Marvel Stadium,24550
+2003,Rugby World Cup,2003-10-12,Scotland,Japan,32,11,Dairy Farmers Stadium,24551
+2003,Rugby World Cup,2003-10-12,England,Georgia,84,6,Patersons Stadium,24552
+2003,Rugby World Cup,2003-10-14,Argentina,Namibia,67,14,Central Coast Stadium,24559
+2003,Rugby World Cup,2003-10-15,United States of America,Fiji,18,19,Suncorp Stadium,24560
+2003,Rugby World Cup,2003-10-15,Tonga,Italy,12,36,GIO Stadium,24561
+2003,Rugby World Cup,2003-10-15,Samoa,Uruguay,60,13,Patersons Stadium,24562
+2003,Rugby World Cup,2003-10-17,New Zealand,Canada,68,6,Marvel Stadium,24564
+2003,Rugby World Cup,2003-10-18,Australia,Romania,90,8,Suncorp Stadium,24565
+2003,Rugby World Cup,2003-10-18,France,Japan,51,29,Dairy Farmers Stadium,24566
+2003,Rugby World Cup,2003-10-18,England,South Africa,25,6,Patersons Stadium,24567
+2003,Rugby World Cup,2003-10-19,Wales,Tonga,27,20,GIO Stadium,24568
+2003,Rugby World Cup,2003-10-19,Ireland,Namibia,64,7,Allianz Stadium,24569
+2003,Rugby World Cup,2003-10-19,Samoa,Georgia,46,9,Patersons Stadium,24570
+2003,Rugby World Cup,2003-10-20,Scotland,United States of America,39,15,Suncorp Stadium,24572
+2003,Rugby World Cup,2003-10-21,Italy,Canada,19,14,GIO Stadium,24574
+2003,Rugby World Cup,2003-10-22,Argentina,Romania,50,3,Allianz Stadium,24575
+2003,Rugby World Cup,2003-10-23,Fiji,Japan,41,13,Dairy Farmers Stadium,24576
+2003,Rugby World Cup,2003-10-24,New Zealand,Tonga,91,7,Suncorp Stadium,24577
+2003,Rugby World Cup,2003-10-24,South Africa,Georgia,46,19,Allianz Stadium,24578
+2003,Rugby World Cup,2003-10-25,Australia,Namibia,142,0,Adelaide Oval,24579
+2003,Rugby World Cup,2003-10-25,Wales,Italy,27,15,GIO Stadium,24580
+2003,Rugby World Cup,2003-10-25,Scotland,France,9,51,Accor Stadium,24581
+2003,Rugby World Cup,2003-10-26,Ireland,Argentina,16,15,Adelaide Oval,24588
+2003,Rugby World Cup,2003-10-26,England,Samoa,35,22,Marvel Stadium,24587
+2003,Rugby World Cup,2003-10-27,United States of America,Japan,39,26,Central Coast Stadium,24589
+2003,Rugby World Cup,2003-10-28,Uruguay,Georgia,24,12,Allianz Stadium,24590
+2003,Rugby World Cup,2003-10-29,Tonga,Canada,7,24,WIN Stadium,24591
+2003,Rugby World Cup,2003-10-30,Romania,Namibia,37,7,York Park,24592
+2003,Rugby World Cup,2003-10-31,France,United States of America,41,14,WIN Stadium,24593
+2003,Rugby World Cup,2003-11-01,Scotland,Fiji,22,20,Allianz Stadium,24594
+2003,Rugby World Cup,2003-11-01,South Africa,Samoa,60,10,Suncorp Stadium,24595
+2003,Rugby World Cup,2003-11-01,Australia,Ireland,17,16,Marvel Stadium,24596
+2003,Rugby World Cup,2003-11-02,England,Uruguay,111,13,Suncorp Stadium,24597
+2003,Rugby World Cup,2003-11-02,Wales,New Zealand,37,53,Accor Stadium,24598
+2003,Rugby World Cup,2003-11-08,South Africa,New Zealand,9,29,Marvel Stadium,24600
+2003,Rugby World Cup,2003-11-08,Australia,Scotland,33,16,Suncorp Stadium,24599
+2003,Rugby World Cup,2003-11-09,Ireland,France,21,43,Marvel Stadium,24603
+2003,Rugby World Cup,2003-11-09,England,Wales,28,17,Suncorp Stadium,24604
+2003,Rugby World Cup,2003-11-15,Australia,New Zealand,22,10,Accor Stadium,24605
+2003,Rugby World Cup,2003-11-16,England,France,24,7,Accor Stadium,24608
+2003,Rugby World Cup,2003-11-20,New Zealand,France,40,13,Accor Stadium,24609
+2003,Rugby World Cup,2003-11-22,Australia,England,17,20,Accor Stadium,24610
+2003-04,Six Nations,2004-02-14,France,Ireland,35,17,Stade de France,24611
+2003-04,Six Nations,2004-02-14,Wales,Scotland,23,10,Principality Stadium,24612
+2003-04,Six Nations,2004-02-15,Italy,England,9,50,Stadio Flaminio,24616
+2003-04,Six Nations,2004-02-21,France,Italy,25,0,Stade de France,24618
+2003-04,Six Nations,2004-02-21,Scotland,England,13,35,Scottish Gas Murrayfield,24617
+2003-04,Six Nations,2004-02-22,Ireland,Wales,36,15,Aviva Stadium,24620
+2003-04,Six Nations,2004-03-06,Italy,Scotland,20,14,Stadio Flaminio,24625
+2003-04,Six Nations,2004-03-06,England,Ireland,13,19,Allianz Stadium,24624
+2003-04,Six Nations,2004-03-07,Wales,France,22,29,Principality Stadium,24629
+2003-04,Six Nations,2004-03-20,Ireland,Italy,19,3,Aviva Stadium,24633
+2003-04,Six Nations,2004-03-20,England,Wales,31,21,Allianz Stadium,24632
+2003-04,Six Nations,2004-03-21,Scotland,France,0,31,Scottish Gas Murrayfield,24636
+2003-04,Six Nations,2004-03-27,Wales,Italy,44,10,Principality Stadium,24640
+2003-04,Six Nations,2004-03-27,Ireland,Scotland,37,16,Aviva Stadium,24639
+2003-04,Six Nations,2004-03-27,France,England,24,21,Stade de France,24638
+2004,Rugby Championship / Tri Nations,2004-07-17,New Zealand,Australia,16,7,Sky Stadium,24744
+2004,Rugby Championship / Tri Nations,2004-07-24,New Zealand,South Africa,23,21,Jade Stadium (Lancaster Park),24746
+2004,Rugby Championship / Tri Nations,2004-07-31,Australia,South Africa,30,26,Patersons Stadium,24748
+2004,Rugby Championship / Tri Nations,2004-08-07,Australia,New Zealand,23,18,Accor Stadium,24750
+2004,Rugby Championship / Tri Nations,2004-08-14,South Africa,New Zealand,40,26,Ellis Park,24751
+2004,Rugby Championship / Tri Nations,2004-08-21,South Africa,Australia,23,19,Hollywoodbets Kings Park,24754
+2004-05,Six Nations,2005-02-05,France,Scotland,16,9,Stade de France,24843
+2004-05,Six Nations,2005-02-05,Wales,England,11,9,Principality Stadium,24844
+2004-05,Six Nations,2005-02-06,Italy,Ireland,17,28,Stadio Flaminio,24846
+2004-05,Six Nations,2005-02-12,Italy,Wales,8,38,Stadio Flaminio,24847
+2004-05,Six Nations,2005-02-12,Scotland,Ireland,13,40,Scottish Gas Murrayfield,24848
+2004-05,Six Nations,2005-02-13,England,France,17,18,Allianz Stadium,24849
+2004-05,Six Nations,2005-02-26,Scotland,Italy,18,10,Scottish Gas Murrayfield,24852
+2004-05,Six Nations,2005-02-26,France,Wales,18,24,Stade de France,24853
+2004-05,Six Nations,2005-02-27,Ireland,England,19,13,Aviva Stadium,24857
+2004-05,Six Nations,2005-03-12,Ireland,France,19,26,Aviva Stadium,24859
+2004-05,Six Nations,2005-03-12,England,Italy,39,7,Allianz Stadium,24860
+2004-05,Six Nations,2005-03-13,Scotland,Wales,22,46,Scottish Gas Murrayfield,24866
+2004-05,Six Nations,2005-03-19,Italy,France,13,56,Stadio Flaminio,24867
+2004-05,Six Nations,2005-03-19,Wales,Ireland,32,20,Principality Stadium,24868
+2004-05,Six Nations,2005-03-19,England,Scotland,43,22,Allianz Stadium,24869
+2005,Rugby Championship / Tri Nations,2005-07-30,South Africa,Australia,22,16,Loftus Versfeld,24995
+2005,Rugby Championship / Tri Nations,2005-08-06,South Africa,New Zealand,22,16,DHL Newlands,24997
+2005,Rugby Championship / Tri Nations,2005-08-13,Australia,New Zealand,13,30,Accor Stadium,25008
+2005,Rugby Championship / Tri Nations,2005-08-20,Australia,South Africa,19,22,Patersons Stadium,25014
+2005,Rugby Championship / Tri Nations,2005-08-27,New Zealand,South Africa,31,27,Carisbrook,25017
+2005,Rugby Championship / Tri Nations,2005-09-03,New Zealand,Australia,34,24,Eden Park,25019
+2005-06,Six Nations,2006-02-04,Ireland,Italy,26,16,Aviva Stadium,25112
+2005-06,Six Nations,2006-02-04,England,Wales,47,13,Allianz Stadium,25113
+2005-06,Six Nations,2006-02-05,Scotland,France,20,16,Scottish Gas Murrayfield,25115
+2005-06,Six Nations,2006-02-11,France,Ireland,43,31,Stade de France,25116
+2005-06,Six Nations,2006-02-11,Italy,England,16,31,Stadio Flaminio,25117
+2005-06,Six Nations,2006-02-12,Wales,Scotland,28,18,Principality Stadium,25118
+2005-06,Six Nations,2006-02-25,France,Italy,37,12,Stade de France,25119
+2005-06,Six Nations,2006-02-25,Scotland,England,18,12,Scottish Gas Murrayfield,25120
+2005-06,Six Nations,2006-02-26,Ireland,Wales,31,5,Aviva Stadium,25123
+2005-06,Six Nations,2006-03-11,Wales,Italy,18,18,Principality Stadium,25124
+2005-06,Six Nations,2006-03-11,Ireland,Scotland,15,9,Aviva Stadium,25125
+2005-06,Six Nations,2006-03-12,France,England,31,6,Stade de France,25129
+2005-06,Six Nations,2006-03-18,Italy,Scotland,10,13,Stadio Flaminio,25130
+2005-06,Six Nations,2006-03-18,Wales,France,16,21,Principality Stadium,25131
+2005-06,Six Nations,2006-03-18,England,Ireland,24,28,Allianz Stadium,25132
+2006,Rugby Championship / Tri Nations,2006-07-08,New Zealand,Australia,32,12,Jade Stadium (Lancaster Park),25248
+2006,Rugby Championship / Tri Nations,2006-07-15,Australia,South Africa,49,0,Suncorp Stadium,25250
+2006,Rugby Championship / Tri Nations,2006-07-22,New Zealand,South Africa,35,17,Sky Stadium,25252
+2006,Rugby Championship / Tri Nations,2006-07-29,Australia,New Zealand,9,13,Suncorp Stadium,25257
+2006,Rugby Championship / Tri Nations,2006-08-05,Australia,South Africa,20,18,Accor Stadium,25260
+2006,Rugby Championship / Tri Nations,2006-08-19,New Zealand,Australia,34,27,Eden Park,25267
+2006,Rugby Championship / Tri Nations,2006-08-26,South Africa,New Zealand,26,45,Loftus Versfeld,25270
+2006,Rugby Championship / Tri Nations,2006-09-02,South Africa,New Zealand,21,20,Olympia Park,25271
+2006,Rugby Championship / Tri Nations,2006-09-09,South Africa,Australia,24,16,Ellis Park,25272
+2006-07,Six Nations,2007-02-03,Italy,France,3,39,Stadio Flaminio,25364
+2006-07,Six Nations,2007-02-03,England,Scotland,42,20,Allianz Stadium,25365
+2006-07,Six Nations,2007-02-04,Wales,Ireland,9,19,Principality Stadium,25368
+2006-07,Six Nations,2007-02-10,England,Italy,20,7,Allianz Stadium,25369
+2006-07,Six Nations,2007-02-10,Scotland,Wales,21,9,Scottish Gas Murrayfield,25370
+2006-07,Six Nations,2007-02-11,Ireland,France,17,20,Croke Park,25373
+2006-07,Six Nations,2007-02-24,Scotland,Italy,17,37,Scottish Gas Murrayfield,25374
+2006-07,Six Nations,2007-02-24,Ireland,England,43,13,Croke Park,25375
+2006-07,Six Nations,2007-02-24,France,Wales,32,21,Stade de France,25376
+2006-07,Six Nations,2007-03-10,Scotland,Ireland,18,19,Scottish Gas Murrayfield,25377
+2006-07,Six Nations,2007-03-10,Italy,Wales,23,20,Stadio Flaminio,25378
+2006-07,Six Nations,2007-03-11,England,France,26,18,Allianz Stadium,25381
+2006-07,Six Nations,2007-03-17,Italy,Ireland,24,51,Stadio Flaminio,25382
+2006-07,Six Nations,2007-03-17,France,Scotland,46,19,Stade de France,25383
+2006-07,Six Nations,2007-03-17,Wales,England,27,18,Principality Stadium,25384
+2007,Rugby Championship / Tri Nations,2007-06-16,South Africa,Australia,22,19,DHL Newlands,25461
+2007,Rugby Championship / Tri Nations,2007-06-23,South Africa,New Zealand,21,26,Hollywoodbets Kings Park,25467
+2007,Rugby Championship / Tri Nations,2007-06-30,Australia,New Zealand,20,15,Melbourne Cricket Ground,25474
+2007,Rugby Championship / Tri Nations,2007-07-07,Australia,South Africa,25,17,Accor Stadium,25477
+2007,Rugby Championship / Tri Nations,2007-07-14,New Zealand,South Africa,33,6,Jade Stadium (Lancaster Park),25484
+2007,Rugby Championship / Tri Nations,2007-07-21,New Zealand,Australia,26,12,Eden Park,25489
+2007,Rugby World Cup,2007-09-07,France,Argentina,12,17,Stade de France,25506
+2007,Rugby World Cup,2007-09-08,New Zealand,Italy,76,14,Orange Velodrome,25509
+2007,Rugby World Cup,2007-09-08,Australia,Japan,91,3,Matmut Stadium de Gerland,25508
+2007,Rugby World Cup,2007-09-08,England,United States of America,28,10,Stade Bollaert-Delelis,25507
+2007,Rugby World Cup,2007-09-09,Wales,Canada,42,17,Stade de la Beaujoire,25511
+2007,Rugby World Cup,2007-09-09,South Africa,Samoa,59,7,Parc des Princes,25512
+2007,Rugby World Cup,2007-09-09,Scotland,Portugal,56,10,Stade Geoffroy-Guichard,25513
+2007,Rugby World Cup,2007-09-09,Ireland,Namibia,32,17,Stade Chaban-Delmas,25510
+2007,Rugby World Cup,2007-09-11,Argentina,Georgia,33,3,Matmut Stadium de Gerland,25514
+2007,Rugby World Cup,2007-09-12,United States of America,Tonga,15,25,Stade de la Mosson,25516
+2007,Rugby World Cup,2007-09-12,Fiji,Japan,35,31,Stade Toulouse,25517
+2007,Rugby World Cup,2007-09-12,Romania,Italy,18,24,Orange Velodrome,25515
+2007,Rugby World Cup,2007-09-14,England,South Africa,0,36,Stade de France,25518
+2007,Rugby World Cup,2007-09-15,New Zealand,Portugal,108,13,Matmut Stadium de Gerland,25521
+2007,Rugby World Cup,2007-09-15,Wales,Australia,20,32,Principality Stadium,25520
+2007,Rugby World Cup,2007-09-15,Ireland,Georgia,14,10,Stade Chaban-Delmas,25519
+2007,Rugby World Cup,2007-09-16,Fiji,Canada,29,16,Principality Stadium,25522
+2007,Rugby World Cup,2007-09-16,Samoa,Tonga,15,19,Stade de la Mosson,25523
+2007,Rugby World Cup,2007-09-16,France,Namibia,87,10,Stade Toulouse,25524
+2007,Rugby World Cup,2007-09-18,Scotland,Romania,42,0,Scottish Gas Murrayfield,25525
+2007,Rugby World Cup,2007-09-19,Italy,Portugal,31,5,Parc des Princes,25526
+2007,Rugby World Cup,2007-09-20,Wales,Japan,72,18,Principality Stadium,25527
+2007,Rugby World Cup,2007-09-21,France,Ireland,25,3,Stade de France,25528
+2007,Rugby World Cup,2007-09-22,South Africa,Tonga,30,25,Stade Bollaert-Delelis,25529
+2007,Rugby World Cup,2007-09-22,England,Samoa,44,22,Stade de la Beaujoire,25531
+2007,Rugby World Cup,2007-09-22,Argentina,Namibia,63,3,Orange Velodrome,25530
+2007,Rugby World Cup,2007-09-23,Australia,Fiji,55,12,Stade de la Mosson,25533
+2007,Rugby World Cup,2007-09-23,Scotland,New Zealand,0,40,Scottish Gas Murrayfield,25532
+2007,Rugby World Cup,2007-09-25,Japan,Canada,12,12,Stade Chaban-Delmas,25534
+2007,Rugby World Cup,2007-09-25,Romania,Portugal,14,10,Stade Toulouse,25535
+2007,Rugby World Cup,2007-09-26,Georgia,Namibia,30,0,Stade Bollaert-Delelis,25536
+2007,Rugby World Cup,2007-09-26,United States of America,Samoa,21,25,Stade Geoffroy-Guichard,25537
+2007,Rugby World Cup,2007-09-28,England,Tonga,36,20,Parc des Princes,25538
+2007,Rugby World Cup,2007-09-29,New Zealand,Romania,85,8,Stade Toulouse,25542
+2007,Rugby World Cup,2007-09-29,Australia,Canada,37,6,Stade Chaban-Delmas,25539
+2007,Rugby World Cup,2007-09-29,Wales,Fiji,34,38,Stade de la Beaujoire,25540
+2007,Rugby World Cup,2007-09-29,Scotland,Italy,18,16,Stade Geoffroy-Guichard,25541
+2007,Rugby World Cup,2007-09-30,France,Georgia,64,7,Orange Velodrome,25543
+2007,Rugby World Cup,2007-09-30,Ireland,Argentina,15,30,Parc des Princes,25545
+2007,Rugby World Cup,2007-09-30,South Africa,United States of America,64,15,Stade de la Mosson,25544
+2007,Rugby World Cup,2007-10-06,England,Australia,12,10,Orange Velodrome,25546
+2007,Rugby World Cup,2007-10-06,New Zealand,France,18,20,Principality Stadium,25547
+2007,Rugby World Cup,2007-10-07,South Africa,Fiji,37,20,Orange Velodrome,25548
+2007,Rugby World Cup,2007-10-07,Scotland,Argentina,13,19,Stade de France,25549
+2007,Rugby World Cup,2007-10-13,France,England,9,14,Stade de France,25550
+2007,Rugby World Cup,2007-10-14,South Africa,Argentina,37,13,Stade de France,25551
+2007,Rugby World Cup,2007-10-19,France,Argentina,10,34,Parc des Princes,25552
+2007,Rugby World Cup,2007-10-20,England,South Africa,6,15,Stade de France,25553
+2007-08,Six Nations,2008-02-02,Ireland,Italy,16,11,Croke Park,25583
+2007-08,Six Nations,2008-02-02,England,Wales,19,26,Allianz Stadium,25584
+2007-08,Six Nations,2008-02-03,Scotland,France,6,27,Scottish Gas Murrayfield,25586
+2007-08,Six Nations,2008-02-09,Wales,Scotland,30,15,Principality Stadium,25587
+2007-08,Six Nations,2008-02-09,France,Ireland,26,21,Stade de France,25588
+2007-08,Six Nations,2008-02-10,Italy,England,19,23,Stadio Flaminio,25590
+2007-08,Six Nations,2008-02-23,Wales,Italy,47,8,Principality Stadium,25592
+2007-08,Six Nations,2008-02-23,Ireland,Scotland,34,13,Croke Park,25593
+2007-08,Six Nations,2008-02-23,France,England,13,24,Stade de France,25594
+2007-08,Six Nations,2008-03-08,Ireland,Wales,12,16,Croke Park,25598
+2007-08,Six Nations,2008-03-08,Scotland,England,15,9,Scottish Gas Murrayfield,25599
+2007-08,Six Nations,2008-03-09,France,Italy,25,13,Stade de France,25602
+2007-08,Six Nations,2008-03-15,Italy,Scotland,23,20,Stadio Flaminio,25603
+2007-08,Six Nations,2008-03-15,England,Ireland,33,10,Allianz Stadium,25604
+2007-08,Six Nations,2008-03-15,Wales,France,29,12,Principality Stadium,25605
+2008,Rugby Championship / Tri Nations,2008-07-05,New Zealand,South Africa,19,8,Sky Stadium,25701
+2008,Rugby Championship / Tri Nations,2008-07-12,New Zealand,South Africa,28,30,Carisbrook,25705
+2008,Rugby Championship / Tri Nations,2008-07-19,Australia,South Africa,16,9,Patersons Stadium,25706
+2008,Rugby Championship / Tri Nations,2008-07-26,Australia,New Zealand,34,19,Accor Stadium,25707
+2008,Rugby Championship / Tri Nations,2008-08-02,New Zealand,Australia,39,10,Eden Park,25708
+2008,Rugby Championship / Tri Nations,2008-08-16,South Africa,New Zealand,0,19,DHL Newlands,25710
+2008,Rugby Championship / Tri Nations,2008-08-23,South Africa,Australia,15,27,Hollywoodbets Kings Park,25711
+2008,Rugby Championship / Tri Nations,2008-08-30,South Africa,Australia,53,8,Ellis Park,25712
+2008,Rugby Championship / Tri Nations,2008-09-13,Australia,New Zealand,24,28,Suncorp Stadium,25714
+2008-09,Six Nations,2009-02-07,England,Italy,36,11,Allianz Stadium,25776
+2008-09,Six Nations,2009-02-07,Ireland,France,30,21,Croke Park,25777
+2008-09,Six Nations,2009-02-08,Scotland,Wales,13,26,Scottish Gas Murrayfield,25778
+2008-09,Six Nations,2009-02-14,France,Scotland,22,13,Stade de France,25781
+2008-09,Six Nations,2009-02-14,Wales,England,23,15,Principality Stadium,25782
+2008-09,Six Nations,2009-02-15,Italy,Ireland,9,38,Stadio Flaminio,25783
+2008-09,Six Nations,2009-02-27,France,Wales,21,16,Stade de France,25785
+2008-09,Six Nations,2009-02-28,Scotland,Italy,26,6,Scottish Gas Murrayfield,25788
+2008-09,Six Nations,2009-02-28,Ireland,England,14,13,Croke Park,25789
+2008-09,Six Nations,2009-03-14,Italy,Wales,15,20,Stadio Flaminio,25793
+2008-09,Six Nations,2009-03-14,Scotland,Ireland,15,22,Scottish Gas Murrayfield,25794
+2008-09,Six Nations,2009-03-15,England,France,34,10,Allianz Stadium,25797
+2008-09,Six Nations,2009-03-21,Italy,France,8,50,Stadio Flaminio,25804
+2008-09,Six Nations,2009-03-21,England,Scotland,26,12,Allianz Stadium,25805
+2008-09,Six Nations,2009-03-21,Wales,Ireland,15,17,Principality Stadium,25806
+2009,Rugby Championship / Tri Nations,2009-07-18,New Zealand,Australia,22,16,Eden Park,25836
+2009,Rugby Championship / Tri Nations,2009-07-25,South Africa,New Zealand,28,19,Toyota Stadium,84711
+2009,Rugby Championship / Tri Nations,2009-08-01,South Africa,New Zealand,31,19,Hollywoodbets Kings Park,84712
+2009,Rugby Championship / Tri Nations,2009-08-08,South Africa,Australia,29,17,DHL Newlands,84713
+2009,Rugby Championship / Tri Nations,2009-08-22,Australia,New Zealand,18,19,Accor Stadium,84714
+2009,Rugby Championship / Tri Nations,2009-08-29,Australia,South Africa,25,32,Patersons Stadium,84715
+2009,Rugby Championship / Tri Nations,2009-09-05,Australia,South Africa,21,6,Suncorp Stadium,84716
+2009,Rugby Championship / Tri Nations,2009-09-12,New Zealand,South Africa,29,32,FMG Stadium Waikato,25837
+2009,Rugby Championship / Tri Nations,2009-09-19,New Zealand,Australia,33,6,Sky Stadium,25838
+2009-10,Six Nations,2010-02-06,Ireland,Italy,29,11,Croke Park,94943
+2009-10,Six Nations,2010-02-06,England,Wales,30,17,Allianz Stadium,94944
+2009-10,Six Nations,2010-02-07,Scotland,France,9,18,Scottish Gas Murrayfield,94945
+2009-10,Six Nations,2010-02-13,Wales,Scotland,31,24,Principality Stadium,94946
+2009-10,Six Nations,2010-02-13,France,Ireland,33,10,Stade de France,94947
+2009-10,Six Nations,2010-02-14,Italy,England,12,17,Stadio Flaminio,94948
+2009-10,Six Nations,2010-02-26,Wales,France,20,26,Principality Stadium,94949
+2009-10,Six Nations,2010-02-27,Italy,Scotland,16,12,Stadio Flaminio,94950
+2009-10,Six Nations,2010-02-27,England,Ireland,16,20,Allianz Stadium,94951
+2009-10,Six Nations,2010-03-13,Ireland,Wales,27,12,Croke Park,94952
+2009-10,Six Nations,2010-03-13,Scotland,England,15,15,Scottish Gas Murrayfield,94953
+2009-10,Six Nations,2010-03-14,France,Italy,46,20,Stade de France,94954
+2009-10,Six Nations,2010-03-20,Wales,Italy,33,10,Principality Stadium,94955
+2009-10,Six Nations,2010-03-20,Ireland,Scotland,20,23,Croke Park,94956
+2009-10,Six Nations,2010-03-20,France,England,12,10,Stade de France,94957
+2010,Rugby Championship / Tri Nations,2010-07-10,New Zealand,South Africa,32,12,Eden Park,103846
+2010,Rugby Championship / Tri Nations,2010-07-17,New Zealand,South Africa,31,17,Sky Stadium,103847
+2010,Rugby Championship / Tri Nations,2010-07-24,Australia,South Africa,30,13,Suncorp Stadium,103848
+2010,Rugby Championship / Tri Nations,2010-07-31,Australia,New Zealand,28,49,Marvel Stadium,103849
+2010,Rugby Championship / Tri Nations,2010-08-07,New Zealand,Australia,20,10,Jade Stadium (Lancaster Park),103850
+2010,Rugby Championship / Tri Nations,2010-08-21,South Africa,New Zealand,22,29,FNB Stadium,103851
+2010,Rugby Championship / Tri Nations,2010-08-28,South Africa,Australia,44,31,Loftus Versfeld,103852
+2010,Rugby Championship / Tri Nations,2010-09-04,South Africa,Australia,39,41,Toyota Stadium,103853
+2010,Rugby Championship / Tri Nations,2010-09-11,Australia,New Zealand,22,23,Accor Stadium,103854
+2010-11,Six Nations,2011-02-04,Wales,England,19,26,Principality Stadium,114117
+2010-11,Six Nations,2011-02-05,Italy,Ireland,11,13,Stadio Flaminio,114118
+2010-11,Six Nations,2011-02-05,France,Scotland,34,21,Stade de France,114119
+2010-11,Six Nations,2011-02-12,England,Italy,59,13,Allianz Stadium,114120
+2010-11,Six Nations,2011-02-12,Scotland,Wales,6,24,Scottish Gas Murrayfield,114121
+2010-11,Six Nations,2011-02-13,Ireland,France,22,25,Aviva Stadium,114122
+2010-11,Six Nations,2011-02-26,Italy,Wales,16,24,Stadio Flaminio,114123
+2010-11,Six Nations,2011-02-26,England,France,17,9,Allianz Stadium,114124
+2010-11,Six Nations,2011-02-27,Scotland,Ireland,18,21,Scottish Gas Murrayfield,114125
+2010-11,Six Nations,2011-03-12,Italy,France,22,21,Stadio Flaminio,114126
+2010-11,Six Nations,2011-03-12,Wales,Ireland,19,13,Principality Stadium,114127
+2010-11,Six Nations,2011-03-13,England,Scotland,22,16,Allianz Stadium,114128
+2010-11,Six Nations,2011-03-19,Scotland,Italy,21,8,Scottish Gas Murrayfield,114129
+2010-11,Six Nations,2011-03-19,Ireland,England,24,8,Aviva Stadium,114130
+2010-11,Six Nations,2011-03-19,France,Wales,28,9,Stade de France,114131
+2011,Rugby Championship / Tri Nations,2011-07-23,Australia,South Africa,39,20,Accor Stadium,121711
+2011,Rugby Championship / Tri Nations,2011-07-30,New Zealand,South Africa,40,7,Sky Stadium,121712
+2011,Rugby Championship / Tri Nations,2011-08-06,New Zealand,Australia,30,14,Eden Park,121713
+2011,Rugby Championship / Tri Nations,2011-08-13,South Africa,Australia,9,14,Hollywoodbets Kings Park,121714
+2011,Rugby Championship / Tri Nations,2011-08-20,South Africa,New Zealand,18,5,Nelson Mandela Bay Stadium,121715
+2011,Rugby Championship / Tri Nations,2011-08-27,Australia,New Zealand,25,20,Suncorp Stadium,121716
+2011,Rugby World Cup,2011-09-09,New Zealand,Tonga,41,10,Eden Park,93458
+2011,Rugby World Cup,2011-09-10,Scotland,Romania,34,24,Invercargill Rugby Park,93459
+2011,Rugby World Cup,2011-09-10,Fiji,Namibia,49,25,Rotorua International Stadium,93460
+2011,Rugby World Cup,2011-09-10,France,Japan,47,21,North Harbour Stadium,93461
+2011,Rugby World Cup,2011-09-10,England,Argentina,13,9,Forsyth Barr Stadium,93462
+2011,Rugby World Cup,2011-09-11,Australia,Italy,32,6,North Harbour Stadium,93463
+2011,Rugby World Cup,2011-09-11,Ireland,United States of America,22,10,Stadium Taranaki,93464
+2011,Rugby World Cup,2011-09-11,Wales,South Africa,16,17,Sky Stadium,93465
+2011,Rugby World Cup,2011-09-14,Samoa,Namibia,49,12,Rotorua International Stadium,93466
+2011,Rugby World Cup,2011-09-14,Tonga,Canada,20,25,Semenoff Stadium,93467
+2011,Rugby World Cup,2011-09-14,Scotland,Georgia,15,6,Invercargill Rugby Park,93468
+2011,Rugby World Cup,2011-09-15,United States of America,Russia,13,6,Stadium Taranaki,93469
+2011,Rugby World Cup,2011-09-16,New Zealand,Japan,83,7,FMG Stadium Waikato,93470
+2011,Rugby World Cup,2011-09-17,Argentina,Romania,43,8,Invercargill Rugby Park,93471
+2011,Rugby World Cup,2011-09-17,South Africa,Fiji,49,3,Sky Stadium,93472
+2011,Rugby World Cup,2011-09-17,Ireland,Australia,15,6,Eden Park,93473
+2011,Rugby World Cup,2011-09-18,Wales,Samoa,17,10,FMG Stadium Waikato,93474
+2011,Rugby World Cup,2011-09-18,England,Georgia,41,10,Forsyth Barr Stadium,93475
+2011,Rugby World Cup,2011-09-18,France,Canada,46,19,McLean Park,93476
+2011,Rugby World Cup,2011-09-20,Italy,Russia,53,17,Trafalgar Park,93477
+2011,Rugby World Cup,2011-09-21,Tonga,Japan,31,18,Semenoff Stadium,93478
+2011,Rugby World Cup,2011-09-22,South Africa,Namibia,87,0,North Harbour Stadium,93479
+2011,Rugby World Cup,2011-09-23,Australia,United States of America,67,5,Sky Stadium,93480
+2011,Rugby World Cup,2011-09-24,England,Romania,67,3,Forsyth Barr Stadium,93481
+2011,Rugby World Cup,2011-09-24,New Zealand,France,37,17,Eden Park,93482
+2011,Rugby World Cup,2011-09-25,Fiji,Samoa,7,27,Eden Park,93483
+2011,Rugby World Cup,2011-09-25,Ireland,Russia,62,12,Rotorua International Stadium,93484
+2011,Rugby World Cup,2011-09-25,Scotland,Argentina,12,13,Sky Stadium,93485
+2011,Rugby World Cup,2011-09-26,Wales,Namibia,81,7,Stadium Taranaki,93486
+2011,Rugby World Cup,2011-09-27,Japan,Canada,23,23,McLean Park,93487
+2011,Rugby World Cup,2011-09-27,United States of America,Italy,10,27,Trafalgar Park,93488
+2011,Rugby World Cup,2011-09-28,Romania,Georgia,9,25,Central Energy Trust Arena,93489
+2011,Rugby World Cup,2011-09-30,South Africa,Samoa,13,5,North Harbour Stadium,93490
+2011,Rugby World Cup,2011-10-01,Australia,Russia,68,22,Trafalgar Park,93491
+2011,Rugby World Cup,2011-10-01,France,Tonga,14,19,Sky Stadium,93492
+2011,Rugby World Cup,2011-10-01,England,Scotland,16,12,Eden Park,93493
+2011,Rugby World Cup,2011-10-02,Argentina,Georgia,25,7,Central Energy Trust Arena,93494
+2011,Rugby World Cup,2011-10-02,New Zealand,Canada,79,15,Sky Stadium,93495
+2011,Rugby World Cup,2011-10-02,Wales,Fiji,66,0,FMG Stadium Waikato,93496
+2011,Rugby World Cup,2011-10-02,Ireland,Italy,36,6,Forsyth Barr Stadium,93497
+2011,Rugby World Cup,2011-10-08,Ireland,Wales,10,22,Sky Stadium,93498
+2011,Rugby World Cup,2011-10-08,England,France,12,19,Eden Park,93499
+2011,Rugby World Cup,2011-10-09,South Africa,Australia,9,11,Sky Stadium,93500
+2011,Rugby World Cup,2011-10-09,New Zealand,Argentina,33,10,Eden Park,93501
+2011,Rugby World Cup,2011-10-15,Wales,France,8,9,Eden Park,93502
+2011,Rugby World Cup,2011-10-16,New Zealand,Australia,20,6,Eden Park,93503
+2011,Rugby World Cup,2011-10-21,Wales,Australia,18,21,Eden Park,93504
+2011,Rugby World Cup,2011-10-23,New Zealand,France,8,7,Eden Park,93505
+2011-12,Six Nations,2012-02-04,France,Italy,30,12,Stade de France,133767
+2011-12,Six Nations,2012-02-04,Scotland,England,6,13,Scottish Gas Murrayfield,133768
+2011-12,Six Nations,2012-02-05,Ireland,Wales,21,23,Aviva Stadium,133769
+2011-12,Six Nations,2012-02-11,Italy,England,15,19,Stadio Olimpico,133770
+2011-12,Six Nations,2012-02-12,Wales,Scotland,27,13,Principality Stadium,133772
+2011-12,Six Nations,2012-02-25,Ireland,Italy,42,10,Aviva Stadium,133773
+2011-12,Six Nations,2012-02-25,England,Wales,12,19,Allianz Stadium,133774
+2011-12,Six Nations,2012-02-26,Scotland,France,17,23,Scottish Gas Murrayfield,133775
+2011-12,Six Nations,2012-03-04,France,Ireland,17,17,Stade de France,133771
+2011-12,Six Nations,2012-03-10,Wales,Italy,24,3,Principality Stadium,133776
+2011-12,Six Nations,2012-03-10,Ireland,Scotland,32,14,Aviva Stadium,133777
+2011-12,Six Nations,2012-03-11,France,England,22,24,Stade de France,133778
+2011-12,Six Nations,2012-03-17,Italy,Scotland,13,6,Stadio Olimpico,133779
+2011-12,Six Nations,2012-03-17,Wales,France,16,9,Principality Stadium,133780
+2011-12,Six Nations,2012-03-17,England,Ireland,30,9,Allianz Stadium,133781
+2012,Rugby Championship / Tri Nations,2012-08-18,Australia,New Zealand,19,27,Accor Stadium,153845
+2012,Rugby Championship / Tri Nations,2012-08-18,South Africa,Argentina,27,6,DHL Newlands,153846
+2012,Rugby Championship / Tri Nations,2012-08-25,New Zealand,Australia,22,0,Eden Park,153847
+2012,Rugby Championship / Tri Nations,2012-08-25,Argentina,South Africa,16,16,Estadio Malvinas Argentinas,153848
+2012,Rugby Championship / Tri Nations,2012-09-08,New Zealand,Argentina,21,5,Sky Stadium,153850
+2012,Rugby Championship / Tri Nations,2012-09-08,Australia,South Africa,26,19,Patersons Stadium,153849
+2012,Rugby Championship / Tri Nations,2012-09-15,New Zealand,South Africa,21,11,Forsyth Barr Stadium,153852
+2012,Rugby Championship / Tri Nations,2012-09-15,Australia,Argentina,23,19,Cbus Super Stadium,153851
+2012,Rugby Championship / Tri Nations,2012-09-29,South Africa,Australia,31,8,Loftus Versfeld,153853
+2012,Rugby Championship / Tri Nations,2012-09-29,Argentina,New Zealand,15,54,Estadio Ciudad de La Plata,153854
+2012,Rugby Championship / Tri Nations,2012-10-06,South Africa,New Zealand,16,32,FNB Stadium,153855
+2012,Rugby Championship / Tri Nations,2012-10-06,Argentina,Australia,19,25,Estadio Gigante de Arroyito,153856
+2012-13,Six Nations,2013-02-02,Wales,Ireland,22,30,Principality Stadium,133782
+2012-13,Six Nations,2013-02-02,England,Scotland,38,18,Allianz Stadium,133783
+2012-13,Six Nations,2013-02-03,Italy,France,23,18,Stadio Olimpico,133784
+2012-13,Six Nations,2013-02-09,Scotland,Italy,34,10,Scottish Gas Murrayfield,133785
+2012-13,Six Nations,2013-02-09,France,Wales,6,16,Stade de France,133786
+2012-13,Six Nations,2013-02-10,Ireland,England,6,12,Aviva Stadium,133787
+2012-13,Six Nations,2013-02-23,Italy,Wales,9,26,Stadio Olimpico,133788
+2012-13,Six Nations,2013-02-23,England,France,23,13,Allianz Stadium,133789
+2012-13,Six Nations,2013-02-24,Scotland,Ireland,12,8,Scottish Gas Murrayfield,133790
+2012-13,Six Nations,2013-03-09,Scotland,Wales,28,28,Scottish Gas Murrayfield,133791
+2012-13,Six Nations,2013-03-09,Ireland,France,13,13,Aviva Stadium,133792
+2012-13,Six Nations,2013-03-10,England,Italy,18,11,Allianz Stadium,133793
+2012-13,Six Nations,2013-03-16,Italy,Ireland,22,15,Stadio Olimpico,133794
+2012-13,Six Nations,2013-03-16,Wales,England,30,3,Principality Stadium,133795
+2012-13,Six Nations,2013-03-16,France,Scotland,23,16,Stade de France,133796
+2013,Rugby Championship / Tri Nations,2013-08-17,Australia,New Zealand,29,47,Accor Stadium,174678
+2013,Rugby Championship / Tri Nations,2013-08-17,South Africa,Argentina,73,13,FNB Stadium,175507
+2013,Rugby Championship / Tri Nations,2013-08-24,New Zealand,Australia,27,16,Sky Stadium,172099
+2013,Rugby Championship / Tri Nations,2013-08-24,Argentina,South Africa,17,22,Estadio Malvinas Argentinas,175508
+2013,Rugby Championship / Tri Nations,2013-09-07,New Zealand,Argentina,28,13,FMG Stadium Waikato,172100
+2013,Rugby Championship / Tri Nations,2013-09-07,Australia,South Africa,12,38,Suncorp Stadium,175509
+2013,Rugby Championship / Tri Nations,2013-09-14,New Zealand,South Africa,29,15,Eden Park,172101
+2013,Rugby Championship / Tri Nations,2013-09-14,Australia,Argentina,14,13,Patersons Stadium,175510
+2013,Rugby Championship / Tri Nations,2013-09-28,South Africa,Australia,28,8,DHL Newlands,175511
+2013,Rugby Championship / Tri Nations,2013-09-28,Argentina,New Zealand,15,33,Estadio Ciudad de La Plata,174679
+2013,Rugby Championship / Tri Nations,2013-10-05,South Africa,New Zealand,27,38,Ellis Park,174680
+2013,Rugby Championship / Tri Nations,2013-10-05,Argentina,Australia,17,54,Estadio Gigante de Arroyito,175512
+2013-14,Six Nations,2014-02-01,Wales,Italy,23,15,Principality Stadium,180664
+2013-14,Six Nations,2014-02-01,France,England,26,24,Stade de France,180665
+2013-14,Six Nations,2014-02-02,Ireland,Scotland,28,6,Aviva Stadium,180666
+2013-14,Six Nations,2014-02-08,Ireland,Wales,26,3,Aviva Stadium,180667
+2013-14,Six Nations,2014-02-08,Scotland,England,0,20,Scottish Gas Murrayfield,180668
+2013-14,Six Nations,2014-02-09,France,Italy,30,10,Stade de France,180669
+2013-14,Six Nations,2014-02-21,Wales,France,27,6,Principality Stadium,180670
+2013-14,Six Nations,2014-02-22,Italy,Scotland,20,21,Stadio Olimpico,180671
+2013-14,Six Nations,2014-02-22,England,Ireland,13,10,Allianz Stadium,180672
+2013-14,Six Nations,2014-03-08,Ireland,Italy,46,7,Aviva Stadium,180673
+2013-14,Six Nations,2014-03-08,Scotland,France,17,19,Scottish Gas Murrayfield,180674
+2013-14,Six Nations,2014-03-09,England,Wales,29,18,Allianz Stadium,180675
+2013-14,Six Nations,2014-03-15,Italy,England,11,52,Stadio Olimpico,180676
+2013-14,Six Nations,2014-03-15,Wales,Scotland,51,3,Principality Stadium,180677
+2013-14,Six Nations,2014-03-15,France,Ireland,20,22,Stade de France,180678
+2014,Rugby Championship / Tri Nations,2014-08-16,Australia,New Zealand,12,12,Accor Stadium,207955
+2014,Rugby Championship / Tri Nations,2014-08-16,South Africa,Argentina,13,6,Loftus Versfeld,207957
+2014,Rugby Championship / Tri Nations,2014-08-23,New Zealand,Australia,51,20,Eden Park,207959
+2014,Rugby Championship / Tri Nations,2014-08-23,Argentina,South Africa,31,33,Padre Ernesto Martearena,207961
+2014,Rugby Championship / Tri Nations,2014-09-06,New Zealand,Argentina,28,9,McLean Park,207965
+2014,Rugby Championship / Tri Nations,2014-09-06,Australia,South Africa,24,23,Patersons Stadium,207963
+2014,Rugby Championship / Tri Nations,2014-09-13,New Zealand,South Africa,14,10,Sky Stadium,207969
+2014,Rugby Championship / Tri Nations,2014-09-13,Australia,Argentina,32,25,Cbus Super Stadium,207967
+2014,Rugby Championship / Tri Nations,2014-09-27,South Africa,Australia,28,10,DHL Newlands,207971
+2014,Rugby Championship / Tri Nations,2014-09-27,Argentina,New Zealand,13,34,Estadio Ciudad de La Plata,207973
+2014,Rugby Championship / Tri Nations,2014-10-04,South Africa,New Zealand,27,25,Ellis Park,207975
+2014,Rugby Championship / Tri Nations,2014-10-04,Argentina,Australia,21,17,Estadio Malvinas Argentinas,207977
+2014-15,Six Nations,2015-02-06,Wales,England,16,21,Principality Stadium,180679
+2014-15,Six Nations,2015-02-07,Italy,Ireland,3,26,Stadio Olimpico,180680
+2014-15,Six Nations,2015-02-07,France,Scotland,15,8,Stade de France,180681
+2014-15,Six Nations,2015-02-14,England,Italy,47,17,Allianz Stadium,180682
+2014-15,Six Nations,2015-02-14,Ireland,France,18,11,Aviva Stadium,180683
+2014-15,Six Nations,2015-02-15,Scotland,Wales,23,26,Scottish Gas Murrayfield,180684
+2014-15,Six Nations,2015-02-28,Scotland,Italy,19,22,Scottish Gas Murrayfield,180685
+2014-15,Six Nations,2015-02-28,France,Wales,13,20,Stade de France,180686
+2014-15,Six Nations,2015-03-01,Ireland,England,19,9,Aviva Stadium,180687
+2014-15,Six Nations,2015-03-14,Wales,Ireland,23,16,Principality Stadium,180688
+2014-15,Six Nations,2015-03-14,England,Scotland,25,13,Allianz Stadium,180689
+2014-15,Six Nations,2015-03-15,Italy,France,0,29,Stadio Olimpico,180690
+2014-15,Six Nations,2015-03-21,Italy,Wales,20,61,Stadio Olimpico,180691
+2014-15,Six Nations,2015-03-21,Scotland,Ireland,10,40,Scottish Gas Murrayfield,180692
+2014-15,Six Nations,2015-03-21,England,France,55,35,Allianz Stadium,180693
+2015,International Test Match,2015-07-08,Samoa,New Zealand,16,25,Apia Park,600546
+2015,International Test Match,2015-07-11,Namibia,Russia,39,19,Hage Geingob Stadium,600547
+2015,Rugby Championship / Tri Nations,2015-07-17,New Zealand,Argentina,39,18,Jade Stadium (Lancaster Park),244305
+2015,Rugby Championship / Tri Nations,2015-07-18,Australia,South Africa,24,20,Suncorp Stadium,244307
+2015,International Test Match,2015-07-18,Namibia,Russia,45,5,Hage Geingob Stadium,600548
+2015,Rugby Championship / Tri Nations,2015-07-25,South Africa,New Zealand,20,27,Ellis Park,244309
+2015,Rugby Championship / Tri Nations,2015-07-25,Argentina,Australia,9,34,Estadio Malvinas Argentinas,244311
+2015,Rugby Championship / Tri Nations,2015-08-08,Australia,New Zealand,27,19,Accor Stadium,244313
+2015,Rugby Championship / Tri Nations,2015-08-08,South Africa,Argentina,25,37,Hollywoodbets Kings Park,244315
+2015,International Test Match,2015-08-08,Wales,Ireland,21,35,Principality Stadium,600549
+2015,International Test Match,2015-08-15,New Zealand,Australia,41,13,Eden Park,600550
+2015,International Test Match,2015-08-15,Ireland,Scotland,28,22,Aviva Stadium,600551
+2015,International Test Match,2015-08-15,England,France,19,14,Allianz Stadium,600552
+2015,International Test Match,2015-08-15,Argentina,South Africa,12,26,Estadio José Amalfitani,600553
+2015,International Test Match,2015-08-22,Japan,Uruguay,30,8,Best Denki Stadium,600554
+2015,International Test Match,2015-08-22,Italy,Scotland,12,16,Stadio Olimpico di Torino,600555
+2015,International Test Match,2015-08-22,France,England,25,20,Stade de France,600556
+2015,International Test Match,2015-08-22,Canada,United States of America,23,41,"Twin Elm Park, Winnipeg",600557
+2015,International Test Match,2015-08-29,Japan,Uruguay,40,0,Prince Chichibu Memorial Stadium,600558
+2015,International Test Match,2015-08-29,Ireland,Wales,10,16,Aviva Stadium,600559
+2015,International Test Match,2015-08-29,Scotland,Italy,48,7,Scottish Gas Murrayfield,600560
+2015,International Test Match,2015-09-02,Canada,Georgia,16,15,"Molesey Road, Hersham, Surrey",600561
+2015,International Test Match,2015-09-05,England,Ireland,21,13,Allianz Stadium,600562
+2015,International Test Match,2015-09-05,Japan,Georgia,10,13,Kingsholm,600563
+2015,International Test Match,2015-09-05,Wales,Italy,23,19,Principality Stadium,600564
+2015,International Test Match,2015-09-05,Romania,Tonga,16,21,Stadionul National Arcul de Triumf,600565
+2015,International Test Match,2015-09-05,France,Scotland,19,16,Stade de France,600566
+2015,International Test Match,2015-09-05,United States of America,Australia,10,47,Soldier Field,600567
+2015,International Test Match,2015-09-06,Fiji,Canada,18,47,Twickenham Stoop,600568
+2015,Rugby World Cup,2015-09-18,England,Fiji,35,11,Allianz Stadium,181969
+2015,Rugby World Cup,2015-09-19,Tonga,Georgia,10,17,Kingsholm,181971
+2015,Rugby World Cup,2015-09-19,Ireland,Canada,50,7,Principality Stadium,181973
+2015,Rugby World Cup,2015-09-19,South Africa,Japan,32,34,Brighton Community Stadium,181970
+2015,Rugby World Cup,2015-09-19,France,Italy,32,10,Allianz Stadium,181972
+2015,Rugby World Cup,2015-09-20,United States of America,Samoa,16,25,Brighton Community Stadium,181975
+2015,Rugby World Cup,2015-09-20,Wales,Uruguay,54,9,Principality Stadium,181974
+2015,Rugby World Cup,2015-09-20,New Zealand,Argentina,26,16,Wembley Stadium,181976
+2015,Rugby World Cup,2015-09-23,Scotland,Japan,45,10,Kingsholm,181978
+2015,Rugby World Cup,2015-09-23,Australia,Fiji,28,13,Principality Stadium,181977
+2015,Rugby World Cup,2015-09-23,France,Romania,38,11,London Stadium,181979
+2015,Rugby World Cup,2015-09-24,New Zealand,Namibia,58,14,London Stadium,181980
+2015,Rugby World Cup,2015-09-25,Argentina,Georgia,54,9,Kingsholm,181981
+2015,Rugby World Cup,2015-09-26,Italy,Canada,23,18,Elland Road,181984
+2015,Rugby World Cup,2015-09-26,South Africa,Samoa,46,6,Villa Park,181983
+2015,Rugby World Cup,2015-09-26,England,Wales,25,28,Allianz Stadium,181982
+2015,Rugby World Cup,2015-09-27,Australia,Uruguay,65,3,Villa Park,181985
+2015,Rugby World Cup,2015-09-27,Scotland,United States of America,39,16,Elland Road,181986
+2015,Rugby World Cup,2015-09-27,Ireland,Romania,44,10,Wembley Stadium,181987
+2015,Rugby World Cup,2015-09-29,Tonga,Namibia,35,21,Sandy Park,181988
+2015,Rugby World Cup,2015-10-01,Wales,Fiji,23,13,Principality Stadium,181989
+2015,Rugby World Cup,2015-10-01,France,Canada,41,18,stadium:mk,181990
+2015,Rugby World Cup,2015-10-02,New Zealand,Georgia,43,10,Principality Stadium,181991
+2015,Rugby World Cup,2015-10-03,Samoa,Japan,5,26,stadium:mk,181993
+2015,Rugby World Cup,2015-10-03,Scotland,South Africa,16,34,St James' Park,181994
+2015,Rugby World Cup,2015-10-03,England,Australia,13,33,Allianz Stadium,181992
+2015,Rugby World Cup,2015-10-04,Argentina,Tonga,45,16,Leicester City Stadium,181995
+2015,Rugby World Cup,2015-10-04,Ireland,Italy,16,9,London Stadium,181996
+2015,Rugby World Cup,2015-10-06,Romania,Canada,17,15,Leicester City Stadium,181998
+2015,Rugby World Cup,2015-10-06,Fiji,Uruguay,47,15,stadium:mk,181997
+2015,Rugby World Cup,2015-10-07,South Africa,United States of America,64,0,London Stadium,181999
+2015,Rugby World Cup,2015-10-07,Georgia,Namibia,17,16,Sandy Park,182000
+2015,Rugby World Cup,2015-10-09,New Zealand,Tonga,47,9,St James' Park,182001
+2015,Rugby World Cup,2015-10-10,Scotland,Samoa,36,33,St James' Park,182004
+2015,Rugby World Cup,2015-10-10,Wales,Australia,6,15,Allianz Stadium,182002
+2015,Rugby World Cup,2015-10-10,England,Uruguay,60,3,City of Manchester Stadium,182003
+2015,Rugby World Cup,2015-10-11,Argentina,Namibia,64,19,Leicester City Stadium,182006
+2015,Rugby World Cup,2015-10-11,Romania,Italy,22,32,Sandy Park,182008
+2015,Rugby World Cup,2015-10-11,Ireland,France,24,9,Principality Stadium,182007
+2015,Rugby World Cup,2015-10-11,United States of America,Japan,18,28,Kingsholm,182005
+2015,Rugby World Cup,2015-10-17,Wales,South Africa,19,23,Allianz Stadium,236307
+2015,Rugby World Cup,2015-10-17,New Zealand,France,62,13,Principality Stadium,236305
+2015,Rugby World Cup,2015-10-18,Ireland,Argentina,20,43,Principality Stadium,236309
+2015,Rugby World Cup,2015-10-18,Scotland,Australia,34,35,Allianz Stadium,236311
+2015,Rugby World Cup,2015-10-24,South Africa,New Zealand,18,20,Allianz Stadium,236313
+2015,Rugby World Cup,2015-10-25,Australia,Argentina,29,15,Allianz Stadium,236315
+2015,Rugby World Cup,2015-10-30,South Africa,Argentina,24,13,London Stadium,236317
+2015,Rugby World Cup,2015-10-31,Australia,New Zealand,17,34,Allianz Stadium,236319
+2015-16,Six Nations,2016-02-06,France,Italy,23,21,Stade de France,254973
+2015-16,Six Nations,2016-02-06,Scotland,England,9,15,Scottish Gas Murrayfield,254975
+2015-16,Six Nations,2016-02-07,Ireland,Wales,16,16,Aviva Stadium,254977
+2015-16,Six Nations,2016-02-13,France,Ireland,10,9,Stade de France,254979
+2015-16,Six Nations,2016-02-13,Wales,Scotland,27,23,Principality Stadium,254981
+2015-16,Six Nations,2016-02-14,Italy,England,9,40,Stadio Olimpico,254983
+2015-16,Six Nations,2016-02-26,Wales,France,19,10,Principality Stadium,254985
+2015-16,Six Nations,2016-02-27,Italy,Scotland,20,36,Stadio Olimpico,254987
+2015-16,Six Nations,2016-02-27,England,Ireland,21,10,Allianz Stadium,254989
+2015-16,Six Nations,2016-03-12,Ireland,Italy,58,15,Aviva Stadium,254991
+2015-16,Six Nations,2016-03-12,England,Wales,25,21,Allianz Stadium,254993
+2015-16,Six Nations,2016-03-13,Scotland,France,29,18,Scottish Gas Murrayfield,254995
+2015-16,Six Nations,2016-03-19,Wales,Italy,67,14,Principality Stadium,254997
+2015-16,Six Nations,2016-03-19,Ireland,Scotland,35,25,Aviva Stadium,254999
+2015-16,Six Nations,2016-03-19,France,England,21,31,Stade de France,255001
+2016,International Test Match,2016-05-29,England,Wales,27,13,Allianz Stadium,600569
+2016,International Test Match,2016-06-11,Samoa,Georgia,19,19,Apia Park,600570
+2016,International Test Match,2016-06-11,New Zealand,Wales,39,21,Eden Park,600571
+2016,International Test Match,2016-06-11,Australia,England,28,39,Suncorp Stadium,600572
+2016,International Test Match,2016-06-11,South Africa,Ireland,20,26,DHL Newlands,600573
+2016,International Test Match,2016-06-11,Argentina,Italy,30,24,Estadio Brigadier General Estanislao López,600574
+2016,International Test Match,2016-06-11,Canada,Japan,22,26,BC Place,600575
+2016,International Test Match,2016-06-18,Georgia,Tonga,23,20,HFC Bank Stadium,600576
+2016,International Test Match,2016-06-18,New Zealand,Wales,36,22,Sky Stadium,600577
+2016,International Test Match,2016-06-18,Australia,England,7,23,AAMI Park,600578
+2016,International Test Match,2016-06-18,Japan,Scotland,13,26,City of Toyota Stadium,600579
+2016,International Test Match,2016-06-18,South Africa,Ireland,32,26,Ellis Park,600580
+2016,International Test Match,2016-06-18,Canada,Russia,46,21,Calgary Rugby Park,600581
+2016,International Test Match,2016-06-19,United States of America,Italy,20,24,"Avaya Stadium, San Jose, California",600582
+2016,International Test Match,2016-06-19,Argentina,France,30,19,Estadio Monumental Jose Fierro,600583
+2016,International Test Match,2016-06-24,Fiji,Georgia,3,14,HFC Bank Stadium,600584
+2016,International Test Match,2016-06-25,New Zealand,Wales,46,6,Forsyth Barr Stadium,600585
+2016,International Test Match,2016-06-25,Australia,England,40,44,Allianz Stadium,600586
+2016,International Test Match,2016-06-25,Japan,Scotland,16,21,Ajinomoto Stadium,600587
+2016,International Test Match,2016-06-25,South Africa,Ireland,19,13,Nelson Mandela Bay Stadium,600588
+2016,International Test Match,2016-06-25,Argentina,France,0,27,Estadio Monumental Jose Fierro,600589
+2016,International Test Match,2016-06-26,United States of America,Russia,25,0,Bonney Field,600590
+2016,International Test Match,2016-06-26,Canada,Italy,18,20,"BMO Stadium, Toronto",600591
+2016,Rugby Championship / Tri Nations,2016-08-20,Australia,New Zealand,8,42,Accor Stadium,289312
+2016,Rugby Championship / Tri Nations,2016-08-20,South Africa,Argentina,30,23,Mbombela Stadium,281087
+2016,Rugby Championship / Tri Nations,2016-08-27,New Zealand,Australia,29,9,Sky Stadium,268575
+2016,Rugby Championship / Tri Nations,2016-08-27,Argentina,South Africa,26,24,Estadio Padre Ernesto Martearena,289313
+2016,Rugby Championship / Tri Nations,2016-09-10,New Zealand,Argentina,57,22,FMG Stadium Waikato,268577
+2016,Rugby Championship / Tri Nations,2016-09-10,Australia,South Africa,23,17,Suncorp Stadium,289314
+2016,Rugby Championship / Tri Nations,2016-09-17,New Zealand,South Africa,41,13,Jade Stadium (Lancaster Park),268579
+2016,Rugby Championship / Tri Nations,2016-09-17,Australia,Argentina,36,20,HBF Park,289315
+2016,Rugby Championship / Tri Nations,2016-10-01,South Africa,Australia,18,10,Loftus Versfeld,281089
+2016,Rugby Championship / Tri Nations,2016-10-01,Argentina,New Zealand,17,36,Estadio José Amalfitani,289316
+2016,Rugby Championship / Tri Nations,2016-10-08,South Africa,New Zealand,15,57,Hollywoodbets Kings Park,281091
+2016,Rugby Championship / Tri Nations,2016-10-08,Argentina,Australia,21,33,Allianz Stadium,289317
+2016,International Test Match,2016-10-22,New Zealand,Australia,37,10,Eden Park,600592
+2016,International Test Match,2016-11-05,Japan,Argentina,20,54,Prince Chichibu Memorial Stadium,600593
+2016,International Test Match,2016-11-05,Wales,Australia,8,32,Principality Stadium,600594
+2016,International Test Match,2016-11-05,Ireland,New Zealand,40,29,Soldier Field,600595
+2016,International Test Match,2016-11-12,Georgia,Japan,22,28,Mikheil Meskhi Stadium,600596
+2016,International Test Match,2016-11-12,Italy,New Zealand,10,68,Stadio Olimpico,600597
+2016,International Test Match,2016-11-12,England,South Africa,37,21,Allianz Stadium,600598
+2016,International Test Match,2016-11-12,Scotland,Australia,22,23,Scottish Gas Murrayfield,600599
+2016,International Test Match,2016-11-12,Spain,Tonga,13,28,Universitaria Complutense,600600
+2016,International Test Match,2016-11-12,Romania,United States of America,23,10,Stadionul National Arcul de Triumf,600601
+2016,International Test Match,2016-11-12,France,Samoa,52,8,Stadium de Toulouse,600602
+2016,International Test Match,2016-11-12,Wales,Argentina,24,20,Principality Stadium,600603
+2016,International Test Match,2016-11-12,Ireland,Canada,52,21,Aviva Stadium,600604
+2016,International Test Match,2016-11-19,Georgia,Samoa,20,16,Mikheil Meskhi Stadium,600605
+2016,International Test Match,2016-11-19,Italy,South Africa,20,18,Stadio Artemio Franchi,600606
+2016,International Test Match,2016-11-19,England,Fiji,58,15,Allianz Stadium,600607
+2016,International Test Match,2016-11-19,Wales,Japan,33,30,Principality Stadium,600608
+2016,International Test Match,2016-11-19,Romania,Canada,21,16,Stadionul National Arcul de Triumf,600609
+2016,International Test Match,2016-11-19,Tonga,United States of America,20,17,Reale Arena,600610
+2016,International Test Match,2016-11-19,Scotland,Argentina,19,16,Scottish Gas Murrayfield,600611
+2016,International Test Match,2016-11-19,Ireland,New Zealand,9,21,Aviva Stadium,600612
+2016,International Test Match,2016-11-19,France,Australia,23,25,Stade de France,600613
+2016,International Test Match,2016-11-25,Samoa,Canada,25,23,Stade des Alpes,600614
+2016,International Test Match,2016-11-26,Italy,Tonga,17,19,"Stadio Euganeo, Padova",600615
+2016,International Test Match,2016-11-26,Fiji,Japan,38,25,Stade de la Rabine,600616
+2016,International Test Match,2016-11-26,Scotland,Georgia,43,16,"Rugby Park, Kilmarnock",600617
+2016,International Test Match,2016-11-26,England,Argentina,27,14,Allianz Stadium,600618
+2016,International Test Match,2016-11-26,Romania,Uruguay,36,10,Stadionul National Arcul de Triumf,600619
+2016,International Test Match,2016-11-26,Wales,South Africa,27,13,Principality Stadium,600620
+2016,International Test Match,2016-11-26,Ireland,Australia,27,24,Aviva Stadium,600621
+2016,International Test Match,2016-11-26,France,New Zealand,19,24,Stade de France,600622
+2016,International Test Match,2016-12-03,England,Australia,37,21,Allianz Stadium,600623
+2016-17,Six Nations,2017-02-04,Scotland,Ireland,27,22,Scottish Gas Murrayfield,290767
+2016-17,Six Nations,2017-02-04,England,France,19,16,Allianz Stadium,290768
+2016-17,Six Nations,2017-02-05,Italy,Wales,7,33,Stadio Olimpico,290904
+2016-17,Six Nations,2017-02-11,Italy,Ireland,10,63,Stadio Olimpico,290905
+2016-17,Six Nations,2017-02-11,Wales,England,16,21,Principality Stadium,290906
+2016-17,Six Nations,2017-02-12,France,Scotland,22,16,Stade de France,290907
+2016-17,Six Nations,2017-02-25,Scotland,Wales,29,13,Scottish Gas Murrayfield,290908
+2016-17,Six Nations,2017-02-25,Ireland,France,19,9,Aviva Stadium,290909
+2016-17,Six Nations,2017-02-26,England,Italy,36,15,Allianz Stadium,290910
+2016-17,Six Nations,2017-03-10,Wales,Ireland,22,9,Principality Stadium,290911
+2016-17,Six Nations,2017-03-11,Italy,France,18,40,Stadio Olimpico,290912
+2016-17,Six Nations,2017-03-11,England,Scotland,61,21,Allianz Stadium,290913
+2016-17,Six Nations,2017-03-18,Scotland,Italy,29,0,Scottish Gas Murrayfield,290914
+2016-17,Six Nations,2017-03-18,France,Wales,20,18,Stade de France,290915
+2016-17,Six Nations,2017-03-18,Ireland,England,13,9,Aviva Stadium,290916
+2017,British & Irish Lions,2017-06-03,Provincial Union XV,British and Irish Lions,7,13,Semenoff Stadium,290594
+2017,British & Irish Lions,2017-06-07,Blues,British and Irish Lions,22,16,Eden Park,290595
+2017,British & Irish Lions,2017-06-10,Crusaders,British and Irish Lions,3,12,Apollo Projects Stadium,290596
+2017,International Test Match,2017-06-10,Australia,Fiji,37,14,AAMI Park,600624
+2017,International Test Match,2017-06-10,Japan,Romania,33,21,Egao Health (Umakana Yokana) Stadium,600625
+2017,International Test Match,2017-06-10,Italy,Scotland,13,34,Singapore National Stadium,600626
+2017,International Test Match,2017-06-10,South Africa,France,37,14,Loftus Versfeld,600627
+2017,International Test Match,2017-06-10,Argentina,England,34,38,Estadio Bicentenario,600628
+2017,International Test Match,2017-06-10,United States of America,Ireland,19,55,Red Bull Arena,600629
+2017,International Test Match,2017-06-10,Canada,Georgia,0,13,Calgary Rugby Park,600630
+2017,British & Irish Lions,2017-06-13,Highlanders,British and Irish Lions,23,22,Forsyth Barr Stadium,290597
+2017,International Test Match,2017-06-16,Tonga,Wales,6,24,Eden Park,600631
+2017,International Test Match,2017-06-16,New Zealand,Samoa,78,0,Eden Park,600632
+2017,British & Irish Lions,2017-06-17,New Zealand Maori,British and Irish Lions,10,32,Rotorua International Stadium,290598
+2017,International Test Match,2017-06-17,Fiji,Italy,22,19,HFC Bank Stadium,600633
+2017,International Test Match,2017-06-17,Japan,Ireland,22,50,ECOPA (Ogasayama) Stadium,600634
+2017,International Test Match,2017-06-17,Australia,Scotland,19,24,Allianz Stadium,600635
+2017,International Test Match,2017-06-17,South Africa,France,37,15,Hollywoodbets Kings Park,600636
+2017,International Test Match,2017-06-17,Argentina,England,25,35,"Estadio CA Colon, Santa Fe",600637
+2017,International Test Match,2017-06-17,Canada,Romania,9,25,"Ellerslie Park, Edmonton",600638
+2017,International Test Match,2017-06-17,United States of America,Georgia,17,21,Fifth Third Bank Stadium,600639
+2017,British & Irish Lions,2017-06-20,Chiefs,British and Irish Lions,6,34,FMG Stadium Waikato,290599
+2017,International Test Match,2017-06-23,Samoa,Wales,17,19,Apia Park,600640
+2017,British & Irish Lions,2017-06-24,New Zealand,British and Irish Lions,30,15,Eden Park,290600
+2017,International Test Match,2017-06-24,Fiji,Scotland,27,22,HFC Bank Stadium,600641
+2017,International Test Match,2017-06-24,Australia,Italy,40,27,Suncorp Stadium,600642
+2017,International Test Match,2017-06-24,Japan,Ireland,13,35,Ajinomoto Stadium,600643
+2017,International Test Match,2017-06-24,South Africa,France,35,12,Ellis Park,600644
+2017,International Test Match,2017-06-24,Romania,Brazil,56,5,Stadionul National Arcul de Triumf,600645
+2017,International Test Match,2017-06-24,Canada,United States of America,28,28,Tim Hortons Field,600646
+2017,International Test Match,2017-06-24,Argentina,Georgia,45,29,Estadio 23 de Agosto,600647
+2017,British & Irish Lions,2017-06-27,Hurricanes,British and Irish Lions,31,31,Sky Stadium,290601
+2017,British & Irish Lions,2017-07-01,New Zealand,British and Irish Lions,21,24,Sky Stadium,290602
+2017,International Test Match,2017-07-01,United States of America,Canada,52,16,Torero Stadium,600648
+2017,British & Irish Lions,2017-07-08,New Zealand,British and Irish Lions,15,15,Eden Park,290603
+2017,Rugby Championship / Tri Nations,2017-08-19,Australia,New Zealand,34,54,Accor Stadium,291158
+2017,Rugby Championship / Tri Nations,2017-08-19,South Africa,Argentina,37,15,Nelson Mandela Bay Stadium,291159
+2017,Rugby Championship / Tri Nations,2017-08-26,New Zealand,Australia,35,29,Forsyth Barr Stadium,291160
+2017,Rugby Championship / Tri Nations,2017-08-26,Argentina,South Africa,23,41,Estadio Padre Ernesto Martearena,291161
+2017,Rugby Championship / Tri Nations,2017-09-09,New Zealand,Argentina,39,22,Stadium Taranaki,291163
+2017,Rugby Championship / Tri Nations,2017-09-09,Australia,South Africa,23,23,HBF Park,291162
+2017,Rugby Championship / Tri Nations,2017-09-16,New Zealand,South Africa,57,0,North Harbour Stadium,291165
+2017,Rugby Championship / Tri Nations,2017-09-16,Australia,Argentina,45,20,GIO Stadium,291164
+2017,Rugby Championship / Tri Nations,2017-10-07,South Africa,New Zealand,24,25,DHL Newlands,291168
+2017,Rugby Championship / Tri Nations,2017-10-07,Argentina,Australia,20,37,Estadio Malvinas Argentinas,291169
+2017,International Test Match,2017-10-21,Australia,New Zealand,23,18,Suncorp Stadium,600649
+2017,International Test Match,2017-11-04,Japan,Australia,30,63,International Stadium Yokohama,600650
+2017,International Test Match,2017-11-11,Italy,Fiji,19,10,Stadio Angelo Massimino,600651
+2017,International Test Match,2017-11-11,Georgia,Canada,54,22,Mikheil Meskhi Stadium,600652
+2017,International Test Match,2017-11-11,Germany,Brazil,45,12,Bruno-Plache-Stadion,600653
+2017,International Test Match,2017-11-11,Scotland,Samoa,44,38,Scottish Gas Murrayfield,600654
+2017,International Test Match,2017-11-11,England,Argentina,21,8,Allianz Stadium,600655
+2017,International Test Match,2017-11-11,Wales,Australia,21,29,Principality Stadium,600656
+2017,International Test Match,2017-11-11,Ireland,South Africa,38,3,Aviva Stadium,600657
+2017,International Test Match,2017-11-11,France,New Zealand,18,38,Stade de France,600658
+2017,International Test Match,2017-11-18,Italy,Argentina,15,31,Stadio Artemio Franchi,600659
+2017,International Test Match,2017-11-18,Namibia,Uruguay,36,52,Hage Geingob Stadium,600660
+2017,International Test Match,2017-11-18,Belgium,Brazil,19,23,Petit Heysel,600661
+2017,International Test Match,2017-11-18,Wales,Georgia,13,6,Principality Stadium,600662
+2017,International Test Match,2017-11-18,Spain,Canada,27,37,Estadio Nacional Complutense,600663
+2017,International Test Match,2017-11-18,England,Australia,30,6,Allianz Stadium,600664
+2017,International Test Match,2017-11-18,Romania,Samoa,17,13,Stadionul National Arcul de Triumf,600665
+2017,International Test Match,2017-11-18,Germany,United States of America,17,46,Brita-Arena,600666
+2017,International Test Match,2017-11-18,Japan,Tonga,39,6,Stade Ernest-Wallon,600667
+2017,International Test Match,2017-11-18,Scotland,New Zealand,17,22,Scottish Gas Murrayfield,600668
+2017,International Test Match,2017-11-18,Ireland,Fiji,23,20,Aviva Stadium,600669
+2017,International Test Match,2017-11-18,France,South Africa,17,18,Stade de France,600670
+2017,International Test Match,2017-11-25,Italy,South Africa,6,35,"Stadio Euganeo, Padova",600671
+2017,International Test Match,2017-11-25,Georgia,United States of America,21,20,Mikheil Meskhi Stadium,600672
+2017,International Test Match,2017-11-25,Namibia,Uruguay,34,39,Hage Geingob Stadium,600673
+2017,International Test Match,2017-11-25,Germany,Chile,10,32,Sparda Bank Hessen Stadium,600674
+2017,International Test Match,2017-11-25,Scotland,Australia,53,24,Scottish Gas Murrayfield,600675
+2017,International Test Match,2017-11-25,England,Samoa,48,14,Allianz Stadium,600676
+2017,International Test Match,2017-11-25,Spain,Brazil,67,28,Estadio El Pantano,600677
+2017,International Test Match,2017-11-25,Romania,Tonga,20,25,Stadionul National Arcul de Triumf,600678
+2017,International Test Match,2017-11-25,Fiji,Canada,57,17,Parc des Sports et de l'Amitie,600679
+2017,International Test Match,2017-11-25,Wales,New Zealand,18,33,Principality Stadium,600680
+2017,International Test Match,2017-11-25,Ireland,Argentina,28,19,Aviva Stadium,600681
+2017,International Test Match,2017-11-25,France,Japan,23,23,Paris La Defense Arena,600682
+2017,International Test Match,2017-12-02,Wales,South Africa,24,22,Principality Stadium,600683
+2017-18,Six Nations,2018-02-03,Wales,Scotland,34,7,Principality Stadium,291689
+2017-18,Six Nations,2018-02-03,France,Ireland,13,15,Stade de France,291690
+2018,International Test Match,2018-02-03,Uruguay,Canada,32,31,Estadio Charrua,600684
+2017-18,Six Nations,2018-02-04,Italy,England,15,46,Stadio Olimpico,291691
+2017-18,Six Nations,2018-02-10,Ireland,Italy,56,19,Aviva Stadium,291692
+2017-18,Six Nations,2018-02-10,England,Wales,12,6,Allianz Stadium,291693
+2017-18,Six Nations,2018-02-11,Scotland,France,32,26,Scottish Gas Murrayfield,291694
+2017-18,Six Nations,2018-02-23,France,Italy,34,17,Orange Velodrome,291695
+2017-18,Six Nations,2018-02-24,Ireland,Wales,37,27,Aviva Stadium,291696
+2017-18,Six Nations,2018-02-24,Scotland,England,25,13,Scottish Gas Murrayfield,291697
+2017-18,Six Nations,2018-03-10,Ireland,Scotland,28,8,Aviva Stadium,291698
+2017-18,Six Nations,2018-03-10,France,England,22,16,Stade de France,291699
+2017-18,Six Nations,2018-03-11,Wales,Italy,38,14,Principality Stadium,291700
+2017-18,Six Nations,2018-03-17,Italy,Scotland,27,29,Stadio Olimpico,291701
+2017-18,Six Nations,2018-03-17,England,Ireland,15,24,Allianz Stadium,291702
+2017-18,Six Nations,2018-03-17,Wales,France,14,13,Principality Stadium,291703
+2018,International Test Match,2018-06-02,South Africa,Wales,20,22,RFK Stadium,600685
+2018,International Test Match,2018-06-09,Japan,Italy,34,17,Showa Denko Dome Oita,600686
+2018,International Test Match,2018-06-09,New Zealand,France,52,11,Eden Park,600687
+2018,International Test Match,2018-06-09,Australia,Ireland,18,9,Suncorp Stadium,600688
+2018,International Test Match,2018-06-09,South Africa,England,42,39,Ellis Park,600689
+2018,International Test Match,2018-06-09,Argentina,Wales,10,23,Estadio Bicentenario,600690
+2018,International Test Match,2018-06-10,United States of America,Russia,62,13,Dick's Sporting Goods Park,600691
+2018,International Test Match,2018-06-10,Canada,Scotland,10,48,Commonwealth Stadium,600692
+2018,International Test Match,2018-06-16,Japan,Italy,22,25,Kobe Misaki Stadium,600693
+2018,International Test Match,2018-06-16,New Zealand,France,26,13,Sky Stadium,600694
+2018,International Test Match,2018-06-16,Australia,Ireland,21,26,AAMI Park,600695
+2018,International Test Match,2018-06-16,Germany,Portugal,16,13,Fritz-Grunebaum Sportpark,600696
+2018,International Test Match,2018-06-16,South Africa,England,23,12,Toyota Stadium,600697
+2018,International Test Match,2018-06-16,Argentina,Wales,12,30,Estadio Brigadier General Estanislao López,600698
+2018,International Test Match,2018-06-16,Canada,Russia,20,43,"Twin Elm Park, Winnipeg",600699
+2018,International Test Match,2018-06-17,United States of America,Scotland,30,29,BBVA Compass Stadium,600700
+2018,International Test Match,2018-06-23,Fiji,Tonga,19,27,HFC Bank Stadium,600701
+2018,International Test Match,2018-06-23,Japan,Georgia,28,0,City of Toyota Stadium,600702
+2018,International Test Match,2018-06-23,New Zealand,France,49,14,Forsyth Barr Stadium,600703
+2018,International Test Match,2018-06-23,Australia,Ireland,16,20,Allianz Stadium,600704
+2018,International Test Match,2018-06-23,South Africa,England,10,25,DHL Newlands,600705
+2018,International Test Match,2018-06-23,Canada,United States of America,17,42,"Wanderers Grounds, Halifax, Nova Scotia",600706
+2018,International Test Match,2018-06-23,Argentina,Scotland,15,44,"Estadio Centenario, Montevideo, Uruguay",600707
+2018,International Test Match,2018-06-30,Samoa,Germany,66,15,Apia Park,600708
+2018,International Test Match,2018-07-14,Germany,Samoa,28,42,Fritz-Grunebaum Sportpark,600709
+2018,Rugby Championship / Tri Nations,2018-08-18,Australia,New Zealand,13,38,Accor Stadium,292786
+2018,Rugby Championship / Tri Nations,2018-08-18,South Africa,Argentina,34,21,Hollywoodbets Kings Park,292787
+2018,Rugby Championship / Tri Nations,2018-08-25,New Zealand,Australia,40,12,Eden Park,292788
+2018,Rugby Championship / Tri Nations,2018-08-25,Argentina,South Africa,32,19,Estadio Malvinas Argentinas,292789
+2018,Rugby Championship / Tri Nations,2018-09-08,New Zealand,Argentina,46,24,Trafalgar Park,292791
+2018,Rugby Championship / Tri Nations,2018-09-08,Australia,South Africa,23,18,Suncorp Stadium,292790
+2018,Rugby Championship / Tri Nations,2018-09-15,New Zealand,South Africa,34,36,Sky Stadium,292793
+2018,Rugby Championship / Tri Nations,2018-09-15,Australia,Argentina,19,23,Cbus Super Stadium,292792
+2018,Rugby Championship / Tri Nations,2018-09-29,South Africa,Australia,23,12,Nelson Mandela Bay Stadium,292794
+2018,Rugby Championship / Tri Nations,2018-09-29,Argentina,New Zealand,17,35,Estadio José Amalfitani,292795
+2018,Rugby Championship / Tri Nations,2018-10-06,South Africa,New Zealand,30,32,Loftus Versfeld,292796
+2018,Rugby Championship / Tri Nations,2018-10-06,Argentina,Australia,34,45,Estadio Padre Ernesto Martearena,292797
+2018,International Test Match,2018-10-20,Kenya,Namibia,0,0,,600710
+2018,International Test Match,2018-10-27,New Zealand,Australia,37,20,International Stadium Yokohama,600711
+2018,International Test Match,2018-11-03,Japan,New Zealand,31,69,Ajinomoto Stadium,600712
+2018,International Test Match,2018-11-03,Romania,Kenya,36,5,"Stadionul Ghencea II, Bucharest",600713
+2018,International Test Match,2018-11-03,Wales,Scotland,21,10,Principality Stadium,600714
+2018,International Test Match,2018-11-03,England,South Africa,12,11,Allianz Stadium,600715
+2018,International Test Match,2018-11-03,Ireland,Italy,54,7,Soldier Field,600716
+2018,International Test Match,2018-11-10,Russia,Namibia,47,20,Kuban Stadium,600717
+2018,International Test Match,2018-11-10,Romania,Portugal,36,6,Arena Zimbrilor,600718
+2018,International Test Match,2018-11-10,Italy,Georgia,28,17,Stadio Artemio Franchi,600719
+2018,International Test Match,2018-11-10,Scotland,Fiji,54,17,Scottish Gas Murrayfield,600720
+2018,International Test Match,2018-11-10,England,New Zealand,15,16,Allianz Stadium,600721
+2018,International Test Match,2018-11-10,Wales,Australia,9,6,Principality Stadium,600722
+2018,International Test Match,2018-11-10,United States of America,Samoa,30,29,Reale Arena,600723
+2018,International Test Match,2018-11-10,Ireland,Argentina,28,17,Aviva Stadium,600724
+2018,International Test Match,2018-11-10,France,South Africa,26,29,Stade de France,600725
+2018,International Test Match,2018-11-17,Romania,United States of America,5,31,"Stadionul Ghencea II, Bucharest",600726
+2018,International Test Match,2018-11-17,Uruguay,Fiji,7,68,4ED Hartpury Stadium with Vodafone,600727
+2018,International Test Match,2018-11-17,Georgia,Samoa,27,19,Avchala Stadium,600728
+2018,International Test Match,2018-11-17,Italy,Australia,7,26,"Stadio Euganeo, Padova",600729
+2018,International Test Match,2018-11-17,Wales,Tonga,74,24,Principality Stadium,600730
+2018,International Test Match,2018-11-17,Spain,Namibia,34,13,Universitaria Complutense,600731
+2018,International Test Match,2018-11-17,England,Japan,35,15,Allianz Stadium,600732
+2018,International Test Match,2018-11-17,Scotland,South Africa,20,26,Scottish Gas Murrayfield,600733
+2018,International Test Match,2018-11-17,Ireland,New Zealand,16,9,Aviva Stadium,600734
+2018,International Test Match,2018-11-17,France,Argentina,28,13,Stade Pierre Mauroy,600735
+2018,International Test Match,2018-11-24,Romania,Uruguay,20,27,"Stadionul Lascar Ghinet, Baia Mare",600736
+2018,International Test Match,2018-11-24,Georgia,Tonga,20,9,Mikheil Meskhi Stadium,600737
+2018,International Test Match,2018-11-24,Italy,New Zealand,3,66,Stadio Olimpico,600738
+2018,International Test Match,2018-11-24,Russia,Japan,27,32,Kingsholm,600739
+2018,International Test Match,2018-11-24,Scotland,Argentina,14,9,Scottish Gas Murrayfield,600740
+2018,International Test Match,2018-11-24,Spain,Samoa,10,28,Estadio Nacional Complutense,600741
+2018,International Test Match,2018-11-24,Portugal,Namibia,23,29,Estadio Municipal do Taveiro,600742
+2018,International Test Match,2018-11-24,England,Australia,37,18,Allianz Stadium,600743
+2018,International Test Match,2018-11-24,Wales,South Africa,20,11,Principality Stadium,600744
+2018,International Test Match,2018-11-24,Ireland,United States of America,57,14,Aviva Stadium,600745
+2018,International Test Match,2018-11-24,France,Fiji,14,21,Stade de France,600746
+2018-19,Six Nations,2019-02-01,France,Wales,19,24,Stade de France,294246
+2018-19,Six Nations,2019-02-02,Scotland,Italy,33,20,Scottish Gas Murrayfield,294247
+2018-19,Six Nations,2019-02-02,Ireland,England,20,32,Aviva Stadium,294248
+2018-19,Six Nations,2019-02-09,Scotland,Ireland,13,22,Scottish Gas Murrayfield,294249
+2018-19,Six Nations,2019-02-09,Italy,Wales,15,26,Stadio Olimpico,294250
+2018-19,Six Nations,2019-02-10,England,France,44,8,Allianz Stadium,294251
+2018-19,Six Nations,2019-02-23,France,Scotland,27,10,Stade de France,294252
+2018-19,Six Nations,2019-02-23,Wales,England,21,13,Principality Stadium,294253
+2018-19,Six Nations,2019-02-24,Italy,Ireland,16,26,Stadio Olimpico,294254
+2018-19,Six Nations,2019-03-09,Scotland,Wales,11,18,Scottish Gas Murrayfield,294255
+2018-19,Six Nations,2019-03-09,England,Italy,57,14,Allianz Stadium,294256
+2018-19,Six Nations,2019-03-10,Ireland,France,26,14,Aviva Stadium,294257
+2018-19,Six Nations,2019-03-16,Italy,France,14,25,Stadio Olimpico,294258
+2018-19,Six Nations,2019-03-16,Wales,Ireland,25,7,Principality Stadium,294259
+2018-19,Six Nations,2019-03-16,England,Scotland,38,38,Allianz Stadium,294260
+2019,International Test Match,2019-06-08,Chile,Romania,11,27,Estadio Elías Figueroa Brander,600747
+2019,International Test Match,2019-06-08,Brazil,Spain,16,22,Municipal Stadium José Liberatti,600748
+2019,International Test Match,2019-06-15,Germany,Portugal,32,37,Sportanlage an der Feldgerichtstrasse,600749
+2019,International Test Match,2019-06-15,Chile,Spain,22,29,Estadio la Granja,600750
+2019,International Test Match,2019-06-15,Brazil,Romania,21,22,Estadio Jayme Cintra,600751
+2019,International Test Match,2019-06-22,Uruguay,Spain,21,41,Estadio Charrua,600752
+2019,Rugby Championship / Tri Nations,2019-07-20,South Africa,Australia,35,17,Ellis Park,294507
+2019,Rugby Championship / Tri Nations,2019-07-20,Argentina,New Zealand,16,20,Estadio José Amalfitani,294508
+2019,Rugby Championship / Tri Nations,2019-07-27,New Zealand,South Africa,16,16,Sky Stadium,294510
+2019,Rugby Championship / Tri Nations,2019-07-27,Australia,Argentina,16,10,Suncorp Stadium,294509
+2019,Rugby Championship / Tri Nations,2019-08-10,Australia,New Zealand,47,26,Optus Stadium,294511
+2019,Rugby Championship / Tri Nations,2019-08-10,Argentina,South Africa,13,46,Estadio Padre Ernesto Martearena,294512
+2019,International Test Match,2019-08-10,Ireland,Italy,29,10,Aviva Stadium,600753
+2019,International Test Match,2019-08-11,England,Wales,33,19,Allianz Stadium,600754
+2019,International Test Match,2019-08-17,New Zealand,Australia,36,0,Eden Park,600755
+2019,International Test Match,2019-08-17,Wales,England,13,6,Principality Stadium,600756
+2019,International Test Match,2019-08-17,South Africa,Argentina,24,18,Loftus Versfeld,600757
+2019,International Test Match,2019-08-17,Italy,Russia,85,15,Stadio Riviera delle Palme,600758
+2019,International Test Match,2019-08-17,France,Scotland,32,3,Allianz Riviera,600759
+2019,International Test Match,2019-08-24,Scotland,France,17,14,Scottish Gas Murrayfield,600760
+2019,International Test Match,2019-08-24,England,Ireland,57,15,Allianz Stadium,600761
+2019,International Test Match,2019-08-30,France,Italy,47,19,Stade de France,600762
+2019,International Test Match,2019-08-30,Uruguay,Brazil,43,5,Estadio Charrua,600763
+2019,International Test Match,2019-08-31,Fiji,Tonga,29,19,Eden Park,600764
+2019,International Test Match,2019-09-06,Japan,South Africa,7,41,Kumagaya Rugby Stadium,600767
+2019,International Test Match,2019-09-06,Scotland,Georgia,36,9,Scottish Gas Murrayfield,600768
+2019,International Test Match,2019-09-06,England,Italy,37,0,St James' Park,600769
+2019,International Test Match,2019-09-07,New Zealand,Tonga,92,7,FMG Stadium Waikato,600770
+2019,International Test Match,2019-09-07,Australia,Samoa,34,15,CommBank Stadium,600771
+2019,International Test Match,2019-09-07,Ireland,Wales,19,10,Aviva Stadium,600772
+2019,International Test Match,2019-09-08,Canada,United States of America,15,20,BC Place,600773
+2019,Rugby World Cup,2019-09-20,Japan,Russia,30,10,Ajinomoto Stadium,292888
+2019,Rugby World Cup,2019-09-21,Australia,Fiji,39,21,Daiwa House Premist Dome,292889
+2019,Rugby World Cup,2019-09-21,France,Argentina,23,21,Ajinomoto Stadium,292890
+2019,Rugby World Cup,2019-09-21,New Zealand,South Africa,23,13,International Stadium Yokohama,292891
+2019,Rugby World Cup,2019-09-22,Italy,Namibia,47,22,Hanazono Rugby Stadium,292892
+2019,Rugby World Cup,2019-09-22,Ireland,Scotland,27,3,International Stadium Yokohama,292893
+2019,Rugby World Cup,2019-09-22,England,Tonga,35,3,Daiwa House Premist Dome,292894
+2019,Rugby World Cup,2019-09-23,Wales,Georgia,43,14,City of Toyota Stadium,292895
+2019,Rugby World Cup,2019-09-24,Russia,Samoa,9,34,Kumagaya Rugby Stadium,292896
+2019,Rugby World Cup,2019-09-25,Fiji,Uruguay,27,30,Kamaishi Recovery Memorial Stadium,292897
+2019,Rugby World Cup,2019-09-26,Italy,Canada,48,7,Best Denki Stadium,292898
+2019,Rugby World Cup,2019-09-26,England,United States of America,45,7,Kobe Misaki Stadium,292899
+2019,Rugby World Cup,2019-09-28,Argentina,Tonga,28,12,Hanazono Rugby Stadium,292900
+2019,Rugby World Cup,2019-09-28,Japan,Ireland,19,12,Shizuoka Stadium Ecopa,292901
+2019,Rugby World Cup,2019-09-28,South Africa,Namibia,57,3,City of Toyota Stadium,292902
+2019,Rugby World Cup,2019-09-29,Georgia,Uruguay,33,7,Kumagaya Rugby Stadium,292903
+2019,Rugby World Cup,2019-09-29,Australia,Wales,25,29,Ajinomoto Stadium,292904
+2019,Rugby World Cup,2019-09-30,Scotland,Samoa,34,0,Kobe Misaki Stadium,292905
+2019,Rugby World Cup,2019-10-02,France,United States of America,33,9,Best Denki Stadium,292906
+2019,Rugby World Cup,2019-10-02,New Zealand,Canada,63,0,Showa Denko Dome Oita,292907
+2019,Rugby World Cup,2019-10-03,Georgia,Fiji,10,45,Hanazono Rugby Stadium,292908
+2019,Rugby World Cup,2019-10-03,Ireland,Russia,35,0,Kobe Misaki Stadium,292909
+2019,Rugby World Cup,2019-10-04,South Africa,Italy,49,3,Shizuoka Stadium Ecopa,292910
+2019,Rugby World Cup,2019-10-05,Australia,Uruguay,45,10,Showa Denko Dome Oita,292911
+2019,Rugby World Cup,2019-10-05,England,Argentina,39,10,Ajinomoto Stadium,292912
+2019,Rugby World Cup,2019-10-05,Japan,Samoa,38,19,City of Toyota Stadium,292913
+2019,Rugby World Cup,2019-10-06,New Zealand,Namibia,71,9,Ajinomoto Stadium,292914
+2019,Rugby World Cup,2019-10-06,France,Tonga,23,21,Egao Health (Umakana Yokana) Stadium,292915
+2019,Rugby World Cup,2019-10-08,South Africa,Canada,66,7,Kobe Misaki Stadium,292916
+2019,Rugby World Cup,2019-10-09,Argentina,United States of America,47,17,Kumagaya Rugby Stadium,292917
+2019,Rugby World Cup,2019-10-09,Scotland,Russia,61,0,Shizuoka Stadium Ecopa,292918
+2019,Rugby World Cup,2019-10-09,Wales,Fiji,29,17,Showa Denko Dome Oita,292919
+2019,Rugby World Cup,2019-10-11,Australia,Georgia,27,8,Shizuoka Stadium Ecopa,292920
+2019,Rugby World Cup,2019-10-12,New Zealand,Italy,0,0,City of Toyota Stadium,292921
+2019,Rugby World Cup,2019-10-12,England,France,0,0,International Stadium Yokohama,292922
+2019,Rugby World Cup,2019-10-12,Ireland,Samoa,47,5,Best Denki Stadium,292923
+2019,Rugby World Cup,2019-10-13,Namibia,Canada,0,0,Kamaishi Recovery Memorial Stadium,292924
+2019,Rugby World Cup,2019-10-13,United States of America,Tonga,19,31,Hanazono Rugby Stadium,292925
+2019,Rugby World Cup,2019-10-13,Wales,Uruguay,35,13,Egao Health (Umakana Yokana) Stadium,292926
+2019,Rugby World Cup,2019-10-13,Japan,Scotland,28,21,International Stadium Yokohama,292927
+2019,Rugby World Cup,2019-10-19,England,Australia,40,16,Showa Denko Dome Oita,292930
+2019,Rugby World Cup,2019-10-19,New Zealand,Ireland,46,14,Ajinomoto Stadium,292931
+2019,Rugby World Cup,2019-10-20,Wales,France,20,19,Showa Denko Dome Oita,292932
+2019,Rugby World Cup,2019-10-20,Japan,South Africa,3,26,Ajinomoto Stadium,292933
+2019,Rugby World Cup,2019-10-26,England,New Zealand,19,7,International Stadium Yokohama,292934
+2019,Rugby World Cup,2019-10-27,Wales,South Africa,16,19,International Stadium Yokohama,292935
+2019,Rugby World Cup,2019-11-01,New Zealand,Wales,40,17,Ajinomoto Stadium,292928
+2019,Rugby World Cup,2019-11-02,England,South Africa,12,32,International Stadium Yokohama,292929
+2019-20,Six Nations,2020-02-01,Wales,Italy,42,0,Principality Stadium,295492
+2019-20,Six Nations,2020-02-01,Ireland,Scotland,19,12,Aviva Stadium,295493
+2019-20,Six Nations,2020-02-02,France,England,24,17,Stade de France,295494
+2019-20,Six Nations,2020-02-08,Ireland,Wales,24,14,Aviva Stadium,295495
+2019-20,Six Nations,2020-02-08,Scotland,England,6,13,Scottish Gas Murrayfield,295496
+2019-20,Six Nations,2020-02-09,France,Italy,35,22,Stade de France,295497
+2019-20,Six Nations,2020-02-22,Italy,Scotland,0,17,Stadio Olimpico,295498
+2019-20,Six Nations,2020-02-22,Wales,France,23,27,Principality Stadium,295499
+2019-20,Six Nations,2020-02-23,England,Ireland,24,12,Allianz Stadium,295500
+2019-20,Six Nations,2020-03-07,England,Wales,33,30,Allianz Stadium,295502
+2019-20,Six Nations,2020-03-08,Scotland,France,28,17,Scottish Gas Murrayfield,295503
+2020,International Test Match,2020-06-26,Japan,Wales,0,0,,600774
+2020,International Test Match,2020-07-03,Japan,England,0,0,Showa Denko Dome Oita,600775
+2020,International Test Match,2020-07-03,United States of America,Italy,0,0,,600776
+2020,International Test Match,2020-07-03,South Africa,Scotland,0,0,DHL Newlands,600777
+2020,International Test Match,2020-07-03,Argentina,France,0,0,,600778
+2020,International Test Match,2020-07-03,Australia,Ireland,0,0,Suncorp Stadium,600779
+2020,International Test Match,2020-07-04,New Zealand,Wales,0,0,Eden Park,600780
+2020,International Test Match,2020-07-10,Japan,England,0,0,Kobe Misaki Stadium,600781
+2020,International Test Match,2020-07-10,Canada,Italy,0,0,,600782
+2020,International Test Match,2020-07-10,South Africa,Scotland,0,0,,600783
+2020,International Test Match,2020-07-10,Argentina,France,0,0,,600784
+2020,International Test Match,2020-07-10,Australia,Ireland,0,0,Sydney Cricket Ground,600785
+2020,International Test Match,2020-07-11,New Zealand,Wales,0,0,Sky Stadium,600786
+2020,International Test Match,2020-07-17,Australia,Fiji,0,0,,600787
+2020,International Test Match,2020-07-17,Argentina,Italy,0,0,,600788
+2020,International Test Match,2020-07-17,South Africa,Georgia,0,0,,600789
+2020,International Test Match,2020-07-18,New Zealand,Scotland,0,0,Forsyth Barr Stadium,600790
+2020,International Test Match,2020-10-11,New Zealand,Australia,16,16,Sky Stadium,600792
+2020,International Test Match,2020-10-18,New Zealand,Australia,27,7,Eden Park,600794
+2020,International Test Match,2020-10-23,Scotland,Georgia,48,7,Scottish Gas Murrayfield,600795
+2019-20,Six Nations,2020-10-24,Ireland,Italy,50,17,Aviva Stadium,295501
+2020,International Test Match,2020-10-24,France,Wales,38,21,Stade de France,600796
+2019-20,Six Nations,2020-10-31,Wales,Scotland,10,14,Parc y Scarlets,295504
+2019-20,Six Nations,2020-10-31,Italy,England,5,34,Stadio Olimpico,295505
+2019-20,Six Nations,2020-10-31,France,Ireland,35,27,Stade de France,295506
+2020,2020 Tri Nations,2020-10-31,Australia,New Zealand,5,43,Accor Stadium,592923
+2020,International Test Match,2020-11-01,Uruguay,Spain,20,32,Estadio Charrua,600797
+2020,International Test Match,2020-11-06,Uruguay,Spain,19,10,Estadio Charrua,600798
+2020,2020 Tri Nations,2020-11-07,Australia,New Zealand,24,22,Suncorp Stadium,592924
+2020,2020 Tri Nations,2020-11-14,New Zealand,Argentina,15,25,CommBank Stadium,592925
+2020,International Test Match,2020-11-21,Portugal,Brazil,30,10,Estadio Nacional do Jamor,600812
+2020,2020 Tri Nations,2020-11-21,Argentina,Australia,15,15,McDonald Jones Stadium,592926
+2020,International Test Match,2020-11-28,Portugal,Brazil,33,13,Estadio Nacional do Jamor,600816
+2020,2020 Tri Nations,2020-11-28,Argentina,New Zealand,0,38,McDonald Jones Stadium,592927
+2020,2020 Tri Nations,2020-12-05,Australia,Argentina,16,16,CommBank Stadium,592928
+2020-21,Six Nations,2021-02-06,Italy,France,10,50,Stadio Olimpico,593094
+2020-21,Six Nations,2021-02-06,England,Scotland,6,11,Allianz Stadium,593095
+2020-21,Six Nations,2021-02-07,Wales,Ireland,21,16,Principality Stadium,593096
+2020-21,Six Nations,2021-02-13,England,Italy,41,18,Allianz Stadium,593097
+2020-21,Six Nations,2021-02-13,Scotland,Wales,24,25,Scottish Gas Murrayfield,593098
+2020-21,Six Nations,2021-02-14,Ireland,France,13,15,Aviva Stadium,593099
+2020-21,Six Nations,2021-02-27,Italy,Ireland,10,48,Stadio Olimpico,593100
+2020-21,Six Nations,2021-02-27,Wales,England,40,24,Principality Stadium,593101
+2020-21,Six Nations,2021-03-13,Italy,Wales,7,48,Stadio Olimpico,593103
+2020-21,Six Nations,2021-03-13,England,France,23,20,Allianz Stadium,593104
+2020-21,Six Nations,2021-03-14,Scotland,Ireland,24,27,Scottish Gas Murrayfield,593105
+2020-21,Six Nations,2021-03-20,Scotland,Italy,52,10,Scottish Gas Murrayfield,593106
+2020-21,Six Nations,2021-03-20,Ireland,England,32,18,Aviva Stadium,593107
+2020-21,Six Nations,2021-03-20,France,Wales,32,30,Stade de France,593108
+2020-21,Six Nations,2021-03-26,France,Scotland,23,27,Stade de France,593102
+2021,International Test Match,2021-05-29,Belgium,Netherlands,21,23,Stade du Pachy,600819
+2021,British & Irish Lions,2021-06-26,British and Irish Lions,Japan,28,10,Scottish Gas Murrayfield,593824
+2021,International Test Match,2021-07-02,South Africa,Georgia,40,9,Loftus Versfeld,600820
+2021,British & Irish Lions,2021-07-03,Lions,British and Irish Lions,14,56,Ellis Park,593819
+2021,International Test Match,2021-07-03,New Zealand,Tonga,102,0,Go Media Stadium,600821
+2021,International Test Match,2021-07-03,Ireland,Japan,39,31,Aviva Stadium,600822
+2021,International Test Match,2021-07-03,Wales,Canada,68,12,Principality Stadium,600823
+2021,International Test Match,2021-07-03,Romania,Argentina,17,24,Stadionul National Arcul de Triumf,600824
+2021,International Test Match,2021-07-04,England,United States of America,43,29,Allianz Stadium,600825
+2021,British & Irish Lions,2021-07-07,Sharks,British and Irish Lions,7,54,Ellis Park,593820
+2021,International Test Match,2021-07-07,Australia,France,23,21,Suncorp Stadium,600826
+2021,British & Irish Lions,2021-07-10,Sharks,British and Irish Lions,31,71,Loftus Versfeld,593821
+2021,International Test Match,2021-07-10,Samoa,Tonga,42,13,Go Media Stadium,600829
+2021,International Test Match,2021-07-10,New Zealand,Fiji,57,23,Forsyth Barr Stadium,600830
+2021,International Test Match,2021-07-10,Argentina,Wales,20,20,Principality Stadium,600831
+2021,International Test Match,2021-07-10,England,Canada,70,14,Allianz Stadium,600832
+2021,International Test Match,2021-07-10,Ireland,United States of America,71,10,Aviva Stadium,600833
+2021,International Test Match,2021-07-13,Australia,France,26,28,AAMI Park,600834
+2021,British & Irish Lions,2021-07-14,Emerging Springboks,British and Irish Lions,17,13,DHL Stadium,593822
+2021,British & Irish Lions,2021-07-17,Stormers,British and Irish Lions,3,49,DHL Stadium,593823
+2021,International Test Match,2021-07-17,Tonga,Samoa,15,37,FMG Stadium Waikato,600835
+2021,International Test Match,2021-07-17,New Zealand,Fiji,60,13,FMG Stadium Waikato,600836
+2021,International Test Match,2021-07-17,Australia,France,33,30,Suncorp Stadium,600837
+2021,International Test Match,2021-07-17,Argentina,Wales,33,11,Principality Stadium,600838
+2021,British & Irish Lions,2021-07-31,South Africa,British and Irish Lions,27,9,DHL Stadium,593817
+2021,British & Irish Lions,2021-08-07,South Africa,British and Irish Lions,19,16,DHL Stadium,593818
+2021,International Test Match,2021-08-07,New Zealand,Australia,33,25,Eden Park,600840
+2021,Rugby Championship / Tri Nations,2021-08-14,New Zealand,Australia,57,22,Eden Park,594236
+2021,Rugby Championship / Tri Nations,2021-08-14,South Africa,Argentina,32,12,Nelson Mandela Bay Stadium,594231
+2021,Rugby Championship / Tri Nations,2021-08-21,Argentina,South Africa,10,29,Nelson Mandela Bay Stadium,594230
+2021,International Test Match,2021-09-04,Canada,United States of America,34,21,Swilers Rugby Club,600841
+2021,Rugby Championship / Tri Nations,2021-09-05,Australia,New Zealand,21,38,Optus Stadium,594237
+2021,Rugby Championship / Tri Nations,2021-09-12,New Zealand,Argentina,39,0,Cbus Super Stadium,594229
+2021,Rugby Championship / Tri Nations,2021-09-12,Australia,South Africa,28,26,Cbus Super Stadium,594235
+2021,International Test Match,2021-09-12,United States of America,Canada,38,16,Infinity Park,600842
+2021,Rugby Championship / Tri Nations,2021-09-18,Australia,South Africa,30,17,Suncorp Stadium,594234
+2021,Rugby Championship / Tri Nations,2021-09-18,Argentina,New Zealand,13,36,Suncorp Stadium,594228
+2021,Rugby Championship / Tri Nations,2021-09-25,New Zealand,South Africa,19,17,Queensland Country Bank Stadium,594227
+2021,Rugby Championship / Tri Nations,2021-09-25,Australia,Argentina,27,8,Queensland Country Bank Stadium,594233
+2021,Rugby Championship / Tri Nations,2021-10-02,Australia,Argentina,32,17,Cbus Super Stadium,594232
+2021,Rugby Championship / Tri Nations,2021-10-02,South Africa,New Zealand,31,29,Cbus Super Stadium,594226
+2021,International Test Match,2021-10-03,United States of America,Uruguay,19,16,Infinity Park,600843
+2021,International Test Match,2021-10-09,Uruguay,United States of America,34,15,Estadio Charrua,600844
+2021,International Test Match,2021-10-23,Japan,Australia,23,32,Showa Denko Dome Oita,600845
+2021,International Test Match,2021-10-23,United States of America,New Zealand,14,104,FedExField,600846
+2021,International Test Match,2021-10-30,Scotland,Tonga,60,14,Scottish Gas Murrayfield,600847
+2021,International Test Match,2021-10-30,Wales,New Zealand,16,54,Principality Stadium,600848
+2021,International Test Match,2021-11-06,Ireland,Japan,60,5,Aviva Stadium,600850
+2021,International Test Match,2021-11-06,Italy,New Zealand,9,47,Stadio Olimpico,600851
+2021,International Test Match,2021-11-06,Spain,Fiji,13,43,Estadio Nacional Complutense,600852
+2021,International Test Match,2021-11-06,England,Tonga,69,3,Allianz Stadium,600853
+2021,International Test Match,2021-11-06,Wales,South Africa,18,23,Principality Stadium,600854
+2021,International Test Match,2021-11-06,France,Argentina,29,20,Stade de France,600855
+2021,International Test Match,2021-11-07,Romania,Uruguay,29,14,Payanini Center,600856
+2021,International Test Match,2021-11-07,Scotland,Australia,15,13,Scottish Gas Murrayfield,600857
+2021,International Test Match,2021-11-13,Scotland,South Africa,15,30,Scottish Gas Murrayfield,600858
+2021,International Test Match,2021-11-13,Italy,Argentina,16,37,Stadio Comunale di Monigo,600859
+2021,International Test Match,2021-11-13,Ireland,New Zealand,29,20,Aviva Stadium,600860
+2021,International Test Match,2021-11-13,Portugal,Japan,25,38,Estádio Municipal Cidade de Coimbra,600861
+2021,International Test Match,2021-11-13,England,Australia,32,15,Allianz Stadium,600862
+2021,International Test Match,2021-11-14,France,Georgia,41,15,Matmut Stadium de Gerland,600863
+2021,International Test Match,2021-11-14,Wales,Fiji,38,23,Principality Stadium,600864
+2021,International Test Match,2021-11-20,Russia,Chile,29,30,Yug Stadium,600865
+2021,International Test Match,2021-11-20,Scotland,Japan,29,20,Scottish Gas Murrayfield,600866
+2021,International Test Match,2021-11-20,Italy,Uruguay,17,10,Stadio Sergio Lanfranchi,600867
+2021,International Test Match,2021-11-20,Georgia,Fiji,15,15,Estadio El Deleite,600868
+2021,International Test Match,2021-11-20,England,South Africa,27,26,Allianz Stadium,600869
+2021,International Test Match,2021-11-20,Romania,Tonga,32,20,Stadionul National Arcul de Triumf,600870
+2021,International Test Match,2021-11-20,Wales,Australia,29,28,Principality Stadium,600871
+2021,International Test Match,2021-11-20,France,New Zealand,40,25,Stade de France,600872
+2021,International Test Match,2021-11-21,Ireland,Argentina,53,7,Aviva Stadium,600873
+2021,International Test Match,2021-11-26,Russia,Chile,27,42,Yug Stadium,600874
+2021-22,Six Nations,2022-02-05,Ireland,Wales,29,7,Aviva Stadium,595080
+2021-22,Six Nations,2022-02-05,Scotland,England,20,17,Scottish Gas Murrayfield,595081
+2021-22,Six Nations,2022-02-06,France,Italy,37,10,Stade de France,595082
+2021-22,Six Nations,2022-02-12,Wales,Scotland,20,17,Principality Stadium,595083
+2021-22,Six Nations,2022-02-12,France,Ireland,30,24,Stade de France,595084
+2021-22,Six Nations,2022-02-13,Italy,England,0,33,Stadio Olimpico,595085
+2021-22,Six Nations,2022-02-26,Scotland,France,17,36,Scottish Gas Murrayfield,595086
+2021-22,Six Nations,2022-02-26,England,Wales,23,19,Allianz Stadium,595087
+2021-22,Six Nations,2022-02-27,Ireland,Italy,57,6,Aviva Stadium,595088
+2021-22,Six Nations,2022-03-11,Wales,France,9,13,Principality Stadium,595089
+2021-22,Six Nations,2022-03-12,Italy,Scotland,22,33,Stadio Olimpico,595090
+2021-22,Six Nations,2022-03-12,England,Ireland,15,32,Allianz Stadium,595091
+2021-22,Six Nations,2022-03-19,Wales,Italy,21,22,Principality Stadium,595092
+2021-22,Six Nations,2022-03-19,Ireland,Scotland,26,5,Aviva Stadium,595093
+2021-22,Six Nations,2022-03-19,France,England,25,13,Stade de France,595094
+2022,International Test Match,2022-06-18,Japan,Uruguay,34,15,Prince Chichibu Memorial Stadium,600875
+2022,International Test Match,2022-06-25,Japan,Uruguay,43,7,Mikuni World Stadium Kitakyushu,600876
+2022,International Test Match,2022-06-25,Portugal,Italy,31,38,Estádio do Restelo,600877
+2022,International Test Match,2022-07-01,Romania,Italy,13,45,Stadionul National Arcul de Triumf,600878
+2022,International Test Match,2022-07-02,Japan,France,23,42,City of Toyota Stadium,600879
+2022,International Test Match,2022-07-02,New Zealand,Ireland,42,19,Eden Park,600880
+2022,International Test Match,2022-07-02,Australia,England,30,28,Optus Stadium,600881
+2022,International Test Match,2022-07-02,South Africa,Wales,32,29,Loftus Versfeld,600882
+2022,International Test Match,2022-07-02,Argentina,Scotland,26,18,Estadio 23 de Agosto,600883
+2022,International Test Match,2022-07-09,Japan,France,15,20,MUFG Stadium,600884
+2022,International Test Match,2022-07-09,New Zealand,Ireland,12,23,Forsyth Barr Stadium,600885
+2022,International Test Match,2022-07-09,Australia,England,17,25,Suncorp Stadium,600886
+2022,International Test Match,2022-07-09,South Africa,Wales,12,13,Toyota Stadium,600887
+2022,International Test Match,2022-07-09,Argentina,Scotland,6,25,Estadio Padre Ernesto Martearena,600888
+2022,International Test Match,2022-07-09,Chile,United States of America,21,22,Estadio Santa Laura-Universidad SEK,600889
+2022,International Test Match,2022-07-10,Georgia,Italy,28,19,Adjarabet Arena,600890
+2022,International Test Match,2022-07-10,Uruguay,Romania,22,30,Estadio Charrua,600891
+2022,International Test Match,2022-07-16,New Zealand,Ireland,22,32,Sky Stadium,600892
+2022,International Test Match,2022-07-16,Australia,England,17,21,Sydney Cricket Ground,600893
+2022,International Test Match,2022-07-16,Georgia,Portugal,23,14,AIA Arena,600894
+2022,International Test Match,2022-07-16,South Africa,Wales,30,14,DHL Stadium,600895
+2022,International Test Match,2022-07-16,United States of America,Chile,29,31,Infinity Park,600896
+2022,International Test Match,2022-07-16,Argentina,Scotland,34,31,Estadio Único Madre de Ciudades,600897
+2022,International Test Match,2022-07-17,Uruguay,Romania,26,20,Estadio Charrua,600898
+2022,International Test Match,2022-07-23,Tonga,Hong Kong,44,22,Sunshine Coast Stadium,600899
+2022,Rugby Championship / Tri Nations,2022-08-06,South Africa,New Zealand,21,10,Mbombela Stadium,595482
+2022,Rugby Championship / Tri Nations,2022-08-06,Argentina,Australia,24,38,Estadio Malvinas Argentinas,595483
+2022,Rugby Championship / Tri Nations,2022-08-13,South Africa,New Zealand,23,35,Ellis Park,595484
+2022,Rugby Championship / Tri Nations,2022-08-13,Argentina,Australia,48,17,Estadio Bicentenario,595485
+2022,Rugby Championship / Tri Nations,2022-08-27,Australia,South Africa,25,17,Adelaide Oval,595486
+2022,Rugby Championship / Tri Nations,2022-08-27,New Zealand,Argentina,18,25,Apollo Projects Stadium,595487
+2022,Rugby Championship / Tri Nations,2022-09-03,New Zealand,Argentina,53,3,FMG Stadium Waikato,595488
+2022,Rugby Championship / Tri Nations,2022-09-03,Australia,South Africa,8,24,Allianz Stadium,595489
+2022,Rugby Championship / Tri Nations,2022-09-15,Australia,New Zealand,37,39,Marvel Stadium,595490
+2022,Rugby Championship / Tri Nations,2022-09-17,Argentina,South Africa,20,36,Estadio Libertadores de América,595491
+2022,Rugby Championship / Tri Nations,2022-09-24,New Zealand,Australia,40,14,Eden Park,595492
+2022,Rugby Championship / Tri Nations,2022-09-24,South Africa,Argentina,38,21,Hollywoodbets Kings Park,595493
+2022,International Test Match,2022-10-01,Denmark,Andorra,25,10,RK Speed,600900
+2022,International Test Match,2022-10-08,Serbia,Montenegro,62,0,Stadion Kralj Petar I,600901
+2022,International Test Match,2022-10-08,Hungary,Czechia,21,41,Budapest Rugby Center,600902
+2022,International Test Match,2022-10-15,Finland,Denmark,31,6,Myllypuro Sports Park,600903
+2022,International Test Match,2022-10-15,Malta,Bulgaria,14,23,Hibernians Stadium,600904
+2022,International Test Match,2022-10-22,Finland,Norway,22,3,Myllypuro Sports Park,600905
+2022,International Test Match,2022-10-22,Croatia,Ukraine,22,27,Stadion Stjepan Spajic,600906
+2022,International Test Match,2022-10-22,Slovenia,Malta,10,46,Stanezice Oval,600907
+2022,International Test Match,2022-10-29,Japan,New Zealand,31,38,MUFG Stadium,600908
+2022,International Test Match,2022-10-29,Montenegro,Bosnia-Herzegovina,18,20,Stadion Topolica,600909
+2022,International Test Match,2022-10-29,Sweden,Croatia,37,17,Stockholms Stadion,600910
+2022,International Test Match,2022-10-29,Scotland,Australia,15,16,Scottish Gas Murrayfield,600911
+2022,International Test Match,2022-11-05,Romania,Chile,30,23,Stadionul National Arcul de Triumf,600912
+2022,International Test Match,2022-11-05,Lithuania,Ukraine,39,20,Rugby Academy-Siauliai,600913
+2022,International Test Match,2022-11-05,Scotland,Fiji,28,12,Scottish Gas Murrayfield,600914
+2022,International Test Match,2022-11-05,Italy,Samoa,49,17,Stadio Plebiscito,600915
+2022,International Test Match,2022-11-05,Sweden,Switzerland,12,69,Malmo Stadion,600916
+2022,International Test Match,2022-11-05,Bulgaria,Israel,34,15,National Stadium Vasil Levski,600917
+2022,International Test Match,2022-11-05,Wales,New Zealand,23,55,Principality Stadium,600918
+2022,International Test Match,2022-11-05,Ireland,South Africa,19,16,Aviva Stadium,600919
+2022,International Test Match,2022-11-05,Spain,Tonga,6,40,Estadio Ciudad de Malaga,600920
+2022,International Test Match,2022-11-05,France,Australia,30,29,Stade de France,600921
+2022,International Test Match,2022-11-06,United States of America,Kenya,68,14,The Sevens,600922
+2022,International Test Match,2022-11-06,Georgia,Uruguay,34,18,Boris Paichadze Dinamo Arena,600923
+2022,International Test Match,2022-11-06,England,Argentina,29,30,Allianz Stadium,600924
+2022,International Test Match,2022-11-06,Portugal,Hong Kong,42,14,The Sevens,600925
+2022,International Test Match,2022-11-12,Tonga,Chile,39,10,Stadionul National Arcul de Triumf,600926
+2022,International Test Match,2022-11-12,Portugal,Kenya,85,0,The Sevens,600927
+2022,International Test Match,2022-11-12,Ireland,Fiji,35,17,Aviva Stadium,600928
+2022,International Test Match,2022-11-12,Italy,Australia,28,27,Stadio Artemio Franchi,600929
+2022,International Test Match,2022-11-12,Czechia,Moldova,39,13,Stadion Mladeze,600930
+2022,International Test Match,2022-11-12,Netherlands,Canada,25,37,National Rugby Centre Amsterdam,600931
+2022,International Test Match,2022-11-12,Georgia,Samoa,19,20,Boris Paichadze Dinamo Arena,600932
+2022,International Test Match,2022-11-12,Switzerland,Lithuania,45,6,Stade Juan-Antonio-Samaranch,600933
+2022,International Test Match,2022-11-12,United States of America,Hong Kong,49,7,The Sevens,600934
+2022,International Test Match,2022-11-12,Spain,Namibia,34,15,Estadio Nacional Complutense,600935
+2022,International Test Match,2022-11-12,England,Japan,52,13,Allianz Stadium,600936
+2022,International Test Match,2022-11-12,Wales,Argentina,20,13,Principality Stadium,600937
+2022,International Test Match,2022-11-12,France,South Africa,30,26,Orange Velodrome,600938
+2022,International Test Match,2022-11-13,Romania,Uruguay,16,21,Stadionul National Arcul de Triumf,600939
+2022,International Test Match,2022-11-13,Scotland,New Zealand,23,31,Scottish Gas Murrayfield,600940
+2022,International Test Match,2022-11-18,Hong Kong,Kenya,22,18,The Sevens,600941
+2022,International Test Match,2022-11-18,United States of America,Portugal,16,16,The Sevens,600942
+2022,International Test Match,2022-11-19,Tonga,Uruguay,43,19,Stadionul National Arcul de Triumf,600943
+2022,International Test Match,2022-11-19,Wales,Georgia,12,13,Principality Stadium,600944
+2022,International Test Match,2022-11-19,Italy,South Africa,21,63,Stadio Luigi Ferraris,600945
+2022,International Test Match,2022-11-19,Canada,Namibia,37,43,National Rugby Centre Amsterdam,600946
+2022,International Test Match,2022-11-19,Romania,Samoa,0,22,Stadionul National Arcul de Triumf,600947
+2022,International Test Match,2022-11-19,Scotland,Argentina,52,29,Scottish Gas Murrayfield,600948
+2022,International Test Match,2022-11-19,England,New Zealand,25,25,Allianz Stadium,600949
+2022,International Test Match,2022-11-19,Ireland,Australia,13,10,Aviva Stadium,600950
+2022,International Test Match,2022-11-20,France,Japan,35,17,Stadium de Toulouse,600951
+2022,International Test Match,2022-11-26,Wales,Australia,34,39,Principality Stadium,600952
+2022,International Test Match,2022-11-26,England,South Africa,13,27,Allianz Stadium,600953
+2022,International Test Match,2022-12-10,Cayman Islands,Mexico,35,14,Truman Bodden Sports Complex,600954
+2022-23,Six Nations,2023-02-04,Wales,Ireland,10,34,Principality Stadium,596205
+2022-23,Six Nations,2023-02-04,England,Scotland,23,29,Allianz Stadium,596206
+2022-23,Six Nations,2023-02-05,Italy,France,24,29,Stadio Olimpico,596207
+2022-23,Six Nations,2023-02-11,Ireland,France,32,19,Aviva Stadium,596208
+2022-23,Six Nations,2023-02-11,Scotland,Wales,35,7,Scottish Gas Murrayfield,596209
+2022-23,Six Nations,2023-02-12,England,Italy,31,14,Allianz Stadium,596210
+2022-23,Six Nations,2023-02-25,Italy,Ireland,20,34,Stadio Olimpico,596211
+2022-23,Six Nations,2023-02-25,Wales,England,10,20,Principality Stadium,596212
+2023,International Test Match,2023-02-25,Botswana,Eswatini,111,3,Gaborone Rugby Football Club,600955
+2022-23,Six Nations,2023-02-26,France,Scotland,32,21,Stade de France,596213
+2022-23,Six Nations,2023-03-11,Italy,Wales,17,29,Stadio Olimpico,596214
+2022-23,Six Nations,2023-03-11,England,France,10,53,Allianz Stadium,596215
+2023,International Test Match,2023-03-11,Ukraine,Switzerland,32,59,Stadion Lucko,600956
+2022-23,Six Nations,2023-03-12,Scotland,Ireland,7,22,Scottish Gas Murrayfield,596216
+2022-23,Six Nations,2023-03-18,Scotland,Italy,26,14,Scottish Gas Murrayfield,596217
+2022-23,Six Nations,2023-03-18,France,Wales,41,28,Stade de France,596218
+2022-23,Six Nations,2023-03-18,Ireland,England,29,16,Aviva Stadium,596219
+2023,International Test Match,2023-03-18,Ukraine,Sweden,38,15,Stadion Stari plac,600957
+2023,International Test Match,2023-03-25,Lithuania,Croatia,37,39,Rugby Academy-Siauliai,600958
+2023,International Test Match,2023-04-01,Lithuania,Sweden,15,18,Rugby Academy-Siauliai,600959
+2023,International Test Match,2023-04-01,Croatia,Switzerland,22,32,Gradski sportski centar Makarska,600960
+2023,International Test Match,2023-04-22,Israel,Slovenia,50,7,Yizreel Rugby Club,600961
+2023,International Test Match,2023-04-22,Andorra,Finland,23,31,National Stadium,600962
+2023,International Test Match,2023-04-29,Latvia,Czechia,7,43,Daugava Stadium,600963
+2023,International Test Match,2023-04-29,Bulgaria,Slovenia,39,19,National Stadium Vasil Levski,600964
+2023,International Test Match,2023-04-29,Bosnia-Herzegovina,Serbia,12,40,Kamberovica Polje,600965
+2023,International Test Match,2023-04-29,Andorra,Norway,26,6,Prada de Moles Sports Stadium,600966
+2023,International Test Match,2023-05-06,Hungary,Latvia,21,22,Budapest Rugby Center,600967
+2023,International Test Match,2023-05-13,Norway,Denmark,10,22,ISS Stadion,600968
+2023,International Test Match,2023-06-03,Korea Republic,Malaysia,27,3,Saidina Hamzah Stadium,600969
+2023,International Test Match,2023-06-03,Trinidad and Tobago,Barbados,35,27,St Mary's College Grounds,600970
+2023,International Test Match,2023-06-10,Hong Kong,Malaysia,88,9,Hong Kong Football Club Stadium,600971
+2023,International Test Match,2023-06-17,Hong Kong,Korea Republic,30,10,Hong Kong Football Club Stadium,600972
+2023,Rugby Championship / Tri Nations,2023-07-08,South Africa,Australia,43,12,Loftus Versfeld,596592
+2023,Rugby Championship / Tri Nations,2023-07-08,Argentina,New Zealand,12,41,Estadio Malvinas Argentinas,596591
+2023,Rugby Championship / Tri Nations,2023-07-15,New Zealand,South Africa,35,20,Go Media Stadium,596593
+2023,Rugby Championship / Tri Nations,2023-07-15,Australia,Argentina,31,34,CommBank Stadium,596594
+2023,International Test Match,2023-07-22,Fiji,Tonga,36,20,Churchill Park,600973
+2023,International Test Match,2023-07-22,Japan,Samoa,22,24,Daiwa House Premist Dome,600974
+2023,Rugby Championship / Tri Nations,2023-07-29,Australia,New Zealand,7,38,Melbourne Cricket Ground,596595
+2023,Rugby Championship / Tri Nations,2023-07-29,South Africa,Argentina,22,21,Ellis Park,596596
+2023,International Test Match,2023-07-29,Samoa,Fiji,19,33,Apia Park,600975
+2023,International Test Match,2023-07-29,Japan,Tonga,21,16,Hanazono Rugby Stadium,600976
+2023,International Test Match,2023-07-29,Scotland,Italy,25,13,Scottish Gas Murrayfield,600977
+2023,International Test Match,2023-07-29,Uruguay,Chile,26,25,Estadio Charrua,600978
+2023,International Test Match,2023-08-05,Samoa,Tonga,34,9,Apia Park,600979
+2023,International Test Match,2023-08-05,New Zealand,Australia,23,20,Forsyth Barr Stadium,600980
+2023,International Test Match,2023-08-05,Japan,Fiji,12,35,Prince Chichibu Memorial Stadium,600981
+2023,International Test Match,2023-08-05,Scotland,France,25,21,Scottish Gas Murrayfield,600982
+2023,International Test Match,2023-08-05,Wales,England,20,9,Principality Stadium,600983
+2023,International Test Match,2023-08-05,Romania,United States of America,17,31,Stadionul National Arcul de Triumf,600984
+2023,International Test Match,2023-08-05,Uruguay,Namibia,26,18,Estadio Charrua,600985
+2023,International Test Match,2023-08-05,Ireland,Italy,33,17,Aviva Stadium,600986
+2023,International Test Match,2023-08-05,Argentina,South Africa,13,24,Estadio José Amalfitani,600987
+2023,International Test Match,2023-08-10,Tonga,Canada,28,3,Teufaiva Stadium,600988
+2023,International Test Match,2023-08-12,Georgia,Romania,56,6,Mikheil Meskhi Stadium,600989
+2023,International Test Match,2023-08-12,England,Wales,19,17,Allianz Stadium,600990
+2023,International Test Match,2023-08-12,France,Scotland,30,27,Stade Geoffroy-Guichard,600991
+2023,International Test Match,2023-08-12,Portugal,United States of America,46,20,Estadio Do Algarve,600992
+2023,International Test Match,2023-08-12,Chile,Namibia,26,28,Estadio German Becker,600993
+2023,International Test Match,2023-08-15,Tonga,Canada,36,12,Teufaiva Stadium,600994
+2023,International Test Match,2023-08-19,Wales,South Africa,16,52,Principality Stadium,600995
+2023,International Test Match,2023-08-19,Georgia,United States of America,22,7,Mikheil Meskhi Stadium,600996
+2023,International Test Match,2023-08-19,Ireland,England,29,10,Aviva Stadium,600997
+2023,International Test Match,2023-08-19,Italy,Romania,57,7,Stadio Riviera delle Palme,600998
+2023,International Test Match,2023-08-19,France,Fiji,34,17,Stade de la Beaujoire,600999
+2023,International Test Match,2023-08-25,New Zealand,South Africa,7,35,Allianz Stadium,601000
+2023,International Test Match,2023-08-26,England,Fiji,22,30,Allianz Stadium,601001
+2023,International Test Match,2023-08-26,Scotland,Georgia,33,6,Scottish Gas Murrayfield,601002
+2023,International Test Match,2023-08-26,Italy,Japan,42,21,Stadio Comunale di Monigo,601003
+2023,International Test Match,2023-08-26,Spain,Argentina,3,62,Civitas Metropolitano,601004
+2023,International Test Match,2023-08-26,Ireland,Samoa,17,13,Stade Jean Dauger,601005
+2023,International Test Match,2023-08-27,France,Australia,41,17,Stade de France,601006
+2023,Rugby World Cup,2023-09-08,France,New Zealand,27,13,Stade de France,596154
+2023,Rugby World Cup,2023-09-09,Italy,Namibia,52,8,Stade Geoffroy-Guichard,596155
+2023,Rugby World Cup,2023-09-09,Ireland,Romania,82,8,Stade Matmut-Atlantique,596156
+2023,Rugby World Cup,2023-09-09,Australia,Georgia,35,15,Stade de France,596157
+2023,Rugby World Cup,2023-09-09,England,Argentina,27,10,Orange Velodrome,596158
+2023,Rugby World Cup,2023-09-10,Japan,Chile,42,12,Stadium de Toulouse,596159
+2023,Rugby World Cup,2023-09-10,South Africa,Scotland,18,3,Orange Velodrome,596160
+2023,Rugby World Cup,2023-09-10,Wales,Fiji,32,26,Stade Matmut-Atlantique,596161
+2023,Rugby World Cup,2023-09-14,France,Uruguay,27,12,Stade Pierre Mauroy,596162
+2023,Rugby World Cup,2023-09-15,New Zealand,Namibia,71,3,Stadium de Toulouse,596163
+2023,Rugby World Cup,2023-09-16,Samoa,Chile,43,10,Stade Matmut-Atlantique,596164
+2023,Rugby World Cup,2023-09-16,Wales,Portugal,28,8,Allianz Riviera,596165
+2023,Rugby World Cup,2023-09-16,Ireland,Tonga,59,16,Stade de la Beaujoire,596166
+2023,Rugby World Cup,2023-09-17,South Africa,Romania,76,0,Stade Matmut-Atlantique,596167
+2023,Rugby World Cup,2023-09-17,Australia,Fiji,15,22,Stade Geoffroy-Guichard,596168
+2023,Rugby World Cup,2023-09-17,England,Japan,34,12,Allianz Riviera,596169
+2023,Rugby World Cup,2023-09-20,Italy,Uruguay,38,17,Allianz Riviera,596170
+2023,Rugby World Cup,2023-09-21,France,Namibia,96,0,Orange Velodrome,596171
+2023,Rugby World Cup,2023-09-22,Argentina,Samoa,19,10,Stade Geoffroy-Guichard,596172
+2023,Rugby World Cup,2023-09-23,Georgia,Portugal,18,18,Stadium de Toulouse,596173
+2023,Rugby World Cup,2023-09-23,England,Chile,71,0,Stade Pierre Mauroy,596174
+2023,Rugby World Cup,2023-09-23,South Africa,Ireland,8,13,Stade de France,596175
+2023,Rugby World Cup,2023-09-24,Scotland,Tonga,45,17,Allianz Riviera,596176
+2023,Rugby World Cup,2023-09-24,Wales,Australia,40,6,Groupama Stadium,596177
+2023,Rugby World Cup,2023-09-27,Uruguay,Namibia,36,26,Groupama Stadium,596178
+2023,Rugby World Cup,2023-09-28,Japan,Samoa,28,22,Stadium de Toulouse,596179
+2023,Rugby World Cup,2023-09-29,New Zealand,Italy,96,17,Groupama Stadium,596180
+2023,Rugby World Cup,2023-09-30,Argentina,Chile,59,5,Stade de la Beaujoire,596181
+2023,Rugby World Cup,2023-09-30,Fiji,Georgia,17,12,Stade Matmut-Atlantique,596182
+2023,Rugby World Cup,2023-09-30,Scotland,Romania,84,0,Stade Pierre Mauroy,596183
+2023,Rugby World Cup,2023-10-01,Australia,Portugal,34,14,Stade Geoffroy-Guichard,596184
+2023,Rugby World Cup,2023-10-01,South Africa,Tonga,49,18,Orange Velodrome,596185
+2023,Rugby World Cup,2023-10-05,New Zealand,Uruguay,73,0,Groupama Stadium,596186
+2023,Rugby World Cup,2023-10-06,France,Italy,60,7,Groupama Stadium,596187
+2023,Rugby World Cup,2023-10-07,Wales,Georgia,43,19,Stade de la Beaujoire,596188
+2023,Rugby World Cup,2023-10-07,England,Samoa,18,17,Stade Pierre Mauroy,596189
+2023,Rugby World Cup,2023-10-07,Ireland,Scotland,36,14,Stade de France,596190
+2023,International Test Match,2023-10-07,Moldova,Serbia,31,11,Dinamo Stadium,601010
+2023,International Test Match,2023-10-07,Finland,Denmark,14,10,Myllypuro Sports Park,601011
+2023,Rugby World Cup,2023-10-08,Japan,Argentina,27,39,Stade de la Beaujoire,596191
+2023,Rugby World Cup,2023-10-08,Tonga,Romania,45,24,Stade Pierre Mauroy,596192
+2023,Rugby World Cup,2023-10-08,Fiji,Portugal,23,24,Stadium de Toulouse,596193
+2023,Rugby World Cup,2023-10-14,Wales,Argentina,17,29,Orange Velodrome,596194
+2023,Rugby World Cup,2023-10-14,Ireland,New Zealand,24,28,Stade de France,596195
+2023,International Test Match,2023-10-14,Bosnia-Herzegovina,Luxembourg,10,59,Kamberovica Polje,601012
+2023,International Test Match,2023-10-14,Hungary,Slovenia,17,29,Budapest Rugby Center,601013
+2023,Rugby World Cup,2023-10-15,England,Fiji,30,24,Orange Velodrome,596196
+2023,Rugby World Cup,2023-10-15,France,South Africa,28,29,Stade de France,596197
+2023,Rugby World Cup,2023-10-20,Argentina,New Zealand,6,44,Stade de France,596198
+2023,Rugby World Cup,2023-10-21,England,South Africa,15,16,Stade de France,596199
+2023,International Test Match,2023-10-21,Finland,Latvia,17,46,Myllypuro Sports Park,601014
+2023,International Test Match,2023-10-21,Slovenia,Bosnia-Herzegovina,22,17,Rugby Stadion OVAL,601015
+2023,Rugby World Cup,2023-10-27,Argentina,England,23,26,Stade de France,596200
+2023,Rugby World Cup,2023-10-28,New Zealand,South Africa,11,12,Stade de France,596201
+2023,International Test Match,2023-10-28,Bulgaria,Turkey,40,24,National Stadium Vasil Levski,601016
+2023,International Test Match,2023-10-28,Sweden,Czechia,48,37,Stockholms Stadion,601017
+2023,International Test Match,2023-10-28,Uganda,Zambia,30,8,Kings Park Arena,601018
+2023,International Test Match,2023-11-01,Kenya,Zambia,42,12,Kyadondo Rugby Club,601019
+2023,International Test Match,2023-11-04,Czechia,Croatia,48,22,Marketa Stadium,601020
+2023,International Test Match,2023-11-04,Ukraine,Lithuania,14,32,Gradski sportski centar Makarska,601021
+2023,International Test Match,2023-11-04,Malta,Cyprus,22,17,Hibernians Stadium,601022
+2023,International Test Match,2023-11-04,Switzerland,Sweden,23,12,Stade Municipal,601023
+2023,International Test Match,2023-11-04,Andorra,Latvia,28,0,National Stadium,601024
+2023,International Test Match,2023-11-04,Luxembourg,Austria,27,14,Stade de Luxembourg,601025
+2023,International Test Match,2023-11-05,Uganda,Kenya,21,20,Kings Park Arena,601026
+2023,International Test Match,2023-11-11,Latvia,Norway,53,8,Zemgales Olimpiskā Centra Stadionā,601027
+2023,International Test Match,2023-11-11,Lithuania,Switzerland,17,31,Klaipedos Centrinis Stadionas,601028
+2023,International Test Match,2023-11-11,Kenya,Uganda,20,13,Jomo Kenyatta International Stadium,601029
+2023,International Test Match,2023-11-11,Ukraine,Croatia,5,41,Gradski sportski centar Makarska,601030
+2023,International Test Match,2023-11-11,United States of America,Brazil,48,3,Estadio El Pantano,601031
+2023,International Test Match,2023-11-11,Spain,Canada,42,20,Estadio El Pantano,601032
+2023,International Test Match,2023-11-14,Hong Kong,Germany,29,16,Hong Kong Stadium,601033
+2023,International Test Match,2023-11-18,Hong Kong,Germany,46,10,Aberdeen Sports Ground,601034
+2023,International Test Match,2023-11-18,Croatia,Sweden,20,22,Gradski sportski centar Makarska,601035
+2023,International Test Match,2023-11-18,Brazil,Canada,15,40,Estadio El Pantano,601036
+2023,International Test Match,2023-11-18,Spain,United States of America,12,42,Estadio El Pantano,601037
+2023,International Test Match,2023-11-22,Tunisia,Uganda,14,20,El Menzah Stadium,601038
+2023,International Test Match,2023-11-25,Czechia,Lithuania,34,24,Marketa Stadium,601039
+2023,International Test Match,2023-11-27,Tunisia,Uganda,53,13,El Menzah Stadium,601040
+2023-24,Six Nations,2024-02-02,France,Ireland,17,38,Orange Velodrome,597377
+2023-24,Six Nations,2024-02-03,Italy,England,24,27,Stadio Olimpico,597378
+2023-24,Six Nations,2024-02-03,Wales,Scotland,26,27,Principality Stadium,597379
+2024,International Test Match,2024-02-03,Algeria,Senegal,26,12,Stade Claude Luboz,601041
+2023-24,Six Nations,2024-02-10,Scotland,France,16,20,Scottish Gas Murrayfield,597380
+2023-24,Six Nations,2024-02-10,England,Wales,16,14,Allianz Stadium,597381
+2023-24,Six Nations,2024-02-11,Ireland,Italy,36,0,Aviva Stadium,597382
+2023-24,Six Nations,2024-02-24,Ireland,Wales,31,7,Aviva Stadium,597383
+2023-24,Six Nations,2024-02-24,Scotland,England,30,21,Scottish Gas Murrayfield,597384
+2023-24,Six Nations,2024-02-25,France,Italy,13,13,Stade Pierre Mauroy,597385
+2023-24,Six Nations,2024-03-09,Italy,Scotland,31,29,Stadio Olimpico,597386
+2023-24,Six Nations,2024-03-09,England,Ireland,23,22,Allianz Stadium,597387
+2024,International Test Match,2024-03-09,Czechia,Switzerland,25,41,Marketa Stadium,601042
+2023-24,Six Nations,2024-03-10,Wales,France,24,45,Principality Stadium,597388
+2023-24,Six Nations,2024-03-16,Wales,Italy,21,24,Principality Stadium,597389
+2023-24,Six Nations,2024-03-16,Ireland,Scotland,17,13,Aviva Stadium,597390
+2023-24,Six Nations,2024-03-16,France,England,33,31,Groupama Stadium,597391
+2024,International Test Match,2024-03-16,Croatia,Lithuania,37,22,Stadion Stjepan Spajic,601043
+2024,International Test Match,2024-03-23,Ukraine,Czechia,18,48,Rugby Club Havirov,601044
+2024,International Test Match,2024-03-23,Lithuania,Sweden,8,27,Rugby Academy-Siauliai,601045
+2024,International Test Match,2024-03-23,Switzerland,Croatia,35,10,Stade Municipal,601046
+2024,International Test Match,2024-04-06,Sweden,Ukraine,36,24,Östervångsstadion,601047
+2024,International Test Match,2024-04-06,Austria,Bosnia-Herzegovina,57,17,Sportanlage Stadlau,601048
+2024,International Test Match,2024-04-06,Hungary,Luxembourg,15,18,Budapest Rugby Center,601049
+2024,International Test Match,2024-04-13,Andorra,Finland,0,28,,601050
+2024,International Test Match,2024-04-13,Denmark,Norway,41,5,RK Speed,601051
+2024,International Test Match,2024-04-13,Slovenia,Austria,14,31,Rugby Stadion OVAL,601052
+2024,International Test Match,2024-04-13,Serbia,Turkey,22,31,Ragbi Klub Borac,601053
+2024,International Test Match,2024-04-13,Switzerland,Ukraine,68,0,Sportanlage Utogrund,601054
+2024,International Test Match,2024-04-20,Latvia,Denmark,29,25,Zemgales Olimpiskā Centra Stadionā,601055
+2024,International Test Match,2024-04-20,Bosnia-Herzegovina,Hungary,13,48,Kamberovica Polje,601056
+2024,International Test Match,2024-04-20,Bulgaria,Serbia,30,7,National Stadium Vasil Levski,601057
+2024,International Test Match,2024-04-20,Luxembourg,Slovenia,84,7,Stade de Luxembourg,601058
+2024,International Test Match,2024-04-27,Trinidad and Tobago,Guyana,23,24,Queen's Park Savannah,601059
+2024,International Test Match,2024-05-04,Qatar,India,34,25,Race Course Ground,601062
+2024,International Test Match,2024-05-04,Cyprus,Malta,14,24,Tsirio Stadium,601063
+2024,International Test Match,2024-05-04,Norway,Andorra,8,32,Lystlunden Stadion,601064
+2024,International Test Match,2024-05-04,Moldova,Bulgaria,48,6,Dinamo Stadium,601065
+2024,International Test Match,2024-05-04,Cambridge,Sri Lanka,7,45,Race Course Ground,601066
+2024,International Test Match,2024-05-04,Bermuda,Cayman Islands,12,44,National Sports Centre,601067
+2024,International Test Match,2024-05-11,Malaysia,Singapore,46,7,Johor Rugby Stadium,601068
+2024,International Test Match,2024-05-11,Norway,Finland,7,57,Lystlunden Stadion,601069
+2024,International Test Match,2024-05-18,Barbados,St. Vincent and the Grenadines,80,0,Garrison Savannah,601070
+2024,International Test Match,2024-05-18,Jamaica,Bermuda,19,14,Ewarton Sports Complex,601071
+2024,International Test Match,2024-05-25,Luxembourg,Moldova,19,0,Josy Barthel Stadium,601072
+2024,International Test Match,2024-06-01,Hong Kong,United Arab Emirates,52,5,Hong Kong Football Club Stadium,601074
+2024,International Test Match,2024-06-01,Bermuda,Bahamas,35,5,National Sports Centre,601075
+2024,International Test Match,2024-06-02,Korea Republic,Malaysia,55,5,Incheon Namdong Asiad Rugby Field,601076
+2024,International Test Match,2024-06-08,Malaysia,Hong Kong,6,70,Pusat Sukan UPM,601077
+2024,International Test Match,2024-06-08,Saint Lucia,Barbados,7,93,Philip Marcellin Grounds,601078
+2024,International Test Match,2024-06-09,United Arab Emirates,Korea Republic,36,32,The Sevens,601079
+2024,International Test Match,2024-06-21,United Arab Emirates,Malaysia,62,19,The Sevens,601080
+2024,International Test Match,2024-06-22,Japan,England,17,52,MUFG Stadium,601085
+2024,International Test Match,2024-06-22,Hong Kong,Korea Republic,67,7,Hong Kong Football Club Stadium,601081
+2024,International Test Match,2024-06-22,South Africa,Wales,41,13,Allianz Stadium,601086
+2024,International Test Match,2024-06-22,Guyana,Trinidad and Tobago,3,26,Guyana Defence Force Ground Camp,601082
+2024,International Test Match,2024-06-29,Singapore,Thailand,30,8,Jurong West Stadium,601087
+2024,International Test Match,2024-06-29,Bahamas,Jamaica,14,48,Freeport RFC,601083
+2024,International Test Match,2024-07-02,Chinese Taipei,Thailand,12,18,Jurong West Stadium,601088
+2024,International Test Match,2024-07-05,Samoa,Italy,33,25,Apia Park,601089
+2024,International Test Match,2024-07-05,Singapore,Chinese Taipei,16,19,Jurong West Stadium,601090
+2024,International Test Match,2024-07-05,Georgia,Fiji,12,21,Adjarabet Arena,601091
+2024,International Test Match,2024-07-06,United States of America,Romania,20,22,SeatGeek Stadium,601092
+2024,International Test Match,2024-07-06,New Zealand,England,16,15,Forsyth Barr Stadium,601093
+2024,International Test Match,2024-07-06,Australia,Wales,25,16,Allianz Stadium,601094
+2024,International Test Match,2024-07-06,South Africa,Ireland,27,20,Loftus Versfeld,601095
+2024,International Test Match,2024-07-06,Argentina,France,13,28,Estadio Malvinas Argentinas,601096
+2024,International Test Match,2024-07-06,Chile,Hong Kong,22,17,Estadio Fiscal de Talca,601097
+2024,International Test Match,2024-07-06,Canada,Scotland,12,73,TD Place,601098
+2024,International Test Match,2024-07-10,Uruguay,France,28,43,Estadio Charrua,601099
+2024,International Test Match,2024-07-12,Tonga,Italy,14,36,Teufaiva Stadium,601100
+2024,International Test Match,2024-07-12,United States of America,Scotland,7,42,Audi Field,601101
+2024,International Test Match,2024-07-12,Canada,Romania,35,22,TD Place,601102
+2024,International Test Match,2024-07-13,Samoa,Spain,34,30,Apia Park,601103
+2024,International Test Match,2024-07-13,New Zealand,England,24,17,Eden Park,601104
+2024,International Test Match,2024-07-13,Australia,Wales,36,28,AAMI Park,601105
+2024,International Test Match,2024-07-13,Japan,Georgia,23,25,Yurtec Stadium,601106
+2024,International Test Match,2024-07-13,Namibia,Portugal,22,37,Hage Geingob Stadium,601107
+2024,International Test Match,2024-07-13,South Africa,Ireland,24,25,Hollywoodbets Kings Park,601108
+2024,International Test Match,2024-07-13,Argentina,France,33,25,Estadio José Amalfitani,601109
+2024,International Test Match,2024-07-13,Chile,Belgium,33,5,Estadio Sausalito,601110
+2024,International Test Match,2024-07-14,Paraguay,Hong Kong,12,80,Estadio Héroes de Curupayty,601111
+2024,International Test Match,2024-07-19,Tonga,Spain,20,29,Teufaiva Stadium,601112
+2024,International Test Match,2024-07-20,New Zealand,Fiji,47,5,Snapdragon Stadium ,601113
+2024,International Test Match,2024-07-20,Australia,Georgia,40,29,Allianz Stadium,601114
+2024,International Test Match,2024-07-20,Namibia,Burkina Faso,38,5,Mandela National Stadium,601115
+2024,International Test Match,2024-07-20,Kenya,Senegal,36,17,Mandela National Stadium,601116
+2024,International Test Match,2024-07-20,Algeria,Cote d'Ivoire,32,12,Mandela National Stadium,601117
+2024,International Test Match,2024-07-20,Zimbabwe,Uganda,22,20,Mandela National Stadium,601118
+2024,International Test Match,2024-07-20,South Africa,Portugal,64,21,Toyota Stadium,601119
+2024,International Test Match,2024-07-20,Brazil,Hong Kong,25,26,Estádio Nicolau Alayon,601120
+2024,International Test Match,2024-07-20,Chile,Scotland,11,52,Estadio Nacional Julio Martínez Prádanos,601121
+2024,International Test Match,2024-07-20,Uruguay,Argentina,5,79,Estadio Domingo Burgueno,601122
+2024,International Test Match,2024-07-20,Paraguay,Belgium,20,45,Estadio Héroes de Curupayty,601123
+2024,International Test Match,2024-07-21,Japan,Italy,14,42,Daiwa House Premist Dome,601124
+2024,International Test Match,2024-07-24,Senegal,Cote d'Ivoire,25,8,Mutesa II Stadium,601125
+2024,International Test Match,2024-07-24,Uganda,Burkina Faso,25,15,Mutesa II Stadium,601126
+2024,International Test Match,2024-07-24,Kenya,Algeria,12,20,Mutesa II Stadium,601127
+2024,International Test Match,2024-07-24,Zimbabwe,Namibia,32,10,Mutesa II Stadium,601128
+2024,International Test Match,2024-07-27,Brazil,Belgium,47,25,Estádio Nicolau Alayon,601129
+2024,International Test Match,2024-07-27,Uruguay,Scotland,19,31,Estadio Charrua,601130
+2024,International Test Match,2024-07-28,Cote d'Ivoire,Burkina Faso,23,10,Mandela National Stadium,601131
+2024,International Test Match,2024-07-28,Uganda,Senegal,34,31,Mandela National Stadium,601132
+2024,International Test Match,2024-07-28,Kenya,Namibia,27,38,Mandela National Stadium,601133
+2024,International Test Match,2024-07-28,Algeria,Zimbabwe,3,29,Mandela National Stadium,601134
+2024,International Test Match,2024-07-28,Costa Rica,Peru,27,26,Estadio Nacional de Costa Rica,601135
+2024,Rugby Championship / Tri Nations,2024-08-10,Australia,South Africa,7,33,Suncorp Stadium,600015
+2024,Rugby Championship / Tri Nations,2024-08-10,New Zealand,Argentina,30,38,Sky Stadium,600016
+2024,Rugby Championship / Tri Nations,2024-08-17,New Zealand,Argentina,42,10,Eden Park,600017
+2024,Rugby Championship / Tri Nations,2024-08-17,Australia,South Africa,12,30,Optus Stadium,600018
+2024,International Test Match,2024-08-18,Brazil,Paraguay,77,17,Estádio Nicolau Alayon,601136
+2024,Rugby Championship / Tri Nations,2024-09-07,South Africa,New Zealand,18,12,DHL Stadium,600021
+2024,Rugby Championship / Tri Nations,2024-09-07,Argentina,Australia,67,27,Estadio Brigadier General Estanislao López,600022
+2024,Rugby Championship / Tri Nations,2024-09-21,Australia,New Zealand,28,31,Accor Stadium,600023
+2024,Rugby Championship / Tri Nations,2024-09-21,Argentina,South Africa,29,28,Estadio Único Madre de Ciudades,600024
+2024,International Test Match,2024-09-21,Hungary,Austria,12,39,Széktói Stadion,601137
+2024,International Test Match,2024-09-25,Peru,Venezuela,15,27,Estadio Cincuentenario,601138
+2024,International Test Match,2024-09-25,Colombia,Costa Rica,136,0,Estadio Cincuentenario,601139
+2024,Rugby Championship / Tri Nations,2024-09-28,New Zealand,Australia,33,13,Sky Stadium,600025
+2024,Rugby Championship / Tri Nations,2024-09-28,South Africa,Argentina,48,7,Mbombela Stadium,600026
+2024,International Test Match,2024-09-28,Moldova,Turkey,43,13,Dinamo Stadium,601140
+2024,International Test Match,2024-09-28,Chile,Paraguay,64,0,Estadio Municipal de La Pintana,601141
+2024,International Test Match,2024-09-29,Kosovo,Montenegro,10,55,Demush Mavraj Stadium,601142
+2024,International Test Match,2024-09-29,Peru,Costa Rica,44,0,Estadio Cincuentenario,601143
+2024,International Test Match,2024-09-29,Venezuela,Colombia,5,50,Estadio Cincuentenario,601144
+2024,International Test Match,2024-10-05,Bosnia-Herzegovina,Montenegro,30,20,Kamberovica Polje,601145
+2024,International Test Match,2024-10-05,Turkey,Bulgaria,49,10,Kızılcahamam District Stadium,601146
+2024,International Test Match,2024-10-05,Serbia,Moldova,3,31,Železnik Stadium,601147
+2024,International Test Match,2024-10-05,Malta,Cyprus,43,21,Hibernians Stadium,601148
+2024,International Test Match,2024-10-05,Denmark,Finland,42,0,Erritsø GIF Rugby,601149
+2024,International Test Match,2024-10-06,Chile,Brazil,36,10,Estadio Municipal de La Pintana,601150
+2024,International Test Match,2024-10-12,Estonia,Denmark,0,105,Estonian National Cricket and Rugby Field,601151
+2024,International Test Match,2024-10-12,Slovenia,Kosovo,74,10,Rugby Stadion OVAL,601152
+2024,International Test Match,2024-10-16,Paraguay,Colombia,49,18,Estadio Héroes de Curupayty,601153
+2024,International Test Match,2024-10-19,Finland,Norway,81,10,Hakunila Sports Park,601154
+2024,International Test Match,2024-10-26,Japan,New Zealand,19,64,International Stadium Yokohama,601155
+2024,International Test Match,2024-10-26,Lithuania,Luxembourg,47,20,Rugby Academy-Siauliai,601156
+2024,International Test Match,2024-10-26,Sweden,Czechia,22,16,Trelleborg Rugby Stadium,601157
+2024,International Test Match,2024-10-26,Norway,Latvia,19,36,Leikvang Stadion,601158
+2024,International Test Match,2024-10-26,Slovakia,Hungary,16,51,Štadión PFK Piešťany,601159
+2024,International Test Match,2024-11-02,Lithuania,Sweden,19,46,Aukštaitija Stadium,601160
+2024,International Test Match,2024-11-02,Latvia,Estonia,62,0,Baldones Stadions,601161
+2024,International Test Match,2024-11-02,England,New Zealand,22,24,Allianz Stadium,601162
+2024,International Test Match,2024-11-02,Scotland,Fiji,57,17,Scottish Gas Murrayfield,601163
+2024,International Test Match,2024-11-02,Belgium,Switzerland,48,7,Stade Charles Tondreau,601164
+2024,International Test Match,2024-11-05,United Arab Emirates,Zimbabwe,22,62,The Sevens,601165
+2024,International Test Match,2024-11-08,Ireland,New Zealand,13,23,Aviva Stadium,601166
+2024,International Test Match,2024-11-09,Hong Kong,Brazil,10,23,Hong Kong Football Club Stadium,601168
+2024,International Test Match,2024-11-09,Canada,Chile,14,44,Stadionul National Arcul de Triumf,601169
+2024,International Test Match,2024-11-09,Spain,Uruguay,33,24,Estadio Nacional Complutense,601170
+2024,International Test Match,2024-11-09,Kenya,Uganda,27,25,RFUEA Ground,601167
+2024,International Test Match,2024-11-09,Czechia,Croatia,49,26,Marketa Stadium,601171
+2024,International Test Match,2024-11-09,Ukraine,Slovakia,135,13,Štadión PFK Piešťany,601172
+2024,International Test Match,2024-11-09,England,Australia,37,42,Allianz Stadium,601174
+2024,International Test Match,2024-11-09,Romania,Tonga,25,15,Stadionul National Arcul de Triumf,601175
+2024,International Test Match,2024-11-09,Portugal,United States of America,17,21,Estádio Municipal Cidade de Coimbra,601176
+2024,International Test Match,2024-11-09,Italy,Argentina,18,50,Bluenergy Stadium,601177
+2024,International Test Match,2024-11-09,France,Japan,52,12,Stade de France,601178
+2024,International Test Match,2024-11-10,Wales,Fiji,19,24,Principality Stadium,601179
+2024,International Test Match,2024-11-10,Scotland,South Africa,15,32,Scottish Gas Murrayfield,601180
+2024,International Test Match,2024-11-15,Ireland,Argentina,22,19,Aviva Stadium,601181
+2024,International Test Match,2024-11-16,Korea Republic,Zimbabwe,22,27,Incheon Namdong Asiad Rugby Field,601183
+2024,International Test Match,2024-11-16,Hong Kong,Brazil,38,17,Kai Tak Youth Sports Ground,601184
+2024,International Test Match,2024-11-16,United Arab Emirates,Germany,20,26,The Sevens,601185
+2024,International Test Match,2024-11-16,Uganda,Kenya,5,21,Kings Park Arena,601182
+2024,International Test Match,2024-11-16,Croatia,Sweden,31,42,Stadion Stjepan Spajic,601186
+2024,International Test Match,2024-11-16,Netherlands,Chile,20,17,National Rugby Centre Amsterdam,601187
+2024,International Test Match,2024-11-16,Japan,Uruguay,36,20,Chambéry Savoie Stadium,601188
+2024,International Test Match,2024-11-16,Spain,Fiji,19,33,Estadio Jose Zorrilla,601189
+2024,International Test Match,2024-11-16,Poland,Lithuania,40,13,National Rugby Stadium Gdynia,601190
+2024,International Test Match,2024-11-16,Scotland,Portugal,59,21,Scottish Gas Murrayfield,601191
+2024,International Test Match,2024-11-16,Romania,Canada,35,27,Stadionul National Arcul de Triumf,601192
+2024,International Test Match,2024-11-16,United States of America,Tonga,36,17,Chambéry Savoie Stadium,601193
+2024,International Test Match,2024-11-16,England,South Africa,20,29,Allianz Stadium,601194
+2024,International Test Match,2024-11-16,France,New Zealand,30,29,Stade de France,601195
+2024,International Test Match,2024-11-17,Italy,Georgia,20,17,Stadio Luigi Ferraris,601196
+2024,International Test Match,2024-11-17,Wales,Australia,20,52,Principality Stadium,601197
+2024,International Test Match,2024-11-22,France,Argentina,37,23,Stade de France,601198
+2024,International Test Match,2024-11-23,Spain,United States of America,23,26,Estadio Nacional Complutense,601199
+2024,International Test Match,2024-11-23,Croatia,Lithuania,32,23,Stadion Stjepan Spajic,601200
+2024,International Test Match,2024-11-23,Ireland,Fiji,52,17,Aviva Stadium,601201
+2024,International Test Match,2024-11-23,Romania,Uruguay,21,23,Stadionul National Arcul de Triumf,601202
+2024,International Test Match,2024-11-23,Wales,South Africa,12,45,Principality Stadium,601203
+2024,International Test Match,2024-11-23,Czechia,Poland,15,22,Marketa Stadium,601204
+2024,International Test Match,2024-11-23,Italy,New Zealand,11,29,Allianz Stadium,601205
+2024,International Test Match,2024-11-24,Scotland,Australia,27,13,Scottish Gas Murrayfield,601206
+2024,International Test Match,2024-11-24,Georgia,Tonga,22,7,Mikheil Meskhi Stadium,601207
+2024,International Test Match,2024-11-24,England,Japan,59,14,Allianz Stadium,601208
+2024,International Test Match,2024-12-07,Mexico,Cayman Islands,45,14,Deportivo Harp Helu,601212
+2024-25,Six Nations,2025-01-31,France,Wales,43,0,Stade de France,600250
+2024-25,Six Nations,2025-02-01,Scotland,Italy,31,19,Scottish Gas Murrayfield,600251
+2024-25,Six Nations,2025-02-01,Ireland,England,27,22,Aviva Stadium,600252
+2025,International Test Match,2025-02-01,Israel,Andorra,28,31,National Stadium,601213
+2024-25,Six Nations,2025-02-08,Italy,Wales,22,15,Stadio Olimpico,600253
+2024-25,Six Nations,2025-02-08,England,France,26,25,Allianz Stadium,600254
+2024-25,Six Nations,2025-02-09,Scotland,Ireland,18,32,Scottish Gas Murrayfield,600255
+2024-25,Six Nations,2025-02-22,Wales,Ireland,18,27,Principality Stadium,600256
+2024-25,Six Nations,2025-02-22,England,Scotland,16,15,Allianz Stadium,600257
+2025,International Test Match,2025-02-22,Poland,Croatia,58,27,National Rugby Stadium Gdynia,601214
+2024-25,Six Nations,2025-02-23,Italy,France,24,73,Stadio Olimpico,600258
+2024-25,Six Nations,2025-03-08,Ireland,France,27,42,Aviva Stadium,600259
+2024-25,Six Nations,2025-03-08,Scotland,Wales,35,29,Scottish Gas Murrayfield,600260
+2025,International Test Match,2025-03-08,Czechia,Luxembourg,40,16,Marketa Stadium,601215
+2024-25,Six Nations,2025-03-09,England,Italy,47,24,Allianz Stadium,600261
+2024-25,Six Nations,2025-03-15,Italy,Ireland,17,22,Stadio Olimpico,600262
+2024-25,Six Nations,2025-03-15,Wales,England,14,68,Principality Stadium,600263
+2024-25,Six Nations,2025-03-15,France,Scotland,35,16,Stade de France,600264
+2025,International Test Match,2025-03-29,Lithuania,Czechia,3,44,Rugby Academy-Siauliai,601216
+2025,International Test Match,2025-03-29,Luxembourg,Sweden,18,57,Stade de Luxembourg,601217
+2025,International Test Match,2025-04-05,Cyprus,Andorra,19,28,Tsirio Stadium,601220
+2025,International Test Match,2025-04-05,Bosnia-Herzegovina,Kosovo,77,10,Kamberovica Polje,601218
+2025,International Test Match,2025-04-05,Malta,Israel,15,16,Hibernians Stadium,601219
+2025,International Test Match,2025-04-05,Luxembourg,Poland,10,33,Stade de Luxembourg,601221
+2025,International Test Match,2025-04-12,Turkey,Serbia,12,28,Atatürk Olympic Stadium,601224
+2025,International Test Match,2025-04-12,Sweden,Poland,25,29,Trelleborg Rugby Stadium,601222
+2025,International Test Match,2025-04-12,Hungary,Ukraine,10,86,Budapest Rugby Center,601223
+2025,International Test Match,2025-04-18,Bulgaria,Moldova,18,17,National Stadium Vasil Levski,601227
+2025,International Test Match,2025-04-19,Montenegro,Slovenia,22,39,Pomocni Stadion Sutjeske,601225
+2025,International Test Match,2025-04-19,Malaysia,Sri Lanka,19,59,Race Course Ground,602209
+2025,International Test Match,2025-04-19,Denmark,Latvia,13,10,Erritsø GIF Rugby,601226
+2025,International Test Match,2025-04-26,Slovenia,Bosnia-Herzegovina,34,21,Rugby Stadion OVAL,601228
+2025,International Test Match,2025-04-26,Latvia,Finland,19,20,Baldones Stadions,601232
+2025,International Test Match,2025-04-26,Guyana,Cayman Islands,17,48,National Park Rugby Pitch,602432
+2025,International Test Match,2025-05-03,Estonia,Norway,10,58,Estonian National Cricket and Rugby Field,601231
+2025,International Test Match,2025-05-03,Austria,Slovakia,117,3,Sepp-Doll-Stadion,601233
+2025,International Test Match,2025-05-03,Mexico,Jamaica,37,24,Estadio de prácticas Roberto Tapatío Méndez,602489
+2025,International Test Match,2025-05-10,Estonia,Finland,5,120,Estonian National Cricket and Rugby Field,601234
+2025,International Test Match,2025-05-10,Serbia,Bulgaria,44,28,Stadion Vizelj Park,601235
+2025,International Test Match,2025-05-10,Norway,Denmark,6,32,Voldsløkka Rugbybane,601236
+2025,International Test Match,2025-05-17,Barbados,Guyana,45,5,Garrison Savannah,602434
+2025,International Test Match,2025-05-24,Denmark,Moldova,41,6,CSR - Nanok Rugby Klub,602501
+2025,International Test Match,2025-06-14,Cayman Islands,Bermuda,18,10,Truman Bodden Sports Complex,602435
+2025,International Test Match,2025-06-21,Mexico,Trinidad and Tobago,45,14,Estadio de prácticas Roberto Tapatío Méndez,602517
+2025,International Test Match,2025-06-27,Namibia,Italy,6,73,Hage Geingob Stadium,602492
+2025,International Test Match,2025-07-05,Japan,Wales,24,19,Mikuni World Stadium Kitakyushu,602436
+2025,International Test Match,2025-07-05,New Zealand,France,31,27,Forsyth Barr Stadium,602437
+2025,International Test Match,2025-07-05,South Africa,Italy,42,24,Loftus Versfeld,602438
+2025,International Test Match,2025-07-05,Georgia,Ireland,5,34,Mikheil Meskhi Stadium,602439
+2025,International Test Match,2025-07-05,Chile,Romania,40,16,Estadio Nacional Julio Martínez Prádanos,602491
+2025,International Test Match,2025-07-05,Argentina,England,12,35,Estadio Jorge Luis Hirschi,602440
+2025,International Test Match,2025-07-05,United States of America,Belgium,36,17,American Legion Memorial Stadium,602441
+2025,International Test Match,2025-07-06,Australia,Fiji,21,18,McDonald Jones Stadium,602442
+2025,International Test Match,2025-07-12,Fiji,Scotland,29,14,HFC Bank Stadium,602445
+2025,International Test Match,2025-07-12,Japan,Wales,22,31,Kobe Misaki Stadium,602446
+2025,International Test Match,2025-07-12,New Zealand,France,43,17,Sky Stadium,602447
+2025,International Test Match,2025-07-12,South Africa,Italy,45,0,Nelson Mandela Bay Stadium,602448
+2025,International Test Match,2025-07-12,Uruguay,Romania,70,8,Estadio Charrua,602444
+2025,International Test Match,2025-07-12,Portugal,Ireland,7,106,Estadio Nacional do Jamor,602449
+2025,International Test Match,2025-07-12,Argentina,England,17,22,Estadio Bicentenario,602450
+2025,International Test Match,2025-07-12,Canada,Belgium,18,25,Clarke Stadium,602451
+2025,International Test Match,2025-07-12,United States of America,Spain,20,31,American Legion Memorial Stadium,602452
+2025,International Test Match,2025-07-18,Samoa,Scotland,12,41,Eden Park,602453
+2025,International Test Match,2025-07-19,Canada,Spain,23,24,Clarke Stadium,602455
+2025,International Test Match,2025-07-19,New Zealand,France,29,19,FMG Stadium Waikato,602456
+2025,International Test Match,2025-07-19,South Africa,Georgia,55,10,Mbombela Stadium,602457
+2025,International Test Match,2025-07-19,Brazil,Chile,21,35,Estádio Nicolau Alayon,602454
+2025,International Test Match,2025-07-19,Argentina,Uruguay,52,17,Estadio Padre Ernesto Martearena,602459
+2025,International Test Match,2025-07-19,United States of America,England,5,40,Audi Field,602458
+2025,International Test Match,2025-07-26,Chile,Brazil,35,20,CARR Parque Mahuida,602460
+2025,International Test Match,2025-07-26,Paraguay,Uruguay,0,38,Estadio Héroes de Curupayty,602461
+2025,Rugby Championship / Tri Nations,2025-08-16,South Africa,Australia,22,38,Ellis Park,603118
+2025,Rugby Championship / Tri Nations,2025-08-16,Argentina,New Zealand,24,41,Estadio Mario Alberto Kempes,603119
+2025,Rugby Championship / Tri Nations,2025-08-23,South Africa,Australia,30,22,DHL Stadium,603120
+2025,Rugby Championship / Tri Nations,2025-08-23,Argentina,New Zealand,29,23,Estadio José Amalfitani,603121
+2025,International Test Match,2025-08-23,Uruguay,Paraguay,78,10,Estadio Charrua,602462
+2025,International Test Match,2025-08-30,Chile,Uruguay,16,28,Estadio Municipal de La Pintana,602463
+2025,Rugby Championship / Tri Nations,2025-09-06,Australia,Argentina,28,24,Queensland Country Bank Stadium,603122
+2025,Rugby Championship / Tri Nations,2025-09-06,New Zealand,South Africa,24,17,Eden Park,603123
+2025,International Test Match,2025-09-06,Uruguay,Chile,18,21,Estadio Charrua,602464
+2025,Rugby Championship / Tri Nations,2025-09-13,Australia,Argentina,26,28,Allianz Stadium,603124
+2025,Rugby Championship / Tri Nations,2025-09-13,New Zealand,South Africa,10,43,Sky Stadium,603125
+2025,International Test Match,2025-09-20,Samoa,Chile,32,32,America First Field,603231
+2025,Rugby Championship / Tri Nations,2025-09-27,New Zealand,Australia,33,24,Eden Park,603126
+2025,Rugby Championship / Tri Nations,2025-09-27,South Africa,Argentina,67,30,Hollywoodbets Kings Park,603127
+2025,International Test Match,2025-09-27,Chile,Samoa,31,12,Estadio Sausalito,603232
+2025,Rugby Championship / Tri Nations,2025-10-04,Australia,New Zealand,14,28,Optus Stadium,603128
+2025,Rugby Championship / Tri Nations,2025-10-04,Argentina,South Africa,27,29,Allianz Stadium,603129
+2025,International Test Match,2025-10-11,Paraguay,Brazil,39,19,Estadio Héroes de Curupayty,603116
+2025,International Test Match,2025-10-18,Brazil,Paraguay,24,31,Estádio Poliesportivo Du Cambuzano,603117
+2025,International Test Match,2025-10-18,Colombia,Peru,38,24,Estadio Cincuentenario,603245
+2025,International Test Match,2025-10-25,Japan,Australia,15,19,MUFG Stadium,602465
+2025,International Test Match,2025-11-01,England,Australia,25,7,Allianz Stadium,602466
+2025,International Test Match,2025-11-01,South Africa,Japan,61,7,Wembley Stadium,603130
+2025,International Test Match,2025-11-01,Scotland,United States of America,85,0,Scottish Gas Murrayfield,602467
+2025,International Test Match,2025-11-01,Ireland,New Zealand,13,26,Soldier Field,602468
+2025,International Test Match,2025-11-08,Georgia,United States of America,43,30,Adjarabet Arena,603236
+2025,International Test Match,2025-11-08,Ireland,Japan,41,10,Aviva Stadium,602469
+2025,International Test Match,2025-11-08,Romania,Canada,31,21,Stadionul National Arcul de Triumf,603237
+2025,International Test Match,2025-11-08,Portugal,Uruguay,8,26,Estadio Nacional do Jamor,603240
+2025,International Test Match,2025-11-08,Scotland,New Zealand,17,25,Scottish Gas Murrayfield,602470
+2025,International Test Match,2025-11-08,England,Fiji,38,18,Allianz Stadium,602471
+2025,International Test Match,2025-11-08,Italy,Australia,26,19,Bluenergy Stadium,602472
+2025,International Test Match,2025-11-08,Colombia,Mexico,34,25,Estadio Cincuentenario,603246
+2025,International Test Match,2025-11-08,France,South Africa,17,32,Stade de France,602473
+2025,International Test Match,2025-11-09,Wales,Argentina,28,52,Principality Stadium,602474
+2025,International Test Match,2025-11-15,Georgia,Canada,38,17,Adjarabet Arena,603238
+2025,International Test Match,2025-11-15,Italy,South Africa,14,32,Allianz Stadium,602475
+2025,International Test Match,2025-11-15,Romania,United States of America,18,26,Stadionul National Arcul de Triumf,603241
+2025,International Test Match,2025-11-15,Portugal,Hong Kong,58,12,Estadio Nacional do Jamor,603242
+2025,International Test Match,2025-11-15,England,New Zealand,33,19,Allianz Stadium,602476
+2025,International Test Match,2025-11-15,Wales,Japan,24,23,Principality Stadium,602477
+2025,International Test Match,2025-11-15,Ireland,Australia,46,19,Aviva Stadium,602478
+2025,International Test Match,2025-11-15,France,Fiji,34,21,Stade Matmut-Atlantique,602479
+2025,International Test Match,2025-11-16,Scotland,Argentina,24,33,Scottish Gas Murrayfield,602480
+2025,International Test Match,2025-11-22,Georgia,Japan,23,25,Mikheil Meskhi Stadium,602481
+2025,International Test Match,2025-11-22,Romania,Uruguay,21,31,Stadionul National Arcul de Triumf,603243
+2025,International Test Match,2025-11-22,Wales,New Zealand,26,52,Principality Stadium,602482
+2025,International Test Match,2025-11-22,Portugal,Canada,33,27,Estádio Municipal Cidade de Coimbra,603239
+2025,International Test Match,2025-11-22,Spain,Fiji,33,41,Estadio Ciudad de Malaga,603244
+2025,International Test Match,2025-11-22,Ireland,South Africa,13,24,Aviva Stadium,602483
+2025,International Test Match,2025-11-22,Italy,Chile,34,19,Stadio Luigi Ferraris,602484
+2025,International Test Match,2025-11-22,France,Australia,48,33,Stade de France,602485
+2025,International Test Match,2025-11-23,Scotland,Tonga,56,0,Scottish Gas Murrayfield,602486
+2025,International Test Match,2025-11-23,England,Argentina,27,23,Allianz Stadium,602487
+2025,International Test Match,2025-11-29,Wales,South Africa,0,73,Principality Stadium,602488
